@@ -1,7 +1,7 @@
 library(lattice)
 data = read.csv(file='curve.csv')
 
-data$change <- (data$change - 1)
+data$change <- (data$change)
 data$biomass <- data$biomass * -1
 
 envs = unique(data$env)
@@ -11,6 +11,7 @@ for(i in 1:length(envs)) {
   
 }
 
+names = c("glucose","ammonium")
 lines = c(1,2)
 
 nit = data[data$env == 'ammonium',]
@@ -23,7 +24,7 @@ plot(biomass ~ change,data=data,type='n',
   ylab="Nutrient uptake flux")
 lines(biomass ~ change, data=glu,lwd=2,lty=lines[1],col="grey20")
 lines(biomass ~ change, data=nit,lwd=2,lty=lines[2],col="grey20")
-legend("topleft",legend=envs,lty=lines,col="grey20")
+legend("topleft",legend=names,lty=lines,col="grey20")
 
 graphics.off()
 

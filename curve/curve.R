@@ -20,8 +20,8 @@ glu = data[data$env == 'glucose',]
 postscript("curve.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 
 plot(biomass ~ change,data=data,type='n',
-  xlab="Relative change in amino acid requirement",
-  ylab="Nutrient uptake flux")
+  xlab="Amino acid requirement multiplier",
+  ylab=expression(paste("Nutrient uptake flux (",mmol^{-1},g^{-1},hr^{-1},")")))
 lines(biomass ~ change, data=glu,lwd=2,lty=lines[1],col="grey20")
 lines(biomass ~ change, data=nit,lwd=2,lty=lines[2],col="grey20")
 legend("topleft",legend=names,lty=lines,col="grey20")

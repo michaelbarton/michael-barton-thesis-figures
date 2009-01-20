@@ -17,7 +17,7 @@ data <- data.frame(
 )
 
 
-postscript("costs.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("associations.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 barplot(
   data$count,
   names.arg=data$category,

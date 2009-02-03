@@ -17,11 +17,6 @@ data <- data[
         ]
 
 
-postscript("chaning_reactions.eps",width=14,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
-
-old <- par(
-  mfrow=c(1,3)
-)
 
 types <- sort(unique(data$type))
 for(i in 1:length(types)){
@@ -36,16 +31,15 @@ for(i in 1:length(types)){
     }
   }
 
+  postscript(paste("changing_reactions_",i,".eps",sep=""),width=7,height=7,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
   barplot(
     log2(abs(most_changing$diff)),
     names.arg = most_changing$reaction,
     ylim = c(0,max(log2(abs(data$diff))) + 1),
-    xlab = types[i],
+    xlab = "Reaction",
     ylab = "Difference in reaction flux (log.2)",
     col=cols
     )
+  graphics.off()
 }
 
-par(old)
-
-graphics.off()

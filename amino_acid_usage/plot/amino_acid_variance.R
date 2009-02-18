@@ -16,7 +16,10 @@ plot(
   ylab="Median adjusted deviation usage across species"
 )
 
-smooth <- loess(usage ~ weight,data=mad)
+smooth <- loess(
+  usage ~ weight,
+  span = 1,
+  data=mad)
 lines(
   x = sort(mad$weight),
   y = predict(smooth,sort(mad$weight)),

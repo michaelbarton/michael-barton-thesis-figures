@@ -9,9 +9,9 @@ fixed   <- density(weight$cost[weight$fixed == 'true'])
 varying <- density(weight$cost[weight$fixed == 'false'])
 
 
-postscript("results/weight_density.eps",width=9,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/weight_density.eps",width=5,height=9,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 
-old <- par(mfrow=c(1,2))
+old <- par(mfrow=c(2,1))
 
 plot(fixed$x,fixed$y,type = 'n',xlab="Molecular Weight (Da)", ylab="Density")
 lines(all$x,all$y)

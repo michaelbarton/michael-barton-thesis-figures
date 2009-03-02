@@ -8,6 +8,7 @@ postscript("results/mutation_vs_fixed.eps",width=5,height=5,onefile=FALSE,horizo
 plot(
   data$fixed,
   data$mutation,
+  type="n",
   xlab="Percent sites fixed",
   ylab="Mean mutation rate"
 )
@@ -23,15 +24,10 @@ lines(
   col = "grey"
 )
 
-graphics.off()
-
-
-postscript("results/ratio_mutation_vs_fixed.eps",width=10,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
-
-barplot(
-  sort(resid(model)),
-  names.arg = data$acid[order(resid(model))],
-  ylab = "Residual"
+text(
+  x      = data$fixed,
+  y      = data$mutation,
+  labels = data$acid
 )
 
 graphics.off()

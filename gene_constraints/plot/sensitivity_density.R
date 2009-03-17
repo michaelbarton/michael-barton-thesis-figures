@@ -15,8 +15,8 @@ plot(
 )
 
 environments <- unique(data$environment)
-line_types <- c(2,1,3)
-colors <- c("grey20","grey40","black")
+line_types <- c(2,1)
+colors <- c("grey20","grey40")
 
 legend(
   'topright',

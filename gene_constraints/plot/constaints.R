@@ -1,71 +1,88 @@
 rm(list=ls())
 library(reshape)
+library(limma)
 library(lattice)
 
-data <- read.csv('data/gene_constraint.csv')
-data <- data[data$energy == 'respiratory',]
-
-usage <- data.frame(
-  gene        = character(0),
-  type        = character(0),
-  environment = character(0)
-)
-
-genes = unique(data$gene)
-for(i in 1:length(genes)){
-  subset <- data[data$gene == genes[i],]
-
-  if(subset$type[1] == subset$type[2]){
-    usage <- rbind(
-      usage,
-      data.frame(
-        gene        = genes[i],
-        type        = subset$type[1],
-        environment = "both"
-      )
-    )
+find.replace <- function(vector,find,replace.with){
+  if(length(find) == length(replace.with)){
+    for(i in 1:length(find)){
+      index <- which(levels(vector) == find[i])
+      levels(vector)[index] <- replace.with[i]
+    }
   } else {
-    usage <- rbind(
-      usage,
-      data.frame(
-        gene        = genes[i],
-        type        = subset$type[subset$environment == "EX_glc(e)"],
-        environment = "glucose only"
-      ),
-      data.frame(
-        gene        = genes[i],
-        type        = subset$type[subset$environment == "EX_nh4(e)"],
-        environment = "ammonium only"
-      )
-    )
+    stop("Find and replace vectors should be same length")
   }
+  vector
 }
 
-frequency <- aggregate(
-  usage$gene,
-  list(
-    environment = usage$environment,
-    constraint  = usage$type),
-  length)
+data <- read.csv(file='data/gene_constraint.csv',header=TRUE)
+
+melted      <- melt(data,measure.var=c('reaction'))
+convergence <- cast(melted, gene + type ~ environment + variable)
+convergence[,3:5] <- ! is.na(convergence[,3:5])
+
+result <- data.frame(
+  environment = character(0),
+  type        = character(0),
+  counts      = numeric(0)
+)
+
+# Venn type counts of environmental reaction use
+types <- unique(data$type)
+for(i in 1:length(types)){
+  counts <- as.data.frame(vennCounts(subset(convergence,type == types[i])[,3:5])[,1:4])
+  counts <- cbind(counts,environment=1:dim(counts)[1])
+  names(counts)[1:3] <- levels(data$environment)
+
+  # Replace 1s with name of environment
+  for(j in 1:length(unique(data$environment))){
+    counts[counts[,j] == 0,j] <- ""
+    counts[counts[,j] == 1,j] <- names(counts)[j]
+  }
+  
+  # Merge environments to create variable
+  for(c in 1:dim(counts)[1]){
+    counts$environment[c] <- paste(counts[c,1],counts[c,2],counts[c,3],sep="")
+  }
+
+  result <- rbind(result,
+    data.frame(
+      environment = counts$environment,
+      type        = types[i],
+      count      = counts$Count
+    )
+  )
+}
+
+
+# Replace names of environments
+result$environment <- find.replace(result$environment,
+  c('glcnitsul', 'glc',           'nit',            'sul',            'nitsul', 'glcsul', 'glcnit'),
+  c('all',       'glucose\nonly', 'ammonium\nonly', 'sulphate\nonly', 'mixed',  'mixed',  'mixed' )
+)
+
+# Aggregate mixed environments
+result <- cast(melt(result,measure.var=c('count')),fun=sum)
+
+# Order environment types in plot
+ordered_types <- as.ordered(1:5)
+levels(ordered_types)[1] <- "all"
+levels(ordered_types)[2] <- "glucose\nonly"
+levels(ordered_types)[3] <- "ammonium\nonly"
+levels(ordered_types)[4] <- "sulphate\nonly"
+levels(ordered_types)[5] <- "mixed"
+result$environment <- factor(result$environment,levels=ordered_types)
 
 plot <- barchart(
-  x ~ constraint,
-  groups=environment,
-  auto.key=TRUE,
-  xlab="Reaction type",
-  ylab="Frequency",
-  ylim=c(0,160),
-  data=frequency
+  count ~ environment | type,
+  data=subset(result,type != 'at maximum' & environment != "" ),
+  ylab="Reaction frequency",
+  xlab="Environment use",
+  col="grey60"
 )
+plot$y.limits <- c(0,160)
 
-postscript("results/barchart.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
-dev.set()
-
-trellis.par.set("superpose.polygon", 
-  list(
-    col = c("grey75","grey55","grey35")
-  )
-)
-
+postscript("results/constraints.eps",width=12,height=4,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()
+

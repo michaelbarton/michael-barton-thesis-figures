@@ -31,7 +31,6 @@ result <- data.frame(
 types <- unique(data$type)
 for(i in 1:length(types)){
   counts <- as.data.frame(vennCounts(subset(convergence,type == types[i])[,3:5])[,1:4])
-  counts <- cbind(counts,environment=1:dim(counts)[1])
   names(counts)[1:3] <- levels(data$environment)
 
   # Replace 1s with name of environment
@@ -41,6 +40,7 @@ for(i in 1:length(types)){
   }
   
   # Merge environments to create variable
+  counts <- cbind(counts,environment=1:dim(counts)[1])
   for(c in 1:dim(counts)[1]){
     counts$environment[c] <- paste(counts[c,1],counts[c,2],counts[c,3],sep="")
   }

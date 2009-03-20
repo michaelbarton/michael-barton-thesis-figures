@@ -1,1049 +1,787 @@
-gene,environment,energy,type,reaction,
-YAL012W,EX_nh4(e),respiratory,zero flux,277,
-YAL012W,EX_nh4(e),fermentative,at maximum,277,
-YAL012W,EX_glc(e),respiratory,zero flux,277,
-YAL012W,EX_glc(e),fermentative,zero flux,277,
-YAR015W,EX_nh4(e),respiratory,constrained,1053,
-YAR015W,EX_nh4(e),fermentative,constrained,1053,
-YAR015W,EX_glc(e),respiratory,constrained,1053,
-YAR015W,EX_glc(e),fermentative,constrained,1053,
-YAR035W,EX_nh4(e),respiratory,zero flux,265,
-YAR035W,EX_nh4(e),fermentative,zero flux,265,
-YAR035W,EX_glc(e),respiratory,zero flux,265,
-YAR035W,EX_glc(e),fermentative,variable,265,
-YAR071W,EX_nh4(e),respiratory,zero flux,71,
-YAR071W,EX_nh4(e),fermentative,zero flux,71,
-YAR071W,EX_glc(e),respiratory,zero flux,71,
-YAR071W,EX_glc(e),fermentative,zero flux,71,
-YBL013W,EX_nh4(e),respiratory,zero flux,595,
-YBL013W,EX_nh4(e),fermentative,zero flux,595,
-YBL013W,EX_glc(e),respiratory,zero flux,595,
-YBL013W,EX_glc(e),fermentative,zero flux,595,
-YBL015W,EX_nh4(e),respiratory,variable,59,
-YBL015W,EX_nh4(e),fermentative,variable,59,
-YBL015W,EX_glc(e),respiratory,variable,59,
-YBL015W,EX_glc(e),fermentative,variable,59,
-YBL033C,EX_nh4(e),respiratory,zero flux,707,
-YBL033C,EX_nh4(e),fermentative,zero flux,707,
-YBL033C,EX_glc(e),respiratory,zero flux,707,
-YBL033C,EX_glc(e),fermentative,zero flux,707,
-YBL042C,EX_nh4(e),respiratory,zero flux,1250,
-YBL042C,EX_nh4(e),fermentative,zero flux,1250,
-YBL042C,EX_glc(e),respiratory,zero flux,1250,
-YBL042C,EX_glc(e),fermentative,zero flux,1250,
-YBL076C,EX_nh4(e),respiratory,zero flux,780,
-YBL076C,EX_nh4(e),fermentative,zero flux,780,
-YBL076C,EX_glc(e),respiratory,zero flux,780,
-YBL076C,EX_glc(e),fermentative,zero flux,780,
-YBL098W,EX_nh4(e),respiratory,zero flux,807,
-YBL098W,EX_nh4(e),fermentative,zero flux,807,
-YBL098W,EX_glc(e),respiratory,zero flux,807,
-YBL098W,EX_glc(e),fermentative,zero flux,807,
-YBR006W,EX_nh4(e),respiratory,zero flux,1165,
-YBR006W,EX_nh4(e),fermentative,zero flux,1165,
-YBR006W,EX_glc(e),respiratory,zero flux,1165,
-YBR006W,EX_glc(e),fermentative,zero flux,1165,
-YBR011C,EX_nh4(e),respiratory,variable,1037,
-YBR011C,EX_nh4(e),fermentative,variable,1037,
-YBR011C,EX_glc(e),respiratory,constrained,1037,
-YBR011C,EX_glc(e),fermentative,constrained,1037,
-YBR019C,EX_nh4(e),respiratory,constrained,1233,
-YBR019C,EX_nh4(e),fermentative,constrained,1233,
-YBR019C,EX_glc(e),respiratory,zero flux,1233,
-YBR019C,EX_glc(e),fermentative,constrained,1233,
-YBR020W,EX_nh4(e),respiratory,zero flux,633,
-YBR020W,EX_nh4(e),fermentative,zero flux,633,
-YBR020W,EX_glc(e),respiratory,zero flux,633,
-YBR020W,EX_glc(e),fermentative,zero flux,633,
-YBR021W,EX_nh4(e),respiratory,zero flux,1243,
-YBR021W,EX_nh4(e),fermentative,zero flux,1243,
-YBR021W,EX_glc(e),respiratory,zero flux,1243,
-YBR021W,EX_glc(e),fermentative,zero flux,1243,
-YBR034C,EX_nh4(e),respiratory,zero flux,168,
-YBR034C,EX_nh4(e),fermentative,zero flux,168,
-YBR034C,EX_glc(e),respiratory,zero flux,168,
-YBR034C,EX_glc(e),fermentative,zero flux,168,
-YBR132C,EX_nh4(e),respiratory,zero flux,261,
-YBR132C,EX_nh4(e),fermentative,zero flux,261,
-YBR132C,EX_glc(e),respiratory,zero flux,261,
-YBR132C,EX_glc(e),fermentative,zero flux,261,
-YBR166C,EX_nh4(e),respiratory,variable,1045,
-YBR166C,EX_nh4(e),fermentative,variable,1045,
-YBR166C,EX_glc(e),respiratory,variable,1045,
-YBR166C,EX_glc(e),fermentative,variable,1045,
-YBR176W,EX_nh4(e),respiratory,zero flux,878,
-YBR176W,EX_nh4(e),fermentative,zero flux,878,
-YBR176W,EX_glc(e),respiratory,zero flux,878,
-YBR176W,EX_glc(e),fermentative,zero flux,878,
-YBR248C,EX_nh4(e),respiratory,constrained,775,
-YBR248C,EX_nh4(e),fermentative,constrained,775,
-YBR248C,EX_glc(e),respiratory,constrained,775,
-YBR248C,EX_glc(e),fermentative,constrained,775,
-YBR252W,EX_nh4(e),respiratory,variable,360,
-YBR252W,EX_nh4(e),fermentative,variable,360,
-YBR252W,EX_glc(e),respiratory,zero flux,360,
-YBR252W,EX_glc(e),fermentative,zero flux,360,
-YBR256C,EX_nh4(e),respiratory,zero flux,1109,
-YBR256C,EX_nh4(e),fermentative,zero flux,1109,
-YBR256C,EX_glc(e),respiratory,zero flux,1109,
-YBR256C,EX_glc(e),fermentative,zero flux,1109,
-YBR263W,EX_nh4(e),respiratory,variable,657,
-YBR263W,EX_nh4(e),fermentative,variable,657,
-YBR263W,EX_glc(e),respiratory,variable,657,
-YBR263W,EX_glc(e),fermentative,variable,657,
-YBR265W,EX_nh4(e),respiratory,zero flux,16,
-YBR265W,EX_nh4(e),fermentative,zero flux,16,
-YBR265W,EX_glc(e),respiratory,zero flux,16,
-YBR265W,EX_glc(e),fermentative,zero flux,16,
-YCL004W,EX_nh4(e),respiratory,constrained,222,
-YCL004W,EX_nh4(e),fermentative,zero flux,222,
-YCL004W,EX_glc(e),respiratory,constrained,222,
-YCL004W,EX_glc(e),fermentative,zero flux,222,
-YCL018W,EX_nh4(e),respiratory,constrained,797,
-YCL018W,EX_nh4(e),fermentative,constrained,797,
-YCL018W,EX_glc(e),respiratory,constrained,797,
-YCL018W,EX_glc(e),fermentative,constrained,797,
-YCR005C,EX_nh4(e),respiratory,zero flux,271,
-YCR005C,EX_nh4(e),fermentative,constrained,271,
-YCR005C,EX_glc(e),respiratory,constrained,271,
-YCR005C,EX_glc(e),fermentative,zero flux,271,
-YCR012W,EX_nh4(e),respiratory,variable,1003,
-YCR012W,EX_nh4(e),fermentative,variable,1003,
-YCR012W,EX_glc(e),respiratory,variable,1003,
-YCR012W,EX_glc(e),fermentative,variable,1003,
-YCR024C,EX_nh4(e),respiratory,zero flux,174,
-YCR024C,EX_nh4(e),fermentative,zero flux,174,
-YCR024C,EX_glc(e),respiratory,zero flux,174,
-YCR024C,EX_glc(e),fermentative,zero flux,174,
-YCR028C,EX_nh4(e),respiratory,zero flux,1034,
-YCR028C,EX_nh4(e),fermentative,variable,1034,
-YCR028C,EX_glc(e),respiratory,zero flux,1034,
-YCR028C,EX_glc(e),fermentative,zero flux,1034,
-YCR032W,EX_nh4(e),respiratory,variable,78,
-YCR032W,EX_nh4(e),fermentative,variable,78,
-YCR032W,EX_glc(e),respiratory,zero flux,78,
-YCR032W,EX_glc(e),fermentative,zero flux,78,
-YDL022W,EX_nh4(e),respiratory,variable,618,
-YDL022W,EX_nh4(e),fermentative,variable,618,
-YDL022W,EX_glc(e),respiratory,variable,618,
-YDL022W,EX_glc(e),fermentative,variable,618,
-YDL045C,EX_nh4(e),respiratory,zero flux,596,
-YDL045C,EX_nh4(e),fermentative,zero flux,596,
-YDL045C,EX_glc(e),respiratory,zero flux,596,
-YDL045C,EX_glc(e),fermentative,zero flux,596,
-YDL052C,EX_nh4(e),respiratory,constrained,104,
-YDL052C,EX_nh4(e),fermentative,constrained,104,
-YDL052C,EX_glc(e),respiratory,constrained,104,
-YDL052C,EX_glc(e),fermentative,constrained,104,
-YDL055C,EX_nh4(e),respiratory,constrained,833,
-YDL055C,EX_nh4(e),fermentative,constrained,833,
-YDL055C,EX_glc(e),respiratory,constrained,833,
-YDL055C,EX_glc(e),fermentative,constrained,833,
-YDL066W,EX_nh4(e),respiratory,zero flux,771,
-YDL066W,EX_nh4(e),fermentative,constrained,771,
-YDL066W,EX_glc(e),respiratory,variable,771,
-YDL066W,EX_glc(e),fermentative,variable,771,
-YDL078C,EX_nh4(e),respiratory,constrained,844,
-YDL078C,EX_nh4(e),fermentative,constrained,844,
-YDL078C,EX_glc(e),respiratory,constrained,844,
-YDL078C,EX_glc(e),fermentative,constrained,844,
-YDL100C,EX_nh4(e),respiratory,zero flux,341,
-YDL100C,EX_nh4(e),fermentative,zero flux,341,
-YDL100C,EX_glc(e),respiratory,zero flux,341,
-YDL100C,EX_glc(e),fermentative,zero flux,341,
-YDL103C,EX_nh4(e),respiratory,zero flux,1232,
-YDL103C,EX_nh4(e),fermentative,zero flux,1232,
-YDL103C,EX_glc(e),respiratory,zero flux,1232,
-YDL103C,EX_glc(e),fermentative,zero flux,1232,
-YDL142C,EX_nh4(e),respiratory,zero flux,249,
-YDL142C,EX_nh4(e),fermentative,zero flux,249,
-YDL142C,EX_glc(e),respiratory,zero flux,249,
-YDL142C,EX_glc(e),fermentative,zero flux,249,
-YDL171C,EX_nh4(e),respiratory,zero flux,677,
-YDL171C,EX_nh4(e),fermentative,zero flux,677,
-YDL171C,EX_glc(e),respiratory,zero flux,677,
-YDL171C,EX_glc(e),fermentative,variable,677,
-YDL174C,EX_nh4(e),respiratory,zero flux,362,
-YDL174C,EX_nh4(e),fermentative,zero flux,362,
-YDL174C,EX_glc(e),respiratory,zero flux,362,
-YDL174C,EX_glc(e),fermentative,zero flux,362,
-YDL205C,EX_nh4(e),respiratory,zero flux,750,
-YDL205C,EX_nh4(e),fermentative,zero flux,750,
-YDL205C,EX_glc(e),respiratory,zero flux,750,
-YDL205C,EX_glc(e),fermentative,zero flux,750,
-YDL215C,EX_nh4(e),respiratory,zero flux,672,
-YDL215C,EX_nh4(e),fermentative,zero flux,672,
-YDL215C,EX_glc(e),respiratory,variable,672,
-YDL215C,EX_glc(e),fermentative,zero flux,672,
-YDR007W,EX_nh4(e),respiratory,constrained,1051,
-YDR007W,EX_nh4(e),fermentative,constrained,1051,
-YDR007W,EX_glc(e),respiratory,constrained,1051,
-YDR007W,EX_glc(e),fermentative,constrained,1051,
-YDR037W,EX_nh4(e),respiratory,zero flux,819,
-YDR037W,EX_nh4(e),fermentative,zero flux,819,
-YDR037W,EX_glc(e),respiratory,zero flux,819,
-YDR037W,EX_glc(e),fermentative,zero flux,819,
-YDR044W,EX_nh4(e),respiratory,zero flux,258,
-YDR044W,EX_nh4(e),fermentative,zero flux,258,
-YDR044W,EX_glc(e),respiratory,zero flux,258,
-YDR044W,EX_glc(e),fermentative,zero flux,258,
-YDR047W,EX_nh4(e),respiratory,zero flux,1241,
-YDR047W,EX_nh4(e),fermentative,zero flux,1241,
-YDR047W,EX_glc(e),respiratory,zero flux,1241,
-YDR047W,EX_glc(e),fermentative,zero flux,1241,
-YDR050C,EX_nh4(e),respiratory,variable,1206,
-YDR050C,EX_nh4(e),fermentative,variable,1206,
-YDR050C,EX_glc(e),respiratory,variable,1206,
-YDR050C,EX_glc(e),fermentative,variable,1206,
-YDR111C,EX_nh4(e),respiratory,variable,122,
-YDR111C,EX_nh4(e),fermentative,constrained,122,
-YDR111C,EX_glc(e),respiratory,variable,122,
-YDR111C,EX_glc(e),fermentative,constrained,122,
-YDR147W,EX_nh4(e),respiratory,zero flux,381,
-YDR147W,EX_nh4(e),fermentative,zero flux,381,
-YDR147W,EX_glc(e),respiratory,zero flux,381,
-YDR147W,EX_glc(e),fermentative,zero flux,381,
-YDR158W,EX_nh4(e),respiratory,variable,169,
-YDR158W,EX_nh4(e),fermentative,variable,169,
-YDR158W,EX_glc(e),respiratory,variable,169,
-YDR158W,EX_glc(e),fermentative,variable,169,
-YDR232W,EX_nh4(e),respiratory,zero flux,121,
-YDR232W,EX_nh4(e),fermentative,zero flux,121,
-YDR232W,EX_glc(e),respiratory,zero flux,121,
-YDR232W,EX_glc(e),fermentative,zero flux,121,
-YDR234W,EX_nh4(e),respiratory,constrained,725,
-YDR234W,EX_nh4(e),fermentative,variable,725,
-YDR234W,EX_glc(e),respiratory,constrained,725,
-YDR234W,EX_glc(e),fermentative,constrained,725,
-YDR256C,EX_nh4(e),respiratory,constrained,217,
-YDR256C,EX_nh4(e),fermentative,zero flux,217,
-YDR256C,EX_glc(e),respiratory,zero flux,217,
-YDR256C,EX_glc(e),fermentative,zero flux,217,
-YDR268W,EX_nh4(e),respiratory,zero flux,1219,
-YDR268W,EX_nh4(e),fermentative,zero flux,1219,
-YDR268W,EX_glc(e),respiratory,zero flux,1219,
-YDR268W,EX_glc(e),fermentative,zero flux,1219,
-YDR272W,EX_nh4(e),respiratory,zero flux,690,
-YDR272W,EX_nh4(e),fermentative,zero flux,690,
-YDR272W,EX_glc(e),respiratory,zero flux,690,
-YDR272W,EX_glc(e),fermentative,zero flux,690,
-YDR300C,EX_nh4(e),respiratory,variable,669,
-YDR300C,EX_nh4(e),fermentative,variable,669,
-YDR300C,EX_glc(e),respiratory,variable,669,
-YDR300C,EX_glc(e),fermentative,variable,669,
-YDR305C,EX_nh4(e),respiratory,zero flux,153,
-YDR305C,EX_nh4(e),fermentative,zero flux,153,
-YDR305C,EX_glc(e),respiratory,zero flux,153,
-YDR305C,EX_glc(e),fermentative,zero flux,153,
-YDR321W,EX_nh4(e),respiratory,zero flux,170,
-YDR321W,EX_nh4(e),fermentative,zero flux,170,
-YDR321W,EX_glc(e),respiratory,zero flux,170,
-YDR321W,EX_glc(e),fermentative,zero flux,170,
-YDR341C,EX_nh4(e),respiratory,zero flux,164,
-YDR341C,EX_nh4(e),fermentative,zero flux,164,
-YDR341C,EX_glc(e),respiratory,zero flux,164,
-YDR341C,EX_glc(e),fermentative,zero flux,164,
-YDR353W,EX_nh4(e),respiratory,constrained,1207,
-YDR353W,EX_nh4(e),fermentative,constrained,1207,
-YDR353W,EX_glc(e),respiratory,constrained,1207,
-YDR353W,EX_glc(e),fermentative,variable,1207,
-YDR354W,EX_nh4(e),respiratory,constrained,151,
-YDR354W,EX_nh4(e),fermentative,constrained,151,
-YDR354W,EX_glc(e),respiratory,constrained,151,
-YDR354W,EX_glc(e),fermentative,constrained,151,
-YDR380W,EX_nh4(e),respiratory,zero flux,786,
-YDR380W,EX_nh4(e),fermentative,zero flux,786,
-YDR380W,EX_glc(e),respiratory,zero flux,786,
-YDR380W,EX_glc(e),fermentative,zero flux,786,
-YDR408C,EX_nh4(e),respiratory,constrained,640,
-YDR408C,EX_nh4(e),fermentative,constrained,640,
-YDR408C,EX_glc(e),respiratory,constrained,640,
-YDR408C,EX_glc(e),fermentative,constrained,640,
-YDR481C,EX_nh4(e),respiratory,zero flux,120,
-YDR481C,EX_nh4(e),fermentative,zero flux,120,
-YDR481C,EX_glc(e),respiratory,zero flux,120,
-YDR481C,EX_glc(e),fermentative,zero flux,120,
-YDR530C,EX_nh4(e),respiratory,zero flux,191,
-YDR530C,EX_nh4(e),fermentative,zero flux,191,
-YDR530C,EX_glc(e),respiratory,zero flux,191,
-YDR530C,EX_glc(e),fermentative,zero flux,191,
-YDR531W,EX_nh4(e),respiratory,zero flux,1033,
-YDR531W,EX_nh4(e),fermentative,zero flux,1033,
-YDR531W,EX_glc(e),respiratory,zero flux,1033,
-YDR531W,EX_glc(e),fermentative,zero flux,1033,
-YDR538W,EX_nh4(e),respiratory,zero flux,959,
-YDR538W,EX_nh4(e),fermentative,zero flux,959,
-YDR538W,EX_glc(e),respiratory,zero flux,959,
-YDR538W,EX_glc(e),fermentative,zero flux,959,
-YEL011W,EX_nh4(e),respiratory,variable,643,
-YEL011W,EX_nh4(e),fermentative,variable,643,
-YEL011W,EX_glc(e),respiratory,variable,643,
-YEL011W,EX_glc(e),fermentative,variable,643,
-YEL021W,EX_nh4(e),respiratory,constrained,957,
-YEL021W,EX_nh4(e),fermentative,constrained,957,
-YEL021W,EX_glc(e),respiratory,constrained,957,
-YEL021W,EX_glc(e),fermentative,constrained,957,
-YEL042W,EX_nh4(e),respiratory,zero flux,901,
-YEL042W,EX_nh4(e),fermentative,zero flux,901,
-YEL042W,EX_glc(e),respiratory,zero flux,901,
-YEL042W,EX_glc(e),fermentative,zero flux,901,
-YEL046C,EX_nh4(e),respiratory,zero flux,1185,
-YEL046C,EX_nh4(e),fermentative,variable,1185,
-YEL046C,EX_glc(e),respiratory,variable,1185,
-YEL046C,EX_glc(e),fermentative,zero flux,1185,
-YEL047C,EX_nh4(e),respiratory,zero flux,601,
-YEL047C,EX_nh4(e),fermentative,at maximum,601,
-YEL047C,EX_glc(e),respiratory,zero flux,601,
-YEL047C,EX_glc(e),fermentative,at maximum,601,
-YER003C,EX_nh4(e),respiratory,constrained,834,
-YER003C,EX_nh4(e),fermentative,constrained,834,
-YER003C,EX_glc(e),respiratory,constrained,834,
-YER003C,EX_glc(e),fermentative,constrained,834,
-YER014W,EX_nh4(e),respiratory,zero flux,1048,
-YER014W,EX_nh4(e),fermentative,zero flux,1048,
-YER014W,EX_glc(e),respiratory,zero flux,1048,
-YER014W,EX_glc(e),fermentative,zero flux,1048,
-YER043C,EX_nh4(e),respiratory,constrained,109,
-YER043C,EX_nh4(e),fermentative,constrained,109,
-YER043C,EX_glc(e),respiratory,constrained,109,
-YER043C,EX_glc(e),fermentative,constrained,109,
-YER052C,EX_nh4(e),respiratory,variable,180,
-YER052C,EX_nh4(e),fermentative,variable,180,
-YER052C,EX_glc(e),respiratory,variable,180,
-YER052C,EX_glc(e),fermentative,variable,180,
-YER053C,EX_nh4(e),respiratory,zero flux,1027,
-YER053C,EX_nh4(e),fermentative,zero flux,1027,
-YER053C,EX_glc(e),respiratory,zero flux,1027,
-YER053C,EX_glc(e),fermentative,zero flux,1027,
-YER055C,EX_nh4(e),respiratory,constrained,195,
-YER055C,EX_nh4(e),fermentative,constrained,195,
-YER055C,EX_glc(e),respiratory,constrained,195,
-YER055C,EX_glc(e),fermentative,constrained,195,
-YER065C,EX_nh4(e),respiratory,zero flux,773,
-YER065C,EX_nh4(e),fermentative,zero flux,773,
-YER065C,EX_glc(e),respiratory,zero flux,773,
-YER065C,EX_glc(e),fermentative,zero flux,773,
-YER086W,EX_nh4(e),respiratory,constrained,1187,
-YER086W,EX_nh4(e),fermentative,constrained,1187,
-YER086W,EX_glc(e),respiratory,constrained,1187,
-YER086W,EX_glc(e),fermentative,constrained,1187,
-YER183C,EX_nh4(e),respiratory,zero flux,605,
-YER183C,EX_nh4(e),fermentative,zero flux,605,
-YER183C,EX_glc(e),respiratory,zero flux,605,
-YER183C,EX_glc(e),fermentative,zero flux,605,
-YFL017C,EX_nh4(e),respiratory,zero flux,53,
-YFL017C,EX_nh4(e),fermentative,constrained,53,
-YFL017C,EX_glc(e),respiratory,zero flux,53,
-YFL017C,EX_glc(e),fermentative,constrained,53,
-YFL030W,EX_nh4(e),respiratory,constrained,106,
-YFL030W,EX_nh4(e),fermentative,constrained,106,
-YFL030W,EX_glc(e),respiratory,variable,106,
-YFL030W,EX_glc(e),fermentative,constrained,106,
-YFL045C,EX_nh4(e),respiratory,constrained,1028,
-YFL045C,EX_nh4(e),fermentative,constrained,1028,
-YFL045C,EX_glc(e),respiratory,constrained,1028,
-YFL045C,EX_glc(e),fermentative,constrained,1028,
-YFR025C,EX_nh4(e),respiratory,constrained,744,
-YFR025C,EX_nh4(e),fermentative,constrained,744,
-YFR025C,EX_glc(e),respiratory,constrained,744,
-YFR025C,EX_glc(e),fermentative,constrained,744,
-YFR055W,EX_nh4(e),respiratory,constrained,278,
-YFR055W,EX_nh4(e),fermentative,zero flux,278,
-YFR055W,EX_glc(e),respiratory,zero flux,278,
-YFR055W,EX_glc(e),fermentative,zero flux,278,
-YGL012W,EX_nh4(e),respiratory,constrained,207,
-YGL012W,EX_nh4(e),fermentative,constrained,207,
-YGL012W,EX_glc(e),respiratory,constrained,207,
-YGL012W,EX_glc(e),fermentative,constrained,207,
-YGL026C,EX_nh4(e),respiratory,constrained,1217,
-YGL026C,EX_nh4(e),fermentative,constrained,1217,
-YGL026C,EX_glc(e),respiratory,constrained,1217,
-YGL026C,EX_glc(e),fermentative,constrained,1217,
-YGL040C,EX_nh4(e),respiratory,zero flux,1039,
-YGL040C,EX_nh4(e),fermentative,zero flux,1039,
-YGL040C,EX_glc(e),respiratory,zero flux,1039,
-YGL040C,EX_glc(e),fermentative,zero flux,1039,
-YGL067W,EX_nh4(e),respiratory,zero flux,886,
-YGL067W,EX_nh4(e),fermentative,zero flux,886,
-YGL067W,EX_glc(e),respiratory,zero flux,886,
-YGL067W,EX_glc(e),fermentative,zero flux,886,
-YGL077C,EX_nh4(e),respiratory,zero flux,236,
-YGL077C,EX_nh4(e),fermentative,zero flux,236,
-YGL077C,EX_glc(e),respiratory,zero flux,236,
-YGL077C,EX_glc(e),fermentative,zero flux,236,
-YGL148W,EX_nh4(e),respiratory,constrained,239,
-YGL148W,EX_nh4(e),fermentative,constrained,239,
-YGL148W,EX_glc(e),respiratory,constrained,239,
-YGL148W,EX_glc(e),fermentative,constrained,239,
-YGL184C,EX_nh4(e),respiratory,constrained,279,
-YGL184C,EX_nh4(e),fermentative,zero flux,279,
-YGL184C,EX_glc(e),respiratory,zero flux,279,
-YGL184C,EX_glc(e),fermentative,zero flux,279,
-YGL245W,EX_nh4(e),respiratory,zero flux,678,
-YGL245W,EX_nh4(e),fermentative,zero flux,678,
-YGL245W,EX_glc(e),respiratory,zero flux,678,
-YGL245W,EX_glc(e),fermentative,zero flux,678,
-YGR007W,EX_nh4(e),respiratory,zero flux,991,
-YGR007W,EX_nh4(e),fermentative,zero flux,991,
-YGR007W,EX_glc(e),respiratory,zero flux,991,
-YGR007W,EX_glc(e),fermentative,zero flux,991,
-YGR010W,EX_nh4(e),respiratory,zero flux,915,
-YGR010W,EX_nh4(e),fermentative,zero flux,915,
-YGR010W,EX_glc(e),respiratory,constrained,915,
-YGR010W,EX_glc(e),fermentative,zero flux,915,
-YGR012W,EX_nh4(e),respiratory,constrained,276,
-YGR012W,EX_nh4(e),fermentative,constrained,276,
-YGR012W,EX_glc(e),respiratory,constrained,276,
-YGR012W,EX_glc(e),fermentative,constrained,276,
-YGR019W,EX_nh4(e),respiratory,zero flux,39,
-YGR019W,EX_nh4(e),fermentative,zero flux,39,
-YGR019W,EX_glc(e),respiratory,zero flux,39,
-YGR019W,EX_glc(e),fermentative,zero flux,39,
-YGR061C,EX_nh4(e),respiratory,constrained,1055,
-YGR061C,EX_nh4(e),fermentative,constrained,1055,
-YGR061C,EX_glc(e),respiratory,constrained,1055,
-YGR061C,EX_glc(e),fermentative,constrained,1055,
-YGR088W,EX_nh4(e),respiratory,variable,216,
-YGR088W,EX_nh4(e),fermentative,zero flux,216,
-YGR088W,EX_glc(e),respiratory,zero flux,216,
-YGR088W,EX_glc(e),fermentative,constrained,216,
-YGR155W,EX_nh4(e),respiratory,zero flux,281,
-YGR155W,EX_nh4(e),fermentative,zero flux,281,
-YGR155W,EX_glc(e),respiratory,zero flux,281,
-YGR155W,EX_glc(e),fermentative,zero flux,281,
-YGR157W,EX_nh4(e),respiratory,constrained,992,
-YGR157W,EX_nh4(e),fermentative,constrained,992,
-YGR157W,EX_glc(e),respiratory,constrained,992,
-YGR157W,EX_glc(e),fermentative,constrained,992,
-YGR171C,EX_nh4(e),respiratory,zero flux,853,
-YGR171C,EX_nh4(e),fermentative,zero flux,853,
-YGR171C,EX_glc(e),respiratory,zero flux,853,
-YGR171C,EX_glc(e),fermentative,zero flux,853,
-YGR175C,EX_nh4(e),respiratory,variable,1161,
-YGR175C,EX_nh4(e),fermentative,constrained,1161,
-YGR175C,EX_glc(e),respiratory,constrained,1161,
-YGR175C,EX_glc(e),fermentative,constrained,1161,
-YGR185C,EX_nh4(e),respiratory,zero flux,1227,
-YGR185C,EX_nh4(e),fermentative,zero flux,1227,
-YGR185C,EX_glc(e),respiratory,zero flux,1227,
-YGR185C,EX_glc(e),fermentative,zero flux,1227,
-YGR194C,EX_nh4(e),respiratory,zero flux,1259,
-YGR194C,EX_nh4(e),fermentative,zero flux,1259,
-YGR194C,EX_glc(e),respiratory,zero flux,1259,
-YGR194C,EX_glc(e),fermentative,zero flux,1259,
-YGR202C,EX_nh4(e),respiratory,zero flux,234,
-YGR202C,EX_nh4(e),fermentative,zero flux,234,
-YGR202C,EX_glc(e),respiratory,zero flux,234,
-YGR202C,EX_glc(e),fermentative,zero flux,234,
-YGR208W,EX_nh4(e),respiratory,variable,1072,
-YGR208W,EX_nh4(e),fermentative,variable,1072,
-YGR208W,EX_glc(e),respiratory,variable,1072,
-YGR208W,EX_glc(e),fermentative,variable,1072,
-YGR255C,EX_nh4(e),respiratory,zero flux,956,
-YGR255C,EX_nh4(e),fermentative,zero flux,956,
-YGR255C,EX_glc(e),respiratory,zero flux,956,
-YGR255C,EX_glc(e),fermentative,zero flux,956,
-YGR264C,EX_nh4(e),respiratory,zero flux,852,
-YGR264C,EX_nh4(e),fermentative,zero flux,852,
-YGR264C,EX_glc(e),respiratory,zero flux,852,
-YGR264C,EX_glc(e),fermentative,zero flux,852,
-YGR267C,EX_nh4(e),respiratory,zero flux,708,
-YGR267C,EX_nh4(e),fermentative,zero flux,708,
-YGR267C,EX_glc(e),respiratory,zero flux,708,
-YGR267C,EX_glc(e),fermentative,zero flux,708,
-YGR282C,EX_nh4(e),respiratory,zero flux,1,
-YGR282C,EX_nh4(e),fermentative,zero flux,1,
-YGR282C,EX_glc(e),respiratory,zero flux,1,
-YGR282C,EX_glc(e),fermentative,zero flux,1,
-YGR286C,EX_nh4(e),respiratory,zero flux,204,
-YGR286C,EX_nh4(e),fermentative,zero flux,204,
-YGR286C,EX_glc(e),respiratory,zero flux,204,
-YGR286C,EX_glc(e),fermentative,zero flux,204,
-YHL016C,EX_nh4(e),respiratory,zero flux,1244,
-YHL016C,EX_nh4(e),fermentative,zero flux,1244,
-YHL016C,EX_glc(e),respiratory,constrained,1244,
-YHL016C,EX_glc(e),fermentative,constrained,1244,
-YHL032C,EX_nh4(e),respiratory,zero flux,689,
-YHL032C,EX_nh4(e),fermentative,zero flux,689,
-YHL032C,EX_glc(e),respiratory,zero flux,689,
-YHL032C,EX_glc(e),fermentative,zero flux,689,
-YHR007C,EX_nh4(e),respiratory,variable,816,
-YHR007C,EX_nh4(e),fermentative,constrained,816,
-YHR007C,EX_glc(e),respiratory,constrained,816,
-YHR007C,EX_glc(e),fermentative,constrained,816,
-YHR018C,EX_nh4(e),respiratory,constrained,162,
-YHR018C,EX_nh4(e),fermentative,constrained,162,
-YHR018C,EX_glc(e),respiratory,constrained,162,
-YHR018C,EX_glc(e),fermentative,constrained,162,
-YHR019C,EX_nh4(e),respiratory,zero flux,173,
-YHR019C,EX_nh4(e),fermentative,zero flux,173,
-YHR019C,EX_glc(e),respiratory,zero flux,173,
-YHR019C,EX_glc(e),fermentative,zero flux,173,
-YHR025W,EX_nh4(e),respiratory,variable,764,
-YHR025W,EX_nh4(e),fermentative,zero flux,764,
-YHR025W,EX_glc(e),respiratory,zero flux,764,
-YHR025W,EX_glc(e),fermentative,variable,764,
-YHR046C,EX_nh4(e),respiratory,constrained,862,
-YHR046C,EX_nh4(e),fermentative,constrained,862,
-YHR046C,EX_glc(e),respiratory,constrained,862,
-YHR046C,EX_glc(e),fermentative,constrained,862,
-YHR063C,EX_nh4(e),respiratory,zero flux,351,
-YHR063C,EX_nh4(e),fermentative,zero flux,351,
-YHR063C,EX_glc(e),respiratory,zero flux,351,
-YHR063C,EX_glc(e),fermentative,zero flux,351,
-YHR068W,EX_nh4(e),respiratory,zero flux,361,
-YHR068W,EX_nh4(e),fermentative,zero flux,361,
-YHR068W,EX_glc(e),respiratory,zero flux,361,
-YHR068W,EX_glc(e),fermentative,zero flux,361,
-YHR072W,EX_nh4(e),respiratory,variable,817,
-YHR072W,EX_nh4(e),fermentative,constrained,817,
-YHR072W,EX_glc(e),respiratory,constrained,817,
-YHR072W,EX_glc(e),fermentative,constrained,817,
-YHR091C,EX_nh4(e),respiratory,zero flux,165,
-YHR091C,EX_nh4(e),fermentative,zero flux,165,
-YHR091C,EX_glc(e),respiratory,zero flux,165,
-YHR091C,EX_glc(e),fermentative,zero flux,165,
-YHR106W,EX_nh4(e),respiratory,zero flux,1208,
-YHR106W,EX_nh4(e),fermentative,zero flux,1208,
-YHR106W,EX_glc(e),respiratory,zero flux,1208,
-YHR106W,EX_glc(e),fermentative,zero flux,1208,
-YHR128W,EX_nh4(e),respiratory,zero flux,1242,
-YHR128W,EX_nh4(e),fermentative,zero flux,1242,
-YHR128W,EX_glc(e),respiratory,zero flux,1242,
-YHR128W,EX_glc(e),fermentative,zero flux,1242,
-YHR190W,EX_nh4(e),respiratory,variable,1162,
-YHR190W,EX_nh4(e),fermentative,constrained,1162,
-YHR190W,EX_glc(e),respiratory,constrained,1162,
-YHR190W,EX_glc(e),fermentative,constrained,1162,
-YIL020C,EX_nh4(e),respiratory,constrained,1056,
-YIL020C,EX_nh4(e),fermentative,constrained,1056,
-YIL020C,EX_glc(e),respiratory,constrained,1056,
-YIL020C,EX_glc(e),fermentative,constrained,1056,
-YIL078W,EX_nh4(e),respiratory,zero flux,1189,
-YIL078W,EX_nh4(e),fermentative,zero flux,1189,
-YIL078W,EX_glc(e),respiratory,zero flux,1189,
-YIL078W,EX_glc(e),fermentative,zero flux,1189,
-YIL094C,EX_nh4(e),respiratory,constrained,742,
-YIL094C,EX_nh4(e),fermentative,variable,742,
-YIL094C,EX_glc(e),respiratory,constrained,742,
-YIL094C,EX_glc(e),fermentative,constrained,742,
-YIL116W,EX_nh4(e),respiratory,constrained,765,
-YIL116W,EX_nh4(e),fermentative,constrained,765,
-YIL116W,EX_glc(e),respiratory,constrained,765,
-YIL116W,EX_glc(e),fermentative,constrained,765,
-YIL134W,EX_nh4(e),respiratory,zero flux,549,
-YIL134W,EX_nh4(e),fermentative,zero flux,549,
-YIL134W,EX_glc(e),respiratory,constrained,549,
-YIL134W,EX_glc(e),fermentative,zero flux,549,
-YIL145C,EX_nh4(e),respiratory,zero flux,973,
-YIL145C,EX_nh4(e),fermentative,zero flux,973,
-YIL145C,EX_glc(e),respiratory,zero flux,973,
-YIL145C,EX_glc(e),fermentative,zero flux,973,
-YIL155C,EX_nh4(e),respiratory,zero flux,620,
-YIL155C,EX_nh4(e),fermentative,zero flux,620,
-YIL155C,EX_glc(e),respiratory,zero flux,620,
-YIL155C,EX_glc(e),fermentative,zero flux,620,
-YIL162W,EX_nh4(e),respiratory,zero flux,1173,
-YIL162W,EX_nh4(e),fermentative,zero flux,1173,
-YIL162W,EX_glc(e),respiratory,zero flux,1173,
-YIL162W,EX_glc(e),fermentative,zero flux,1173,
-YIR027C,EX_nh4(e),respiratory,zero flux,137,
-YIR027C,EX_nh4(e),fermentative,zero flux,137,
-YIR027C,EX_glc(e),respiratory,constrained,137,
-YIR027C,EX_glc(e),fermentative,zero flux,137,
-YIR028W,EX_nh4(e),respiratory,zero flux,138,
-YIR028W,EX_nh4(e),fermentative,zero flux,138,
-YIR028W,EX_glc(e),respiratory,zero flux,138,
-YIR028W,EX_glc(e),fermentative,zero flux,138,
-YIR029W,EX_nh4(e),respiratory,zero flux,136,
-YIR029W,EX_nh4(e),fermentative,constrained,136,
-YIR029W,EX_glc(e),respiratory,constrained,136,
-YIR029W,EX_glc(e),fermentative,zero flux,136,
-YIR032C,EX_nh4(e),respiratory,constrained,1235,
-YIR032C,EX_nh4(e),fermentative,constrained,1235,
-YIR032C,EX_glc(e),respiratory,constrained,1235,
-YIR032C,EX_glc(e),fermentative,constrained,1235,
-YIR034C,EX_nh4(e),respiratory,constrained,1129,
-YIR034C,EX_nh4(e),fermentative,variable,1129,
-YIR034C,EX_glc(e),respiratory,constrained,1129,
-YIR034C,EX_glc(e),fermentative,constrained,1129,
-YJL005W,EX_nh4(e),respiratory,zero flux,95,
-YJL005W,EX_nh4(e),fermentative,zero flux,95,
-YJL005W,EX_glc(e),respiratory,zero flux,95,
-YJL005W,EX_glc(e),fermentative,zero flux,95,
-YJL068C,EX_nh4(e),respiratory,zero flux,1145,
-YJL068C,EX_nh4(e),fermentative,zero flux,1145,
-YJL068C,EX_glc(e),respiratory,zero flux,1145,
-YJL068C,EX_glc(e),fermentative,zero flux,1145,
-YJL088W,EX_nh4(e),respiratory,constrained,946,
-YJL088W,EX_nh4(e),fermentative,constrained,946,
-YJL088W,EX_glc(e),respiratory,constrained,946,
-YJL088W,EX_glc(e),fermentative,constrained,946,
-YJL101C,EX_nh4(e),respiratory,zero flux,670,
-YJL101C,EX_nh4(e),fermentative,zero flux,670,
-YJL101C,EX_glc(e),respiratory,zero flux,670,
-YJL101C,EX_glc(e),fermentative,zero flux,670,
-YJL121C,EX_nh4(e),respiratory,variable,1126,
-YJL121C,EX_nh4(e),fermentative,variable,1126,
-YJL121C,EX_glc(e),respiratory,variable,1126,
-YJL121C,EX_glc(e),fermentative,variable,1126,
-YJL153C,EX_nh4(e),respiratory,constrained,863,
-YJL153C,EX_nh4(e),fermentative,constrained,863,
-YJL153C,EX_glc(e),respiratory,constrained,863,
-YJL153C,EX_glc(e),fermentative,constrained,863,
-YJL155C,EX_nh4(e),respiratory,zero flux,590,
-YJL155C,EX_nh4(e),fermentative,zero flux,590,
-YJL155C,EX_glc(e),respiratory,zero flux,590,
-YJL155C,EX_glc(e),fermentative,zero flux,590,
-YJR010W,EX_nh4(e),respiratory,zero flux,1130,
-YJR010W,EX_nh4(e),fermentative,zero flux,1130,
-YJR010W,EX_glc(e),respiratory,zero flux,1130,
-YJR010W,EX_glc(e),fermentative,zero flux,1130,
-YJR025C,EX_nh4(e),respiratory,zero flux,17,
-YJR025C,EX_nh4(e),fermentative,zero flux,17,
-YJR025C,EX_glc(e),respiratory,zero flux,17,
-YJR025C,EX_glc(e),fermentative,zero flux,17,
-YJR051W,EX_nh4(e),respiratory,zero flux,602,
-YJR051W,EX_nh4(e),fermentative,zero flux,602,
-YJR051W,EX_glc(e),respiratory,zero flux,602,
-YJR051W,EX_glc(e),fermentative,variable,602,
-YJR057W,EX_nh4(e),respiratory,zero flux,354,
-YJR057W,EX_nh4(e),fermentative,zero flux,354,
-YJR057W,EX_glc(e),respiratory,constrained,354,
-YJR057W,EX_glc(e),fermentative,zero flux,354,
-YJR077C,EX_nh4(e),respiratory,at maximum,1022,
-YJR077C,EX_nh4(e),fermentative,variable,1022,
-YJR077C,EX_glc(e),respiratory,variable,1022,
-YJR077C,EX_glc(e),fermentative,variable,1022,
-YJR078W,EX_nh4(e),respiratory,zero flux,1216,
-YJR078W,EX_nh4(e),fermentative,zero flux,1216,
-YJR078W,EX_glc(e),respiratory,zero flux,1216,
-YJR078W,EX_glc(e),fermentative,zero flux,1216,
-YJR095W,EX_nh4(e),respiratory,zero flux,1171,
-YJR095W,EX_nh4(e),fermentative,zero flux,1171,
-YJR095W,EX_glc(e),respiratory,zero flux,1171,
-YJR095W,EX_glc(e),fermentative,variable,1171,
-YJR105W,EX_nh4(e),respiratory,zero flux,96,
-YJR105W,EX_nh4(e),fermentative,variable,96,
-YJR105W,EX_glc(e),respiratory,variable,96,
-YJR105W,EX_glc(e),fermentative,variable,96,
-YJR130C,EX_nh4(e),respiratory,zero flux,850,
-YJR130C,EX_nh4(e),fermentative,zero flux,850,
-YJR130C,EX_glc(e),respiratory,zero flux,850,
-YJR130C,EX_glc(e),fermentative,zero flux,850,
-YJR133W,EX_nh4(e),respiratory,zero flux,1257,
-YJR133W,EX_nh4(e),fermentative,zero flux,1257,
-YJR133W,EX_glc(e),respiratory,zero flux,1257,
-YJR133W,EX_glc(e),fermentative,zero flux,1257,
-YJR152W,EX_nh4(e),respiratory,zero flux,139,
-YJR152W,EX_nh4(e),fermentative,zero flux,139,
-YJR152W,EX_glc(e),respiratory,zero flux,139,
-YJR152W,EX_glc(e),fermentative,zero flux,139,
-YKL001C,EX_nh4(e),respiratory,constrained,100,
-YKL001C,EX_nh4(e),fermentative,constrained,100,
-YKL001C,EX_glc(e),respiratory,constrained,100,
-YKL001C,EX_glc(e),fermentative,variable,100,
-YKL085W,EX_nh4(e),respiratory,variable,843,
-YKL085W,EX_nh4(e),fermentative,variable,843,
-YKL085W,EX_glc(e),respiratory,variable,843,
-YKL085W,EX_glc(e),fermentative,variable,843,
-YKL120W,EX_nh4(e),respiratory,variable,945,
-YKL120W,EX_nh4(e),fermentative,variable,945,
-YKL120W,EX_glc(e),respiratory,at maximum,945,
-YKL120W,EX_glc(e),fermentative,variable,945,
-YKL184W,EX_nh4(e),respiratory,zero flux,961,
-YKL184W,EX_nh4(e),fermentative,zero flux,961,
-YKL184W,EX_glc(e),respiratory,zero flux,961,
-YKL184W,EX_glc(e),fermentative,zero flux,961,
-YKL194C,EX_nh4(e),respiratory,zero flux,1190,
-YKL194C,EX_nh4(e),fermentative,zero flux,1190,
-YKL194C,EX_glc(e),respiratory,zero flux,1190,
-YKL194C,EX_glc(e),fermentative,zero flux,1190,
-YKR069W,EX_nh4(e),respiratory,zero flux,1239,
-YKR069W,EX_nh4(e),fermentative,zero flux,1239,
-YKR069W,EX_glc(e),respiratory,zero flux,1239,
-YKR069W,EX_glc(e),fermentative,zero flux,1239,
-YKR080W,EX_nh4(e),respiratory,zero flux,881,
-YKR080W,EX_nh4(e),fermentative,zero flux,881,
-YKR080W,EX_glc(e),respiratory,zero flux,881,
-YKR080W,EX_glc(e),fermentative,zero flux,881,
-YKR093W,EX_nh4(e),respiratory,zero flux,990,
-YKR093W,EX_nh4(e),fermentative,zero flux,990,
-YKR093W,EX_glc(e),respiratory,zero flux,990,
-YKR093W,EX_glc(e),fermentative,zero flux,990,
-YKR097W,EX_nh4(e),respiratory,zero flux,1041,
-YKR097W,EX_nh4(e),fermentative,zero flux,1041,
-YKR097W,EX_glc(e),respiratory,zero flux,1041,
-YKR097W,EX_glc(e),fermentative,zero flux,1041,
-YLL018C,EX_nh4(e),respiratory,zero flux,185,
-YLL018C,EX_nh4(e),fermentative,zero flux,185,
-YLL018C,EX_glc(e),respiratory,zero flux,185,
-YLL018C,EX_glc(e),fermentative,zero flux,185,
-YLL043W,EX_nh4(e),respiratory,zero flux,687,
-YLL043W,EX_nh4(e),fermentative,zero flux,687,
-YLL043W,EX_glc(e),respiratory,zero flux,687,
-YLL043W,EX_glc(e),fermentative,variable,687,
-YLL061W,EX_nh4(e),respiratory,zero flux,877,
-YLL061W,EX_nh4(e),fermentative,zero flux,877,
-YLL061W,EX_glc(e),respiratory,zero flux,877,
-YLL061W,EX_glc(e),fermentative,zero flux,877,
-YLR056W,EX_nh4(e),respiratory,zero flux,214,
-YLR056W,EX_nh4(e),fermentative,zero flux,214,
-YLR056W,EX_glc(e),respiratory,zero flux,214,
-YLR056W,EX_glc(e),fermentative,zero flux,214,
-YLR058C,EX_nh4(e),respiratory,variable,656,
-YLR058C,EX_nh4(e),fermentative,variable,656,
-YLR058C,EX_glc(e),respiratory,variable,656,
-YLR058C,EX_glc(e),fermentative,variable,656,
-YLR070C,EX_nh4(e),respiratory,zero flux,1261,
-YLR070C,EX_nh4(e),fermentative,zero flux,1261,
-YLR070C,EX_glc(e),respiratory,zero flux,1261,
-YLR070C,EX_glc(e),fermentative,zero flux,1261,
-YLR089C,EX_nh4(e),respiratory,zero flux,123,
-YLR089C,EX_nh4(e),fermentative,zero flux,123,
-YLR089C,EX_glc(e),respiratory,zero flux,123,
-YLR089C,EX_glc(e),fermentative,zero flux,123,
-YLR133W,EX_nh4(e),respiratory,zero flux,237,
-YLR133W,EX_nh4(e),fermentative,zero flux,237,
-YLR133W,EX_glc(e),respiratory,zero flux,237,
-YLR133W,EX_glc(e),fermentative,zero flux,237,
-YLR138W,EX_nh4(e),respiratory,zero flux,899,
-YLR138W,EX_nh4(e),fermentative,zero flux,899,
-YLR138W,EX_glc(e),respiratory,zero flux,899,
-YLR138W,EX_glc(e),fermentative,zero flux,899,
-YLR142W,EX_nh4(e),respiratory,variable,1057,
-YLR142W,EX_nh4(e),fermentative,zero flux,1057,
-YLR142W,EX_glc(e),respiratory,zero flux,1057,
-YLR142W,EX_glc(e),fermentative,zero flux,1057,
-YLR146C,EX_nh4(e),respiratory,zero flux,1158,
-YLR146C,EX_nh4(e),fermentative,zero flux,1158,
-YLR146C,EX_glc(e),respiratory,zero flux,1158,
-YLR146C,EX_glc(e),fermentative,zero flux,1158,
-YLR153C,EX_nh4(e),respiratory,zero flux,75,
-YLR153C,EX_nh4(e),fermentative,zero flux,75,
-YLR153C,EX_glc(e),respiratory,zero flux,75,
-YLR153C,EX_glc(e),fermentative,zero flux,75,
-YLR172C,EX_nh4(e),respiratory,zero flux,338,
-YLR172C,EX_nh4(e),fermentative,zero flux,338,
-YLR172C,EX_glc(e),respiratory,zero flux,338,
-YLR172C,EX_glc(e),fermentative,zero flux,338,
-YLR174W,EX_nh4(e),respiratory,variable,770,
-YLR174W,EX_nh4(e),fermentative,variable,770,
-YLR174W,EX_glc(e),respiratory,zero flux,770,
-YLR174W,EX_glc(e),fermentative,zero flux,770,
-YLR195C,EX_nh4(e),respiratory,zero flux,668,
-YLR195C,EX_nh4(e),fermentative,zero flux,668,
-YLR195C,EX_glc(e),respiratory,zero flux,668,
-YLR195C,EX_glc(e),fermentative,zero flux,668,
-YLR299W,EX_nh4(e),respiratory,zero flux,706,
-YLR299W,EX_nh4(e),fermentative,zero flux,706,
-YLR299W,EX_glc(e),respiratory,zero flux,706,
-YLR299W,EX_glc(e),fermentative,zero flux,706,
-YLR372W,EX_nh4(e),respiratory,zero flux,582,
-YLR372W,EX_nh4(e),fermentative,zero flux,582,
-YLR372W,EX_glc(e),respiratory,zero flux,582,
-YLR372W,EX_glc(e),fermentative,zero flux,582,
-YLR377C,EX_nh4(e),respiratory,zero flux,589,
-YLR377C,EX_nh4(e),fermentative,zero flux,589,
-YLR377C,EX_glc(e),respiratory,zero flux,589,
-YLR377C,EX_glc(e),fermentative,zero flux,589,
-YLR382C,EX_nh4(e),respiratory,zero flux,813,
-YLR382C,EX_nh4(e),fermentative,zero flux,813,
-YLR382C,EX_glc(e),respiratory,zero flux,813,
-YLR382C,EX_glc(e),fermentative,zero flux,813,
-YLR420W,EX_nh4(e),respiratory,zero flux,327,
-YLR420W,EX_nh4(e),fermentative,constrained,327,
-YLR420W,EX_glc(e),respiratory,constrained,327,
-YLR420W,EX_glc(e),fermentative,constrained,327,
-YLR438W,EX_nh4(e),respiratory,variable,962,
-YLR438W,EX_nh4(e),fermentative,zero flux,962,
-YLR438W,EX_glc(e),respiratory,variable,962,
-YLR438W,EX_glc(e),fermentative,zero flux,962,
-YML004C,EX_nh4(e),respiratory,zero flux,815,
-YML004C,EX_nh4(e),fermentative,zero flux,815,
-YML004C,EX_glc(e),respiratory,zero flux,815,
-YML004C,EX_glc(e),fermentative,zero flux,815,
-YML008C,EX_nh4(e),respiratory,zero flux,1131,
-YML008C,EX_nh4(e),fermentative,zero flux,1131,
-YML008C,EX_glc(e),respiratory,zero flux,1131,
-YML008C,EX_glc(e),fermentative,zero flux,1131,
-YML054C,EX_nh4(e),respiratory,zero flux,823,
-YML054C,EX_nh4(e),fermentative,zero flux,823,
-YML054C,EX_glc(e),respiratory,zero flux,823,
-YML054C,EX_glc(e),fermentative,zero flux,823,
-YML082W,EX_nh4(e),respiratory,zero flux,1149,
-YML082W,EX_nh4(e),fermentative,at maximum,1149,
-YML082W,EX_glc(e),respiratory,variable,1149,
-YML082W,EX_glc(e),fermentative,constrained,1149,
-YML110C,EX_nh4(e),respiratory,zero flux,953,
-YML110C,EX_nh4(e),fermentative,zero flux,953,
-YML110C,EX_glc(e),respiratory,zero flux,953,
-YML110C,EX_glc(e),fermentative,zero flux,953,
-YMR013C,EX_nh4(e),respiratory,zero flux,343,
-YMR013C,EX_nh4(e),fermentative,zero flux,343,
-YMR013C,EX_glc(e),respiratory,zero flux,343,
-YMR013C,EX_glc(e),fermentative,zero flux,343,
-YMR015C,EX_nh4(e),respiratory,zero flux,206,
-YMR015C,EX_nh4(e),fermentative,zero flux,206,
-YMR015C,EX_glc(e),respiratory,zero flux,206,
-YMR015C,EX_glc(e),fermentative,zero flux,206,
-YMR083W,EX_nh4(e),respiratory,variable,127,
-YMR083W,EX_nh4(e),fermentative,variable,127,
-YMR083W,EX_glc(e),respiratory,variable,127,
-YMR083W,EX_glc(e),fermentative,zero flux,127,
-YMR202W,EX_nh4(e),respiratory,zero flux,215,
-YMR202W,EX_nh4(e),fermentative,zero flux,215,
-YMR202W,EX_glc(e),respiratory,zero flux,215,
-YMR202W,EX_glc(e),fermentative,zero flux,215,
-YMR217W,EX_nh4(e),respiratory,constrained,695,
-YMR217W,EX_nh4(e),fermentative,constrained,695,
-YMR217W,EX_glc(e),respiratory,constrained,695,
-YMR217W,EX_glc(e),fermentative,constrained,695,
-YMR220W,EX_nh4(e),respiratory,variable,1031,
-YMR220W,EX_nh4(e),fermentative,constrained,1031,
-YMR220W,EX_glc(e),respiratory,constrained,1031,
-YMR220W,EX_glc(e),fermentative,constrained,1031,
-YMR250W,EX_nh4(e),respiratory,zero flux,671,
-YMR250W,EX_nh4(e),fermentative,zero flux,671,
-YMR250W,EX_glc(e),respiratory,zero flux,671,
-YMR250W,EX_glc(e),fermentative,zero flux,671,
-YMR267W,EX_nh4(e),respiratory,variable,1038,
-YMR267W,EX_nh4(e),fermentative,zero flux,1038,
-YMR267W,EX_glc(e),respiratory,zero flux,1038,
-YMR267W,EX_glc(e),fermentative,zero flux,1038,
-YMR300C,EX_nh4(e),respiratory,constrained,676,
-YMR300C,EX_nh4(e),fermentative,constrained,676,
-YMR300C,EX_glc(e),respiratory,constrained,676,
-YMR300C,EX_glc(e),fermentative,constrained,676,
-YNL009W,EX_nh4(e),respiratory,zero flux,772,
-YNL009W,EX_nh4(e),fermentative,zero flux,772,
-YNL009W,EX_glc(e),respiratory,constrained,772,
-YNL009W,EX_glc(e),fermentative,zero flux,772,
-YNL073W,EX_nh4(e),respiratory,zero flux,820,
-YNL073W,EX_nh4(e),fermentative,zero flux,820,
-YNL073W,EX_glc(e),respiratory,zero flux,820,
-YNL073W,EX_glc(e),fermentative,zero flux,820,
-YNL169C,EX_nh4(e),respiratory,zero flux,1065,
-YNL169C,EX_nh4(e),fermentative,variable,1065,
-YNL169C,EX_glc(e),respiratory,variable,1065,
-YNL169C,EX_glc(e),fermentative,variable,1065,
-YNL220W,EX_nh4(e),respiratory,variable,103,
-YNL220W,EX_nh4(e),fermentative,constrained,103,
-YNL220W,EX_glc(e),respiratory,constrained,103,
-YNL220W,EX_glc(e),fermentative,constrained,103,
-YNL241C,EX_nh4(e),respiratory,zero flux,627,
-YNL241C,EX_nh4(e),fermentative,zero flux,627,
-YNL241C,EX_glc(e),respiratory,zero flux,627,
-YNL241C,EX_glc(e),fermentative,zero flux,627,
-YNL247W,EX_nh4(e),respiratory,zero flux,280,
-YNL247W,EX_nh4(e),fermentative,zero flux,280,
-YNL247W,EX_glc(e),respiratory,zero flux,280,
-YNL247W,EX_glc(e),fermentative,zero flux,280,
-YNL277W,EX_nh4(e),respiratory,variable,763,
-YNL277W,EX_nh4(e),fermentative,variable,763,
-YNL277W,EX_glc(e),respiratory,variable,763,
-YNL277W,EX_glc(e),fermentative,variable,763,
-YNL280C,EX_nh4(e),respiratory,variable,205,
-YNL280C,EX_nh4(e),fermentative,constrained,205,
-YNL280C,EX_glc(e),respiratory,constrained,205,
-YNL280C,EX_glc(e),fermentative,constrained,205,
-YNL316C,EX_nh4(e),respiratory,constrained,1046,
-YNL316C,EX_nh4(e),fermentative,constrained,1046,
-YNL316C,EX_glc(e),respiratory,constrained,1046,
-YNL316C,EX_glc(e),fermentative,constrained,1046,
-YNR033W,EX_nh4(e),respiratory,zero flux,83,
-YNR033W,EX_nh4(e),fermentative,zero flux,83,
-YNR033W,EX_glc(e),respiratory,zero flux,83,
-YNR033W,EX_glc(e),fermentative,zero flux,83,
-YNR043W,EX_nh4(e),respiratory,variable,350,
-YNR043W,EX_nh4(e),fermentative,constrained,350,
-YNR043W,EX_glc(e),respiratory,constrained,350,
-YNR043W,EX_glc(e),fermentative,constrained,350,
-YNR050C,EX_nh4(e),respiratory,constrained,1128,
-YNR050C,EX_nh4(e),fermentative,variable,1128,
-YNR050C,EX_glc(e),respiratory,constrained,1128,
-YNR050C,EX_glc(e),fermentative,constrained,1128,
-YNR057C,EX_nh4(e),respiratory,zero flux,299,
-YNR057C,EX_nh4(e),fermentative,zero flux,299,
-YNR057C,EX_glc(e),respiratory,zero flux,299,
-YNR057C,EX_glc(e),fermentative,zero flux,299,
-YNR058W,EX_nh4(e),respiratory,zero flux,142,
-YNR058W,EX_nh4(e),fermentative,zero flux,142,
-YNR058W,EX_glc(e),respiratory,zero flux,142,
-YNR058W,EX_glc(e),fermentative,zero flux,142,
-YOL033W,EX_nh4(e),respiratory,zero flux,679,
-YOL033W,EX_nh4(e),fermentative,zero flux,679,
-YOL033W,EX_glc(e),respiratory,zero flux,679,
-YOL033W,EX_glc(e),fermentative,zero flux,679,
-YOL049W,EX_nh4(e),respiratory,zero flux,705,
-YOL049W,EX_nh4(e),fermentative,zero flux,705,
-YOL049W,EX_glc(e),respiratory,zero flux,705,
-YOL049W,EX_glc(e),fermentative,zero flux,705,
-YOL052C,EX_nh4(e),respiratory,zero flux,94,
-YOL052C,EX_nh4(e),fermentative,zero flux,94,
-YOL052C,EX_glc(e),respiratory,zero flux,94,
-YOL052C,EX_glc(e),fermentative,zero flux,94,
-YOL058W,EX_nh4(e),respiratory,constrained,163,
-YOL058W,EX_nh4(e),fermentative,constrained,163,
-YOL058W,EX_glc(e),respiratory,constrained,163,
-YOL058W,EX_glc(e),fermentative,constrained,163,
-YOL059W,EX_nh4(e),respiratory,zero flux,619,
-YOL059W,EX_nh4(e),fermentative,zero flux,619,
-YOL059W,EX_glc(e),respiratory,zero flux,619,
-YOL059W,EX_glc(e),fermentative,zero flux,619,
-YOL064C,EX_nh4(e),respiratory,variable,202,
-YOL064C,EX_nh4(e),fermentative,variable,202,
-YOL064C,EX_glc(e),respiratory,variable,202,
-YOL064C,EX_glc(e),fermentative,variable,202,
-YOL096C,EX_nh4(e),respiratory,zero flux,340,
-YOL096C,EX_nh4(e),fermentative,zero flux,340,
-YOL096C,EX_glc(e),respiratory,zero flux,340,
-YOL096C,EX_glc(e),fermentative,zero flux,340,
-YOL097C,EX_nh4(e),respiratory,zero flux,1218,
-YOL097C,EX_nh4(e),fermentative,zero flux,1218,
-YOL097C,EX_glc(e),respiratory,zero flux,1218,
-YOL097C,EX_glc(e),fermentative,zero flux,1218,
-YOL126C,EX_nh4(e),respiratory,variable,842,
-YOL126C,EX_nh4(e),fermentative,variable,842,
-YOL126C,EX_glc(e),respiratory,variable,842,
-YOL126C,EX_glc(e),fermentative,variable,842,
-YOL140W,EX_nh4(e),respiratory,variable,70,
-YOL140W,EX_nh4(e),fermentative,constrained,70,
-YOL140W,EX_glc(e),respiratory,variable,70,
-YOL140W,EX_glc(e),fermentative,constrained,70,
-YOL143C,EX_nh4(e),respiratory,zero flux,1108,
-YOL143C,EX_nh4(e),fermentative,zero flux,1108,
-YOL143C,EX_glc(e),respiratory,zero flux,1108,
-YOL143C,EX_glc(e),fermentative,zero flux,1108,
-YOR040W,EX_nh4(e),respiratory,zero flux,691,
-YOR040W,EX_nh4(e),fermentative,zero flux,691,
-YOR040W,EX_glc(e),respiratory,zero flux,691,
-YOR040W,EX_glc(e),fermentative,zero flux,691,
-YOR074C,EX_nh4(e),respiratory,constrained,1202,
-YOR074C,EX_nh4(e),fermentative,constrained,1202,
-YOR074C,EX_glc(e),respiratory,constrained,1202,
-YOR074C,EX_glc(e),fermentative,constrained,1202,
-YOR095C,EX_nh4(e),respiratory,variable,1127,
-YOR095C,EX_nh4(e),fermentative,constrained,1127,
-YOR095C,EX_glc(e),respiratory,constrained,1127,
-YOR095C,EX_glc(e),fermentative,constrained,1127,
-YOR100C,EX_nh4(e),respiratory,zero flux,259,
-YOR100C,EX_nh4(e),fermentative,zero flux,259,
-YOR100C,EX_glc(e),respiratory,zero flux,259,
-YOR100C,EX_glc(e),fermentative,zero flux,259,
-YOR128C,EX_nh4(e),respiratory,constrained,114,
-YOR128C,EX_nh4(e),fermentative,constrained,114,
-YOR128C,EX_glc(e),respiratory,constrained,114,
-YOR128C,EX_glc(e),fermentative,constrained,114,
-YOR130C,EX_nh4(e),respiratory,variable,965,
-YOR130C,EX_nh4(e),fermentative,constrained,965,
-YOR130C,EX_glc(e),respiratory,variable,965,
-YOR130C,EX_glc(e),fermentative,constrained,965,
-YOR168W,EX_nh4(e),respiratory,zero flux,665,
-YOR168W,EX_nh4(e),fermentative,zero flux,665,
-YOR168W,EX_glc(e),respiratory,zero flux,665,
-YOR168W,EX_glc(e),fermentative,zero flux,665,
-YOR176W,EX_nh4(e),respiratory,zero flux,591,
-YOR176W,EX_nh4(e),fermentative,zero flux,591,
-YOR176W,EX_glc(e),respiratory,zero flux,591,
-YOR176W,EX_glc(e),fermentative,zero flux,591,
-YOR202W,EX_nh4(e),respiratory,constrained,776,
-YOR202W,EX_nh4(e),fermentative,constrained,776,
-YOR202W,EX_glc(e),respiratory,constrained,776,
-YOR202W,EX_glc(e),fermentative,constrained,776,
-YOR278W,EX_nh4(e),respiratory,zero flux,1240,
-YOR278W,EX_nh4(e),fermentative,zero flux,1240,
-YOR278W,EX_glc(e),respiratory,zero flux,1240,
-YOR278W,EX_glc(e),fermentative,zero flux,1240,
-YOR335C,EX_nh4(e),respiratory,zero flux,124,
-YOR335C,EX_nh4(e),fermentative,zero flux,124,
-YOR335C,EX_glc(e),respiratory,zero flux,124,
-YOR335C,EX_glc(e),fermentative,zero flux,124,
-YPL040C,EX_nh4(e),respiratory,zero flux,781,
-YPL040C,EX_nh4(e),fermentative,zero flux,781,
-YPL040C,EX_glc(e),respiratory,zero flux,781,
-YPL040C,EX_glc(e),fermentative,zero flux,781,
-YPL091W,EX_nh4(e),respiratory,zero flux,702,
-YPL091W,EX_nh4(e),fermentative,constrained,702,
-YPL091W,EX_glc(e),respiratory,zero flux,702,
-YPL091W,EX_glc(e),fermentative,zero flux,702,
-YPL097W,EX_nh4(e),respiratory,zero flux,1228,
-YPL097W,EX_nh4(e),fermentative,zero flux,1228,
-YPL097W,EX_glc(e),respiratory,zero flux,1228,
-YPL097W,EX_glc(e),fermentative,zero flux,1228,
-YPL104W,EX_nh4(e),respiratory,zero flux,186,
-YPL104W,EX_nh4(e),fermentative,zero flux,186,
-YPL104W,EX_glc(e),respiratory,zero flux,186,
-YPL104W,EX_glc(e),fermentative,zero flux,186,
-YPL111W,EX_nh4(e),respiratory,zero flux,161,
-YPL111W,EX_nh4(e),fermentative,zero flux,161,
-YPL111W,EX_glc(e),respiratory,zero flux,161,
-YPL111W,EX_glc(e),fermentative,zero flux,161,
-YPL117C,EX_nh4(e),respiratory,variable,796,
-YPL117C,EX_nh4(e),fermentative,constrained,796,
-YPL117C,EX_glc(e),respiratory,constrained,796,
-YPL117C,EX_glc(e),fermentative,constrained,796,
-YPL148C,EX_nh4(e),respiratory,zero flux,72,
-YPL148C,EX_nh4(e),fermentative,zero flux,72,
-YPL148C,EX_glc(e),respiratory,zero flux,72,
-YPL148C,EX_glc(e),fermentative,zero flux,72,
-YPL160W,EX_nh4(e),respiratory,zero flux,812,
-YPL160W,EX_nh4(e),fermentative,zero flux,812,
-YPL160W,EX_glc(e),respiratory,zero flux,812,
-YPL160W,EX_glc(e),fermentative,zero flux,812,
-YPL266W,EX_nh4(e),respiratory,zero flux,952,
-YPL266W,EX_nh4(e),fermentative,zero flux,952,
-YPL266W,EX_glc(e),respiratory,zero flux,952,
-YPL266W,EX_glc(e),fermentative,zero flux,952,
-YPL268W,EX_nh4(e),respiratory,zero flux,1016,
-YPL268W,EX_nh4(e),fermentative,zero flux,1016,
-YPL268W,EX_glc(e),respiratory,zero flux,1016,
-YPL268W,EX_glc(e),fermentative,zero flux,1016,
-YPL274W,EX_nh4(e),respiratory,zero flux,143,
-YPL274W,EX_nh4(e),fermentative,zero flux,143,
-YPL274W,EX_glc(e),respiratory,zero flux,143,
-YPL274W,EX_glc(e),fermentative,zero flux,143,
-YPR006C,EX_nh4(e),respiratory,zero flux,838,
-YPR006C,EX_nh4(e),fermentative,zero flux,838,
-YPR006C,EX_glc(e),respiratory,zero flux,838,
-YPR006C,EX_glc(e),fermentative,zero flux,838,
-YPR026W,EX_nh4(e),respiratory,variable,1212,
-YPR026W,EX_nh4(e),fermentative,zero flux,1212,
-YPR026W,EX_glc(e),respiratory,zero flux,1212,
-YPR026W,EX_glc(e),fermentative,zero flux,1212,
-YPR035W,EX_nh4(e),respiratory,constrained,664,
-YPR035W,EX_nh4(e),fermentative,constrained,664,
-YPR035W,EX_glc(e),respiratory,constrained,664,
-YPR035W,EX_glc(e),fermentative,variable,664,
-YPR047W,EX_nh4(e),respiratory,zero flux,1012,
-YPR047W,EX_nh4(e),fermentative,zero flux,1012,
-YPR047W,EX_glc(e),respiratory,zero flux,1012,
-YPR047W,EX_glc(e),fermentative,zero flux,1012,
-YPR060C,EX_nh4(e),respiratory,constrained,238,
-YPR060C,EX_nh4(e),fermentative,constrained,238,
-YPR060C,EX_glc(e),respiratory,constrained,238,
-YPR060C,EX_glc(e),fermentative,constrained,238,
-YPR062W,EX_nh4(e),respiratory,zero flux,268,
-YPR062W,EX_nh4(e),fermentative,zero flux,268,
-YPR062W,EX_glc(e),respiratory,zero flux,268,
-YPR062W,EX_glc(e),fermentative,zero flux,268,
-YPR069C,EX_nh4(e),respiratory,zero flux,1157,
-YPR069C,EX_nh4(e),fermentative,zero flux,1157,
-YPR069C,EX_glc(e),respiratory,zero flux,1157,
-YPR069C,EX_glc(e),fermentative,zero flux,1157,
-YPR113W,EX_nh4(e),respiratory,constrained,1021,
-YPR113W,EX_nh4(e),fermentative,constrained,1021,
-YPR113W,EX_glc(e),respiratory,constrained,1021,
-YPR113W,EX_glc(e),fermentative,constrained,1021,
-YPR160W,EX_nh4(e),respiratory,zero flux,660,
-YPR160W,EX_nh4(e),fermentative,zero flux,660,
-YPR160W,EX_glc(e),respiratory,zero flux,660,
-YPR160W,EX_glc(e),fermentative,zero flux,660,
-YPR167C,EX_nh4(e),respiratory,constrained,975,
-YPR167C,EX_nh4(e),fermentative,constrained,975,
-YPR167C,EX_glc(e),respiratory,constrained,975,
-YPR167C,EX_glc(e),fermentative,variable,975,
-YPR183W,EX_nh4(e),respiratory,constrained,345,
-YPR183W,EX_nh4(e),fermentative,constrained,345,
-YPR183W,EX_glc(e),respiratory,constrained,345,
-YPR183W,EX_glc(e),fermentative,constrained,345,
+gene,environment,type,reaction,flux
+YGR282C,nit,zero flux,1,0
+YBR265W,nit,zero flux,16,0
+YJR025C,nit,zero flux,17,0
+YGR019W,nit,zero flux,39,0
+YFL017C,nit,zero flux,53,0
+YBL015W,nit,variable,59,0.687514
+YOL140W,nit,variable,70,771.45
+YAR071W,nit,zero flux,71,0
+YPL148C,nit,constrained,72,1.38778e-17
+YLR153C,nit,zero flux,75,0
+YCR032W,nit,zero flux,78,-0
+YNR033W,nit,zero flux,83,0
+YOL052C,nit,zero flux,94,0
+YJL005W,nit,zero flux,95,0
+YJR105W,nit,variable,96,0.00561
+YKL001C,nit,constrained,100,0.01719
+YNL220W,nit,constrained,103,0.03477
+YDL052C,nit,constrained,104,0.00741
+YFL030W,nit,zero flux,106,0
+YER043C,nit,constrained,109,0.00561
+YOR128C,nit,constrained,114,0.0294
+YDR481C,nit,zero flux,120,0
+YDR232W,nit,zero flux,121,0
+YDR111C,nit,variable,122,-0.13764
+YLR089C,nit,zero flux,123,-0
+YOR335C,nit,zero flux,124,-0
+YMR083W,nit,variable,127,0.670324
+YIR029W,nit,zero flux,136,-0
+YIR027C,nit,zero flux,137,-0
+YIR028W,nit,zero flux,138,0
+YJR152W,nit,zero flux,139,0
+YNR058W,nit,zero flux,142,0
+YPL274W,nit,zero flux,143,0
+YDR354W,nit,constrained,151,0.00852
+YDR305C,nit,zero flux,153,0
+YPL111W,nit,constrained,161,2.25218e-12
+YHR018C,nit,constrained,162,0.04821
+YOL058W,nit,constrained,163,0.04821
+YDR341C,nit,zero flux,164,-0
+YHR091C,nit,zero flux,165,-0
+YBR034C,nit,zero flux,168,0
+YDR158W,nit,variable,169,0.01521
+YDR321W,nit,zero flux,170,0
+YHR019C,nit,zero flux,173,-0
+YCR024C,nit,zero flux,174,-0
+YER052C,nit,variable,180,0.01521
+YLL018C,nit,zero flux,185,-0
+YPL104W,nit,zero flux,186,-0
+YDR530C,nit,zero flux,191,0
+YER055C,nit,constrained,195,0.01989
+YOL064C,nit,variable,202,0.01719
+YGR286C,nit,zero flux,204,-0
+YNL280C,nit,constrained,205,0.00066
+YMR015C,nit,variable,206,0.00021
+YGL012W,nit,constrained,207,0.00021
+YLR056W,nit,variable,214,0.00021
+YMR202W,nit,variable,215,0.00021
+YGR088W,nit,zero flux,216,0
+YDR256C,nit,zero flux,217,0
+YCL004W,nit,zero flux,222,0
+YGR202C,nit,zero flux,234,-0
+YGL077C,nit,zero flux,236,0
+YLR133W,nit,zero flux,237,-0
+YPR060C,nit,constrained,238,0.07077
+YGL148W,nit,constrained,239,0.07929
+YDL142C,nit,zero flux,249,0
+YDR044W,nit,zero flux,258,0
+YOR100C,nit,zero flux,259,0
+YBR132C,nit,zero flux,261,0
+YAR035W,nit,variable,265,0.522364
+YPR062W,nit,zero flux,268,0
+YCR005C,nit,zero flux,271,0
+YGR012W,nit,constrained,276,0.00198
+YAL012W,nit,at maximum,277,1000
+YFR055W,nit,zero flux,278,0
+YGL184C,nit,zero flux,279,0
+YNL247W,nit,zero flux,280,-0
+YGR155W,nit,zero flux,281,0
+YNR057C,nit,zero flux,299,0
+YLR420W,nit,zero flux,327,0
+YLR172C,nit,zero flux,338,0
+YOL096C,nit,zero flux,340,0
+YDL100C,nit,zero flux,341,0
+YMR013C,nit,zero flux,343,0
+YPR183W,nit,constrained,345,0.24237
+YNR043W,nit,constrained,350,0.00396
+YHR063C,nit,zero flux,351,0
+YJR057W,nit,zero flux,354,0
+YBR252W,nit,zero flux,360,0
+YHR068W,nit,zero flux,361,-0
+YDL174C,nit,zero flux,362,-0
+YDR147W,nit,zero flux,381,-0
+YIL134W,nit,zero flux,549,0
+YLR372W,nit,zero flux,582,0
+YLR377C,nit,zero flux,589,0
+YJL155C,nit,zero flux,590,0
+YOR176W,nit,zero flux,591,0
+YBL013W,nit,zero flux,595,-0
+YDL045C,nit,zero flux,596,0
+YEL047C,nit,zero flux,601,0
+YJR051W,nit,zero flux,602,0
+YER183C,nit,zero flux,605,0
+YDL022W,nit,variable,618,0.00741
+YOL059W,nit,zero flux,619,0
+YIL155C,nit,zero flux,620,0
+YNL241C,nit,zero flux,627,0
+YBR020W,nit,zero flux,633,-0
+YDR408C,nit,constrained,640,0.0294
+YEL011W,nit,variable,643,0.15555
+YLR058C,nit,variable,656,-545.203
+YBR263W,nit,variable,657,772.717
+YPR160W,nit,zero flux,660,0
+YPR035W,nit,variable,664,546.18
+YOR168W,nit,zero flux,665,-0
+YLR195C,nit,zero flux,668,0
+YDR300C,nit,zero flux,669,0
+YJL101C,nit,zero flux,670,0
+YMR250W,nit,zero flux,671,0
+YDL215C,nit,zero flux,672,0
+YMR300C,nit,constrained,676,0.0294
+YDL171C,nit,variable,677,545.935
+YGL245W,nit,zero flux,678,-0
+YOL033W,nit,zero flux,679,-0
+YLL043W,nit,zero flux,687,-0
+YHL032C,nit,zero flux,689,0
+YDR272W,nit,zero flux,690,-0
+YOR040W,nit,zero flux,691,-0
+YMR217W,nit,constrained,695,0.01452
+YPL091W,nit,zero flux,702,0
+YOL049W,nit,zero flux,705,0
+YLR299W,nit,zero flux,706,0
+YBL033C,nit,zero flux,707,0
+YGR267C,nit,zero flux,708,0
+YDR234W,nit,constrained,725,0.08586
+YIL094C,nit,constrained,742,0.08586
+YFR025C,nit,constrained,744,0.01989
+YDL205C,nit,zero flux,750,0
+YNL277W,nit,variable,763,0.01521
+YHR025W,nit,zero flux,764,0
+YIL116W,nit,constrained,765,0.01989
+YLR174W,nit,zero flux,770,0
+YDL066W,nit,zero flux,771,0
+YNL009W,nit,zero flux,772,0
+YER065C,nit,zero flux,773,0
+YBR248C,nit,constrained,775,0.01989
+YOR202W,nit,constrained,776,0.01989
+YBL076C,nit,zero flux,780,-0
+YPL040C,nit,zero flux,781,-0
+YDR380W,nit,zero flux,786,-0
+YPL117C,nit,constrained,796,0.00132
+YCL018W,nit,constrained,797,0.08892
+YBL098W,nit,zero flux,807,0
+YPL160W,nit,zero flux,812,-0
+YLR382C,nit,zero flux,813,-0
+YML004C,nit,zero flux,815,-0
+YHR007C,nit,constrained,816,0.00066
+YHR072W,nit,constrained,817,0.00066
+YDR037W,nit,zero flux,819,-0
+YNL073W,nit,zero flux,820,-0
+YML054C,nit,zero flux,823,-0
+YDL055C,nit,constrained,833,0.24237
+YER003C,nit,constrained,834,-0.24237
+YPR006C,nit,zero flux,838,-0
+YOL126C,nit,variable,842,854.099
+YKL085W,nit,at maximum,843,-1000
+YDL078C,nit,zero flux,844,0
+YJR130C,nit,zero flux,850,0
+YGR264C,nit,zero flux,852,-0
+YGR171C,nit,zero flux,853,-0
+YHR046C,nit,constrained,862,0.00159
+YJL153C,nit,constrained,863,0.00159
+YLL061W,nit,zero flux,877,0
+YBR176W,nit,zero flux,878,0
+YKR080W,nit,zero flux,881,0
+YGL067W,nit,zero flux,886,0
+YLR138W,nit,zero flux,899,-0
+YEL042W,nit,zero flux,901,0
+YGR010W,nit,zero flux,915,0
+YKL120W,nit,variable,945,0.628114
+YJL088W,nit,constrained,946,0.04821
+YPL266W,nit,zero flux,952,0
+YML110C,nit,zero flux,953,0
+YGR255C,nit,zero flux,956,0
+YEL021W,nit,constrained,957,0.03318
+YDR538W,nit,zero flux,959,0
+YKL184W,nit,zero flux,961,0
+YLR438W,nit,variable,962,771.359
+YOR130C,nit,variable,965,771.45
+YIL145C,nit,zero flux,973,0
+YPR167C,nit,constrained,975,0.01719
+YKR093W,nit,zero flux,990,0
+YGR007W,nit,zero flux,991,-0
+YGR157W,nit,constrained,992,0.0018
+YCR012W,nit,at maximum,1003,-1000
+YPR047W,nit,zero flux,1012,-0
+YPL268W,nit,zero flux,1016,0
+YPR113W,nit,constrained,1021,0.00159
+YJR077C,nit,variable,1022,88.5625
+YER053C,nit,variable,1027,-999.878
+YFL045C,nit,constrained,1028,-0.24237
+YMR220W,nit,constrained,1031,0.00396
+YDR531W,nit,constrained,1033,-1.38778e-17
+YCR028C,nit,constrained,1034,-1.38778e-17
+YBR011C,nit,constrained,1037,1.05018
+YMR267W,nit,zero flux,1038,0
+YGL040C,nit,zero flux,1039,0
+YKR097W,nit,zero flux,1041,0
+YBR166C,nit,variable,1045,0.0306
+YNL316C,nit,constrained,1046,0.04017
+YER014W,nit,zero flux,1048,0
+YDR007W,nit,constrained,1051,0.00852
+YAR015W,nit,constrained,1053,0.0294
+YGR061C,nit,constrained,1055,0.0294
+YIL020C,nit,constrained,1056,0.01989
+YLR142W,nit,variable,1057,771.31
+YNL169C,nit,variable,1065,0.00315
+YGR208W,nit,variable,1072,227.584
+YOL143C,nit,zero flux,1108,0
+YBR256C,nit,zero flux,1109,0
+YJL121C,nit,variable,1126,-0.08651
+YOR095C,nit,constrained,1127,-0.08738
+YNR050C,nit,constrained,1128,0.08586
+YIR034C,nit,constrained,1129,0.08586
+YJR010W,nit,zero flux,1130,0
+YML008C,nit,variable,1131,0.00021
+YJL068C,nit,zero flux,1145,-0
+YML082W,nit,at maximum,1149,-1000
+YPR069C,nit,zero flux,1157,0
+YLR146C,nit,zero flux,1158,0
+YGR175C,nit,constrained,1161,0.00066
+YHR190W,nit,constrained,1162,0.00066
+YBR006W,nit,zero flux,1165,0
+YJR095W,nit,zero flux,1171,0
+YIL162W,nit,zero flux,1173,0
+YEL046C,nit,variable,1185,0.11523
+YER086W,nit,constrained,1187,0.05781
+YIL078W,nit,zero flux,1189,-0
+YKL194C,nit,zero flux,1190,-0
+YOR074C,nit,constrained,1202,0.00108
+YDR050C,nit,variable,1206,500.033
+YDR353W,nit,constrained,1207,0.02079
+YHR106W,nit,zero flux,1208,0
+YPR026W,nit,zero flux,1212,0
+YJR078W,nit,zero flux,1216,0
+YGL026C,nit,constrained,1217,0.00852
+YOL097C,nit,zero flux,1218,0
+YDR268W,nit,zero flux,1219,0
+YGR185C,nit,zero flux,1227,0
+YPL097W,nit,zero flux,1228,0
+YDL103C,nit,zero flux,1232,0
+YBR019C,nit,zero flux,1233,0
+YIR032C,nit,zero flux,1235,-0
+YKR069W,nit,zero flux,1239,0
+YOR278W,nit,zero flux,1240,0
+YDR047W,nit,zero flux,1241,0
+YHR128W,nit,zero flux,1242,0
+YBR021W,nit,zero flux,1243,0
+YHL016C,nit,zero flux,1244,-0
+YBL042C,nit,zero flux,1250,0
+YJR133W,nit,zero flux,1257,0
+YGR194C,nit,zero flux,1259,-0
+YLR070C,nit,zero flux,1261,0
+YGR282C,glc,zero flux,1,0
+YBR265W,glc,zero flux,16,0
+YJR025C,glc,zero flux,17,0
+YGR019W,glc,zero flux,39,0
+YFL017C,glc,zero flux,53,0
+YBL015W,glc,variable,59,0.25407
+YOL140W,glc,variable,70,0.07845
+YAR071W,glc,zero flux,71,0
+YPL148C,glc,zero flux,72,0
+YLR153C,glc,zero flux,75,0
+YCR032W,glc,zero flux,78,-0
+YNR033W,glc,constrained,83,1.13687e-13
+YOL052C,glc,zero flux,94,0
+YJL005W,glc,zero flux,95,0
+YJR105W,glc,variable,96,0.00561
+YKL001C,glc,constrained,100,0.01719
+YNL220W,glc,constrained,103,0.03477
+YDL052C,glc,constrained,104,0.00741
+YFL030W,glc,zero flux,106,0
+YER043C,glc,constrained,109,0.00561
+YOR128C,glc,constrained,114,0.0294
+YDR481C,glc,zero flux,120,0
+YDR232W,glc,zero flux,121,0
+YDR111C,glc,variable,122,-0.13764
+YLR089C,glc,zero flux,123,-0
+YOR335C,glc,zero flux,124,-0
+YMR083W,glc,zero flux,127,0
+YIR029W,glc,zero flux,136,-0
+YIR027C,glc,zero flux,137,-0
+YIR028W,glc,zero flux,138,0
+YJR152W,glc,zero flux,139,0
+YNR058W,glc,zero flux,142,0
+YPL274W,glc,zero flux,143,0
+YDR354W,glc,constrained,151,0.00852
+YDR305C,glc,zero flux,153,0
+YPL111W,glc,zero flux,161,0
+YHR018C,glc,constrained,162,0.04821
+YOL058W,glc,constrained,163,0.04821
+YDR341C,glc,zero flux,164,-0
+YHR091C,glc,zero flux,165,-0
+YBR034C,glc,zero flux,168,0
+YDR158W,glc,zero flux,169,0
+YDR321W,glc,zero flux,170,0
+YHR019C,glc,zero flux,173,-0
+YCR024C,glc,zero flux,174,-0
+YER052C,glc,zero flux,180,0
+YLL018C,glc,zero flux,185,-0
+YPL104W,glc,zero flux,186,-0
+YDR530C,glc,zero flux,191,0
+YER055C,glc,constrained,195,0.01989
+YOL064C,glc,variable,202,0.01719
+YGR286C,glc,zero flux,204,-0
+YNL280C,glc,constrained,205,0.00066
+YMR015C,glc,zero flux,206,0
+YGL012W,glc,constrained,207,0.00021
+YLR056W,glc,zero flux,214,0
+YMR202W,glc,zero flux,215,0
+YGR088W,glc,variable,216,1.19875
+YDR256C,glc,zero flux,217,0
+YCL004W,glc,zero flux,222,0
+YGR202C,glc,zero flux,234,-0
+YGL077C,glc,zero flux,236,0
+YLR133W,glc,zero flux,237,-0
+YPR060C,glc,constrained,238,0.07077
+YGL148W,glc,constrained,239,0.07929
+YDL142C,glc,zero flux,249,0
+YDR044W,glc,zero flux,258,0
+YOR100C,glc,zero flux,259,0
+YBR132C,glc,zero flux,261,0
+YAR035W,glc,zero flux,265,0
+YPR062W,glc,zero flux,268,0
+YCR005C,glc,zero flux,271,0
+YGR012W,glc,variable,276,0.01719
+YAL012W,glc,variable,277,999.985
+YFR055W,glc,variable,278,0.01521
+YGL184C,glc,zero flux,279,0
+YNL247W,glc,zero flux,280,-0
+YGR155W,glc,zero flux,281,0
+YNR057C,glc,zero flux,299,0
+YLR420W,glc,zero flux,327,0
+YLR172C,glc,zero flux,338,0
+YOL096C,glc,zero flux,340,0
+YDL100C,glc,constrained,341,1.13687e-13
+YMR013C,glc,zero flux,343,0
+YPR183W,glc,constrained,345,0.24237
+YNR043W,glc,constrained,350,0.00396
+YHR063C,glc,zero flux,351,0
+YJR057W,glc,zero flux,354,0
+YBR252W,glc,zero flux,360,0
+YHR068W,glc,zero flux,361,-0
+YDL174C,glc,zero flux,362,-0
+YDR147W,glc,zero flux,381,-0
+YIL134W,glc,zero flux,549,0
+YLR372W,glc,zero flux,582,0
+YLR377C,glc,zero flux,589,0
+YJL155C,glc,zero flux,590,0
+YOR176W,glc,zero flux,591,0
+YBL013W,glc,zero flux,595,-0
+YDL045C,glc,zero flux,596,0
+YEL047C,glc,variable,601,27.8341
+YJR051W,glc,zero flux,602,0
+YER183C,glc,zero flux,605,0
+YDL022W,glc,zero flux,618,0
+YOL059W,glc,zero flux,619,0
+YIL155C,glc,zero flux,620,0
+YNL241C,glc,zero flux,627,0
+YBR020W,glc,zero flux,633,-0
+YDR408C,glc,constrained,640,0.0294
+YEL011W,glc,zero flux,643,0
+YLR058C,glc,variable,656,-994.768
+YBR263W,glc,variable,657,997.508
+YPR160W,glc,zero flux,660,0
+YPR035W,glc,constrained,664,0.24525
+YOR168W,glc,zero flux,665,-0
+YLR195C,glc,zero flux,668,0
+YDR300C,glc,variable,669,0.01917
+YJL101C,glc,zero flux,670,0
+YMR250W,glc,zero flux,671,0
+YDL215C,glc,zero flux,672,0
+YMR300C,glc,constrained,676,0.0294
+YDL171C,glc,zero flux,677,0
+YGL245W,glc,zero flux,678,-0
+YOL033W,glc,zero flux,679,-0
+YLL043W,glc,zero flux,687,-0
+YHL032C,glc,zero flux,689,0
+YDR272W,glc,zero flux,690,-0
+YOR040W,glc,zero flux,691,-0
+YMR217W,glc,constrained,695,0.01452
+YPL091W,glc,zero flux,702,0
+YOL049W,glc,zero flux,705,0
+YLR299W,glc,zero flux,706,0
+YBL033C,glc,zero flux,707,0
+YGR267C,glc,constrained,708,1.13687e-13
+YDR234W,glc,constrained,725,0.08586
+YIL094C,glc,constrained,742,0.08586
+YFR025C,glc,constrained,744,0.01989
+YDL205C,glc,zero flux,750,0
+YNL277W,glc,zero flux,763,0
+YHR025W,glc,zero flux,764,0
+YIL116W,glc,constrained,765,0.01989
+YLR174W,glc,zero flux,770,0
+YDL066W,glc,variable,771,0.30564
+YNL009W,glc,zero flux,772,0
+YER065C,glc,zero flux,773,0
+YBR248C,glc,constrained,775,0.01989
+YOR202W,glc,constrained,776,0.01989
+YBL076C,glc,zero flux,780,-0
+YPL040C,glc,zero flux,781,-0
+YDR380W,glc,zero flux,786,-0
+YPL117C,glc,constrained,796,0.00132
+YCL018W,glc,constrained,797,0.08892
+YBL098W,glc,zero flux,807,0
+YPL160W,glc,zero flux,812,-0
+YLR382C,glc,zero flux,813,-0
+YML004C,glc,zero flux,815,-0
+YHR007C,glc,constrained,816,0.00066
+YHR072W,glc,constrained,817,0.00066
+YDR037W,glc,zero flux,819,-0
+YNL073W,glc,zero flux,820,-0
+YML054C,glc,zero flux,823,-0
+YDL055C,glc,constrained,833,0.24237
+YER003C,glc,constrained,834,-0.24237
+YPR006C,glc,zero flux,838,-0
+YOL126C,glc,variable,842,-0.45858
+YKL085W,glc,variable,843,0.57096
+YDL078C,glc,zero flux,844,0
+YJR130C,glc,zero flux,850,0
+YGR264C,glc,zero flux,852,-0
+YGR171C,glc,zero flux,853,-0
+YHR046C,glc,constrained,862,0.00159
+YJL153C,glc,constrained,863,0.00159
+YLL061W,glc,zero flux,877,0
+YBR176W,glc,zero flux,878,0
+YKR080W,glc,variable,881,0.914383
+YGL067W,glc,zero flux,886,0
+YLR138W,glc,zero flux,899,-0
+YEL042W,glc,zero flux,901,0
+YGR010W,glc,zero flux,915,0
+YKL120W,glc,at maximum,945,-1000
+YJL088W,glc,constrained,946,0.04821
+YPL266W,glc,zero flux,952,0
+YML110C,glc,zero flux,953,0
+YGR255C,glc,zero flux,956,0
+YEL021W,glc,constrained,957,0.03318
+YDR538W,glc,zero flux,959,0
+YKL184W,glc,zero flux,961,0
+YLR438W,glc,variable,962,0.03024
+YOR130C,glc,variable,965,0.07845
+YIL145C,glc,zero flux,973,0
+YPR167C,glc,constrained,975,0.01719
+YKR093W,glc,zero flux,990,0
+YGR007W,glc,zero flux,991,-0
+YGR157W,glc,constrained,992,0.0018
+YCR012W,glc,variable,1003,-4.70873
+YPR047W,glc,zero flux,1012,-0
+YPL268W,glc,zero flux,1016,0
+YPR113W,glc,constrained,1021,0.00159
+YJR077C,glc,at maximum,1022,1000
+YER053C,glc,variable,1027,-983.359
+YFL045C,glc,constrained,1028,-0.24237
+YMR220W,glc,constrained,1031,0.00396
+YDR531W,glc,zero flux,1033,0
+YCR028C,glc,zero flux,1034,0
+YBR011C,glc,constrained,1037,1.05018
+YMR267W,glc,zero flux,1038,0
+YGL040C,glc,zero flux,1039,0
+YKR097W,glc,zero flux,1041,0
+YBR166C,glc,variable,1045,0.0306
+YNL316C,glc,constrained,1046,0.04017
+YER014W,glc,zero flux,1048,0
+YDR007W,glc,constrained,1051,0.00852
+YAR015W,glc,constrained,1053,0.0294
+YGR061C,glc,constrained,1055,0.0294
+YIL020C,glc,constrained,1056,0.01989
+YLR142W,glc,zero flux,1057,0
+YNL169C,glc,variable,1065,0.00315
+YGR208W,glc,variable,1072,2.82443
+YOL143C,glc,zero flux,1108,0
+YBR256C,glc,zero flux,1109,0
+YJL121C,glc,variable,1126,-0.08651
+YOR095C,glc,constrained,1127,-0.08738
+YNR050C,glc,constrained,1128,0.08586
+YIR034C,glc,constrained,1129,0.08586
+YJR010W,glc,zero flux,1130,0
+YML008C,glc,zero flux,1131,0
+YJL068C,glc,zero flux,1145,-0
+YML082W,glc,at maximum,1149,-1000
+YPR069C,glc,zero flux,1157,0
+YLR146C,glc,zero flux,1158,0
+YGR175C,glc,constrained,1161,0.00066
+YHR190W,glc,constrained,1162,0.00066
+YBR006W,glc,zero flux,1165,0
+YJR095W,glc,zero flux,1171,0
+YIL162W,glc,zero flux,1173,0
+YEL046C,glc,variable,1185,0.13044
+YER086W,glc,constrained,1187,0.05781
+YIL078W,glc,zero flux,1189,-0
+YKL194C,glc,zero flux,1190,-0
+YOR074C,glc,constrained,1202,0.00108
+YDR050C,glc,variable,1206,2.38785
+YDR353W,glc,constrained,1207,0.02079
+YHR106W,glc,zero flux,1208,0
+YPR026W,glc,zero flux,1212,0
+YJR078W,glc,zero flux,1216,0
+YGL026C,glc,constrained,1217,0.00852
+YOL097C,glc,zero flux,1218,0
+YDR268W,glc,zero flux,1219,0
+YGR185C,glc,zero flux,1227,0
+YPL097W,glc,zero flux,1228,0
+YDL103C,glc,zero flux,1232,0
+YBR019C,glc,zero flux,1233,0
+YIR032C,glc,zero flux,1235,-0
+YKR069W,glc,zero flux,1239,0
+YOR278W,glc,zero flux,1240,0
+YDR047W,glc,zero flux,1241,0
+YHR128W,glc,zero flux,1242,0
+YBR021W,glc,zero flux,1243,0
+YHL016C,glc,zero flux,1244,-0
+YBL042C,glc,zero flux,1250,0
+YJR133W,glc,zero flux,1257,0
+YGR194C,glc,zero flux,1259,-0
+YLR070C,glc,zero flux,1261,0
+YGR282C,sul,zero flux,1,0
+YBR265W,sul,constrained,16,-1.73472e-18
+YJR025C,sul,zero flux,17,0
+YGR019W,sul,zero flux,39,0
+YFL017C,sul,zero flux,53,0
+YBL015W,sul,variable,59,0.295384
+YOL140W,sul,variable,70,0.09762
+YAR071W,sul,zero flux,71,0
+YPL148C,sul,zero flux,72,0
+YLR153C,sul,zero flux,75,0
+YCR032W,sul,zero flux,78,-0
+YNR033W,sul,zero flux,83,0
+YOL052C,sul,zero flux,94,0
+YJL005W,sul,zero flux,95,0
+YJR105W,sul,variable,96,0.00561
+YKL001C,sul,constrained,100,0.0183495
+YNL220W,sul,constrained,103,0.03477
+YDL052C,sul,constrained,104,0.00741
+YFL030W,sul,zero flux,106,0
+YER043C,sul,constrained,109,0.00561
+YOR128C,sul,constrained,114,0.0294
+YDR481C,sul,zero flux,120,0
+YDR232W,sul,zero flux,121,0
+YDR111C,sul,variable,122,-0.13764
+YLR089C,sul,zero flux,123,-0
+YOR335C,sul,zero flux,124,-0
+YMR083W,sul,variable,127,0.277035
+YIR029W,sul,zero flux,136,-0
+YIR027C,sul,zero flux,137,-0
+YIR028W,sul,zero flux,138,0
+YJR152W,sul,zero flux,139,0
+YNR058W,sul,zero flux,142,0
+YPL274W,sul,zero flux,143,0
+YDR354W,sul,constrained,151,0.00852
+YDR305C,sul,zero flux,153,0
+YPL111W,sul,zero flux,161,0
+YHR018C,sul,constrained,162,0.04821
+YOL058W,sul,constrained,163,0.04821
+YDR341C,sul,zero flux,164,-0
+YHR091C,sul,zero flux,165,-0
+YBR034C,sul,zero flux,168,0
+YDR158W,sul,variable,169,0.01521
+YDR321W,sul,zero flux,170,0
+YHR019C,sul,zero flux,173,-0
+YCR024C,sul,zero flux,174,-0
+YER052C,sul,variable,180,0.01521
+YLL018C,sul,zero flux,185,-0
+YPL104W,sul,zero flux,186,-0
+YDR530C,sul,zero flux,191,0
+YER055C,sul,constrained,195,0.01989
+YOL064C,sul,variable,202,0.0183495
+YGR286C,sul,zero flux,204,-0
+YNL280C,sul,constrained,205,0.00066
+YMR015C,sul,zero flux,206,0
+YGL012W,sul,constrained,207,0.00021
+YLR056W,sul,zero flux,214,0
+YMR202W,sul,zero flux,215,0
+YGR088W,sul,variable,216,251.34
+YDR256C,sul,zero flux,217,0
+YCL004W,sul,zero flux,222,0
+YGR202C,sul,zero flux,234,-0
+YGL077C,sul,zero flux,236,0
+YLR133W,sul,zero flux,237,-0
+YPR060C,sul,constrained,238,0.07077
+YGL148W,sul,constrained,239,0.07929
+YDL142C,sul,zero flux,249,0
+YDR044W,sul,zero flux,258,0
+YOR100C,sul,zero flux,259,0
+YBR132C,sul,constrained,261,2.27682e-17
+YAR035W,sul,variable,265,0.040155
+YPR062W,sul,zero flux,268,0
+YCR005C,sul,zero flux,271,0
+YGR012W,sul,variable,276,0.0031395
+YAL012W,sul,at maximum,277,1000
+YFR055W,sul,zero flux,278,0
+YGL184C,sul,zero flux,279,0
+YNL247W,sul,zero flux,280,-0
+YGR155W,sul,zero flux,281,0
+YNR057C,sul,zero flux,299,0
+YLR420W,sul,zero flux,327,0
+YLR172C,sul,zero flux,338,0
+YOL096C,sul,zero flux,340,0
+YDL100C,sul,zero flux,341,0
+YMR013C,sul,zero flux,343,0
+YPR183W,sul,constrained,345,0.24237
+YNR043W,sul,constrained,350,0.00396
+YHR063C,sul,zero flux,351,0
+YJR057W,sul,variable,354,-1.11941e-13
+YBR252W,sul,zero flux,360,0
+YHR068W,sul,zero flux,361,-0
+YDL174C,sul,zero flux,362,-0
+YDR147W,sul,zero flux,381,-0
+YIL134W,sul,constrained,549,-6.93889e-18
+YLR372W,sul,zero flux,582,0
+YLR377C,sul,zero flux,589,0
+YJL155C,sul,zero flux,590,0
+YOR176W,sul,zero flux,591,0
+YBL013W,sul,zero flux,595,-0
+YDL045C,sul,constrained,596,-6.93889e-18
+YEL047C,sul,variable,601,23.7717
+YJR051W,sul,zero flux,602,0
+YER183C,sul,zero flux,605,0
+YDL022W,sul,variable,618,500.889
+YOL059W,sul,zero flux,619,0
+YIL155C,sul,variable,620,187.552
+YNL241C,sul,zero flux,627,0
+YBR020W,sul,zero flux,633,-0
+YDR408C,sul,constrained,640,0.0294
+YEL011W,sul,variable,643,0.15555
+YLR058C,sul,variable,656,-1.46981
+YBR263W,sul,variable,657,500.851
+YPR160W,sul,zero flux,660,0
+YPR035W,sul,constrained,664,0.24525
+YOR168W,sul,zero flux,665,-0
+YLR195C,sul,zero flux,668,0
+YDR300C,sul,zero flux,669,0
+YJL101C,sul,zero flux,670,0
+YMR250W,sul,zero flux,671,0
+YDL215C,sul,zero flux,672,0
+YMR300C,sul,constrained,676,0.0294
+YDL171C,sul,zero flux,677,0
+YGL245W,sul,zero flux,678,-0
+YOL033W,sul,zero flux,679,-0
+YLL043W,sul,variable,687,313.329
+YHL032C,sul,zero flux,689,0
+YDR272W,sul,zero flux,690,-0
+YOR040W,sul,zero flux,691,-0
+YMR217W,sul,constrained,695,0.01452
+YPL091W,sul,variable,702,497.321
+YOL049W,sul,zero flux,705,0
+YLR299W,sul,zero flux,706,0
+YBL033C,sul,zero flux,707,0
+YGR267C,sul,zero flux,708,0
+YDR234W,sul,constrained,725,0.08586
+YIL094C,sul,constrained,742,0.08586
+YFR025C,sul,constrained,744,0.01989
+YDL205C,sul,zero flux,750,0
+YNL277W,sul,variable,763,0.01521
+YHR025W,sul,zero flux,764,0
+YIL116W,sul,constrained,765,0.01989
+YLR174W,sul,zero flux,770,0
+YDL066W,sul,variable,771,0.30564
+YNL009W,sul,zero flux,772,0
+YER065C,sul,zero flux,773,0
+YBR248C,sul,constrained,775,0.01989
+YOR202W,sul,constrained,776,0.01989
+YBL076C,sul,zero flux,780,-0
+YPL040C,sul,zero flux,781,-0
+YDR380W,sul,zero flux,786,-0
+YPL117C,sul,constrained,796,0.00132
+YCL018W,sul,constrained,797,0.08892
+YBL098W,sul,zero flux,807,0
+YPL160W,sul,zero flux,812,-0
+YLR382C,sul,zero flux,813,-0
+YML004C,sul,zero flux,815,-0
+YHR007C,sul,constrained,816,0.00066
+YHR072W,sul,constrained,817,0.00066
+YDR037W,sul,zero flux,819,-0
+YNL073W,sul,zero flux,820,-0
+YML054C,sul,zero flux,823,-0
+YDL055C,sul,constrained,833,0.24237
+YER003C,sul,constrained,834,-0.24237
+YPR006C,sul,zero flux,838,-0
+YOL126C,sul,variable,842,500.234
+YKL085W,sul,at maximum,843,-1000
+YDL078C,sul,zero flux,844,0
+YJR130C,sul,zero flux,850,0
+YGR264C,sul,zero flux,852,-0
+YGR171C,sul,zero flux,853,-0
+YHR046C,sul,constrained,862,0.00159
+YJL153C,sul,constrained,863,0.00159
+YLL061W,sul,zero flux,877,0
+YBR176W,sul,zero flux,878,0
+YKR080W,sul,zero flux,881,0
+YGL067W,sul,zero flux,886,0
+YLR138W,sul,zero flux,899,-0
+YEL042W,sul,zero flux,901,0
+YGR010W,sul,zero flux,915,0
+YKL120W,sul,variable,945,0.58617
+YJL088W,sul,constrained,946,0.04821
+YPL266W,sul,zero flux,952,0
+YML110C,sul,zero flux,953,0
+YGR255C,sul,zero flux,956,0
+YEL021W,sul,constrained,957,0.03318
+YDR538W,sul,zero flux,959,0
+YKL184W,sul,zero flux,961,0
+YLR438W,sul,variable,962,0.04941
+YOR130C,sul,variable,965,0.09762
+YIL145C,sul,zero flux,973,0
+YPR167C,sul,constrained,975,0.0183495
+YKR093W,sul,zero flux,990,0
+YGR007W,sul,zero flux,991,-0
+YGR157W,sul,constrained,992,0.0018
+YCR012W,sul,at maximum,1003,-1000
+YPR047W,sul,zero flux,1012,-0
+YPL268W,sul,zero flux,1016,0
+YPR113W,sul,constrained,1021,0.00159
+YJR077C,sul,variable,1022,835.516
+YER053C,sul,variable,1027,-999.878
+YFL045C,sul,constrained,1028,-0.24237
+YMR220W,sul,constrained,1031,0.00396
+YDR531W,sul,zero flux,1033,0
+YCR028C,sul,zero flux,1034,0
+YBR011C,sul,constrained,1037,1.05018
+YMR267W,sul,zero flux,1038,0
+YGL040C,sul,zero flux,1039,0
+YKR097W,sul,zero flux,1041,0
+YBR166C,sul,variable,1045,0.0306
+YNL316C,sul,constrained,1046,0.04017
+YER014W,sul,zero flux,1048,0
+YDR007W,sul,constrained,1051,0.00852
+YAR015W,sul,constrained,1053,0.0294
+YGR061C,sul,constrained,1055,0.0294
+YIL020C,sul,constrained,1056,0.01989
+YLR142W,sul,zero flux,1057,0
+YNL169C,sul,variable,1065,0.00315
+YGR208W,sul,variable,1072,499.452
+YOL143C,sul,zero flux,1108,0
+YBR256C,sul,zero flux,1109,0
+YJL121C,sul,variable,1126,-0.08651
+YOR095C,sul,constrained,1127,-0.08738
+YNR050C,sul,constrained,1128,0.08586
+YIR034C,sul,constrained,1129,0.08586
+YJR010W,sul,zero flux,1130,0
+YML008C,sul,zero flux,1131,0
+YJL068C,sul,zero flux,1145,-0
+YML082W,sul,at maximum,1149,-1000
+YPR069C,sul,zero flux,1157,0
+YLR146C,sul,zero flux,1158,0
+YGR175C,sul,constrained,1161,0.00066
+YHR190W,sul,constrained,1162,0.00066
+YBR006W,sul,zero flux,1165,0
+YJR095W,sul,zero flux,1171,0
+YIL162W,sul,zero flux,1173,0
+YEL046C,sul,variable,1185,0.11523
+YER086W,sul,constrained,1187,0.05781
+YIL078W,sul,zero flux,1189,-0
+YKL194C,sul,zero flux,1190,-0
+YOR074C,sul,constrained,1202,0.00108
+YDR050C,sul,variable,1206,343.369
+YDR353W,sul,constrained,1207,0.0219495
+YHR106W,sul,zero flux,1208,0
+YPR026W,sul,zero flux,1212,0
+YJR078W,sul,zero flux,1216,0
+YGL026C,sul,constrained,1217,0.00852
+YOL097C,sul,zero flux,1218,0
+YDR268W,sul,zero flux,1219,0
+YGR185C,sul,zero flux,1227,0
+YPL097W,sul,zero flux,1228,0
+YDL103C,sul,zero flux,1232,0
+YBR019C,sul,zero flux,1233,0
+YIR032C,sul,zero flux,1235,-0
+YKR069W,sul,zero flux,1239,0
+YOR278W,sul,zero flux,1240,0
+YDR047W,sul,zero flux,1241,0
+YHR128W,sul,zero flux,1242,0
+YBR021W,sul,zero flux,1243,0
+YHL016C,sul,zero flux,1244,-0
+YBL042C,sul,zero flux,1250,0
+YJR133W,sul,zero flux,1257,0
+YGR194C,sul,zero flux,1259,-0
+YLR070C,sul,zero flux,1261,0

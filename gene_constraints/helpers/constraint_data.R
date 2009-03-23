@@ -4,7 +4,7 @@ constraint_data <- function(){
 
   data <- read.csv(file='data/gene_constraint.csv',header=TRUE)
 
-  scaled <- cast( melt(data,measure.var="flux"), gene + setup ~ environment + variable)
+  scaled <- cast( melt(data,measure.var="flux"), gene + reaction + setup ~ environment + variable)
 
   # ignore rows where all values are very close to zero or the same across environments
   scaled <- subset(scaled, !(abs(glc_flux) < 0.001 & abs(amm_flux) < 0.001 & abs(sul_flux) < 0.001))
@@ -12,7 +12,7 @@ constraint_data <- function(){
 
   # convert back to long data frame
   class(scaled) <- "data.frame"
-  scaled <- melt(scaled,id.var=c("gene","setup"))
+  scaled <- melt(scaled,id.var=c("gene","setup","reaction"))
 
   # Take absolute log of each value
   scaled$value <- log2(abs(scaled$value + 0.00001))

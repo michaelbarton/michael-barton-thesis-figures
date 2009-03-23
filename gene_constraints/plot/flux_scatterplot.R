@@ -1,9 +1,9 @@
 rm(list=ls())
 library(lattice)
 source('helpers/find_replace.R')
-source('helpers/constraint_data.R')
+source('helpers/flux_data.R')
 
-data <- constraint_data()
+data <- flux_data()
 data <- cast(data)
 
 plot <- splom(

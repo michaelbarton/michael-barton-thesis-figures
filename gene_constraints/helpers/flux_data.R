@@ -1,5 +1,4 @@
-
-constraint_data <- function(){
+flux_data <- function(){
   library(reshape)
 
   data <- read.csv(file='data/gene_constraint.csv',header=TRUE)

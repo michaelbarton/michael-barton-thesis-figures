@@ -16,11 +16,18 @@ data$environment <- find.replace(data$environment,
   c("glucose", "ammonium","sulphate")
 )
 
+# Create ordered plotting
+ordered_environment <- ordered(1:3)
+levels(ordered_environment)[3] <- "glucose"
+levels(ordered_environment)[2] <- "ammonium"
+levels(ordered_environment)[1] <- "sulphate"
+data$environment <- factor(data$environment, levels=ordered_environment)
+
 
 plot <- xyplot(
-  optimal_sensitivity ~ suboptimal_sensitivity | environment,
-  xlab="Suboptimal sensitivity (log10)",
-  ylab="Optimal sensitivity (log10)",
+  suboptimal_sensitivity ~ optimal_sensitivity | environment,
+  ylab="Suboptimal sensitivity (log10)",
+  xlab="Optimal sensitivity (log10)",
   data=data,
   panel=function(x,y,...){
     panel.xyplot(x,y,...)

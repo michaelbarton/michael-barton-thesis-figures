@@ -26,8 +26,8 @@ data$environment <- factor(data$environment, levels=ordered_environment)
 
 plot <- xyplot(
   suboptimal_sensitivity ~ optimal_sensitivity | environment,
-  ylab="Suboptimal sensitivity (log10)",
-  xlab="Optimal sensitivity (log10)",
+  ylab="Reaction control coefficient in suboptimal solution (log10)",
+  xlab="Reaction control coefficient in optimal solution (log10)",
   data=data,
   panel=function(x,y,...){
     panel.xyplot(x,y,...)

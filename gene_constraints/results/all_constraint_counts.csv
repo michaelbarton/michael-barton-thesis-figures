@@ -1,0 +1,13 @@
+"","type","environment","optimal_reaction","suboptimal_reaction"
+"1","at maximum","EX_glc(e)",18,16
+"2","at maximum","EX_nh4(e)",25,20
+"3","at maximum","EX_so4(e)",25,24
+"4","constrained","EX_glc(e)",180,181
+"5","constrained","EX_nh4(e)",173,174
+"6","constrained","EX_so4(e)",173,176
+"7","variable","EX_glc(e)",144,133
+"8","variable","EX_nh4(e)",146,166
+"9","variable","EX_so4(e)",146,164
+"10","zero flux","EX_glc(e)",924,936
+"11","zero flux","EX_nh4(e)",922,906
+"12","zero flux","EX_so4(e)",922,902

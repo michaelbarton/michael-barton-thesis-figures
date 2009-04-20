@@ -6,25 +6,29 @@ data <- read.csv(file='data/gene_sensitivity.csv',header=TRUE)
 
 data$sensitivity <- log10(abs(data$sensitivity))
 melted <- melt(data,measure.var="sensitivity")
-data <- cast(melted, gene  + environment ~ setup + variable)
+data <- na.omit(cast(melted, gene  + environment ~ setup + variable))
 
-write.csv(
-  file="results/sensitivity_correlation.csv",
-  data.frame(
-    environments = c(
-      "glucose",
-      "ammonium",
-      "sulphate"
-    ),
-    corr = c(
-      cor(na.omit(subset(data,environment=="glc")[,3:4]),method="spear")[1,2],
-      cor(na.omit(subset(data,environment=="amm")[,3:4]),method="spear")[1,2],
-      cor(na.omit(subset(data,environment=="sul")[,3:4]),method="spear")[1,2]
-    ),
-    count = c(
-      dim(na.omit(subset(data,environment=="glc")))[1],
-      dim(na.omit(subset(data,environment=="amm")))[1],
-      dim(na.omit(subset(data,environment=="sul")))[1]
-    )
-  )
+result <- data.frame(
+  environment  = character(0),
+  correlation  = numeric(0),
+  pvalue       = numeric(0),
+  observations = numeric(0)
 )
+
+envs = unique(data$environment)
+for(i in 1:length(envs)){
+  sub_data = subset(data,environment == envs[i])
+  cor = cor.test(
+    sub_data$optimal_sensitivity,
+    sub_data$suboptimal_sensitivity,
+    method = "spear"
+  )
+  result <- rbind(result, data.frame(
+    environment  = envs[i],
+    correlation  = cor$estimate,
+    pvalue       = cor$p.value,
+    observations = dim(sub_data)[1]
+  ))
+}
+
+write.csv(result,file="results/sensitivity_correlation.csv")

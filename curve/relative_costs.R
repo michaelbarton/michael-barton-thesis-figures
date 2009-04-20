@@ -2,8 +2,8 @@ rm(list=ls())
 library(lattice)
 
 data <- data.frame(
-  cost        = c(2.39,1.46,0.31,2,3,1),
-  environment = c("Carbon Limited","Carbon Limited","Carbon Limited","Nitrogen Limited","Nitrogen Limited","Nitrogen Limited"),
+  cost        = c(0.07,0.1,0.09,0.06,0.2,0.29),
+  environment = c("Glucose Limited","Glucose Limited","Glucose Limited","Ammonium Limited","Ammonium Limited","Ammonium Limited"),
   acid        = c("Tryptophan","Histidine","Glycine","Tryptophan","Histidine","Glycine")
 )
 
@@ -15,12 +15,12 @@ trellis.par.set("superpose.polygon",
 )
 
 
-postscript("costs.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("relative_costs.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 barchart(
   cost ~ environment, 
   groups=acid,
   auto.key=TRUE,
   horiz=FALSE,
-  ylab="Absolute cost",
+  ylab="Relative cost",
   data=data)
 graphics.off()

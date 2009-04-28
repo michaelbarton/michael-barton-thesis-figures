@@ -1,33 +1,34 @@
 rm(list=ls())
 library(reshape)
+library(lattice)
+source('helper/find_replace.R')
 
 data <- read.csv('data/amino_acid_usage.csv')
+data <- subset(data, cost_type == "glu-abs" | cost_type == "glu-rel" | cost_type == "weight")
 
-melted <- melt(data,id.var=c('species','acid','weight'))
-mad <- cast(melted,acid + weight ~ variable,mad)
-   
-postscript("results/amino_acid_variance.eps",width=5,height=5,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+melted <- melt(data,measure.var=c('cost','usage'))
+plot_data <- cast(melted, acid + cost_type ~ variable,
+  function(x){c(mad=mad(x),median=median(x))})
 
-plot(
-  mad$weight,
-  mad$usage,
-  type="n",
-  xlab="Molecular Weight (Daltons)",
-  ylab="Median adjusted deviation usage across species"
+plot_data$cost_type <- find.replace(plot_data$cost_type,
+  c("weight","glu-rel","glu-abs"),
+  c("Molecular weight","Glucose relative","Glucose absolute")
 )
 
-smooth <- loess(
-  usage ~ weight,
-  span = 1,
-  data=mad)
-lines(
-  x = sort(mad$weight),
-  y = predict(smooth,sort(mad$weight)),
-  lwd = 3,
-  lty = 2,
-  col = "grey"
+plot <- xyplot(
+  usage_mad ~ cost_median | cost_type,
+  xlab="Amino acid cost",
+  ylab="Median adjusted deviation usage across species",
+  data = plot_data,
+  scales=list(relation="free",tick.number=4),
+  layout = c(1,3),
+  panel=function(x,y,subscripts,...){
+    panel.loess(x,y,lwd=2,lty=2,col="grey40")
+    panel.xyplot(x,y)
+  }
 )
 
-text(x=mad$weight,y=mad$usage,labels=mad$acid)
-
+  
+postscript("results/amino_acid_variance.eps",width=4,height=10,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+print(plot)
 graphics.off()

@@ -24,15 +24,21 @@ plot <- xyplot(
   data = plot_data,
   scale="free",
   layout = c(1,3),
+  ylim=c(0,0.12),
   panel=function(x,y,subscripts,...){
     for(i in 1:20){
       panel_data = plot_data[subscripts,][i,]
       panel.lines(
         x=c(panel_data$cost_median,panel_data$cost_median),
-        y=c(panel_data$usage_min,panel_data$usage_max)
+        y=c(panel_data$usage_min,panel_data$usage_max),
+        col="grey40",
+        lwd=4
       )
     }
     panel.xyplot(x,y)
+    cor <- cor.test(x,y,method="spear")
+    panel.text(min(x), 0.12, paste("R = ",round(cor$estimate,3)),pos=4)
+    panel.text(min(x), 0.11, paste("p = ",round(cor$p.value,3)),pos=4)
   }
   
 )

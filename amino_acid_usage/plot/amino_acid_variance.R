@@ -22,9 +22,14 @@ plot <- xyplot(
   data = plot_data,
   scales=list(relation="free",tick.number=4),
   layout = c(1,3),
+  ylim=c(0,0.0035),
   panel=function(x,y,subscripts,...){
     panel.loess(x,y,lwd=2,lty=2,col="grey40")
     panel.xyplot(x,y)
+
+    cor <- cor.test(x,y,method="spear")
+    panel.text(min(x), 0.0035, paste("R = ",round(cor$estimate,3)),pos=4)
+    panel.text(min(x), 0.0032, paste("p = ",round(cor$p.value,3)),pos=4)
   }
 )
 

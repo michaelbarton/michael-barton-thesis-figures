@@ -1,26 +1,30 @@
 rm(list=ls())
+library(lattice)
+source('helper/find_replace.R')
 
-data <- read.csv('/Users/mike/projects/09/thesis-figures/mutation_rate/data/site_vs_rate_cost.csv')
+data <- read.csv('data/site_vs_rate_cost.csv')
+data <- subset(data, (cost_type == 'none' | cost_type == 'car'))
 
-weight <- data[data$condition == 'wei',]
+data$fixed <- find.replace(data$fixed,
+  c("true", "false"),
+  c("fixed","varying")
+)
 
-all     <- density(weight$cost)
-fixed   <- density(weight$cost[weight$fixed == 'true'])
-varying <- density(weight$cost[weight$fixed == 'false'])
+data$condition <- find.replace(data$condition,
+  c("wei","rel","abs"),
+  c("Molecular weight", "Glucose relative", "Glucose absolute")
+)
 
+plot <- densityplot(
+  ~ cost | condition,
+    data=data,
+    scale="free",
+    xlab="Phylogeny weighted amino acid cost",
+    ylab="Density",
+    groups=fixed,
+    auto.key=TRUE
+)
 
-postscript("results/weight_density.eps",width=5,height=9,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
-
-old <- par(mfrow=c(2,1))
-
-plot(fixed$x,fixed$y,type = 'n',xlab="Molecular Weight (Da)", ylab="Density")
-lines(all$x,all$y)
-legend('topright',legend="All sites",lty=1)
-
-plot(fixed$x,fixed$y,type = 'n',xlab="Molecular Weight (Da)", ylab="Density")
-lines(fixed$x,  fixed$y,   lty=2)
-lines(varying$x,varying$y, lty=1)
-legend('topright',legend=c("Fixed sites","Varying sites"),lty=c(2,1))
-
-par(old)
+postscript("results/cost_density.eps",width=4,height=10,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+print(plot)
 graphics.off()

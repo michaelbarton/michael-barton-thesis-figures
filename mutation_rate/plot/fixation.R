@@ -20,7 +20,7 @@ plot <- xyplot(
   ylab="Percent sites fixed",
   ylim=c(0.65,1),
   panel = function(x,y,...){
-    panel.loess(x,y,lty=2,lwd=3,col="grey50")
+    panel.loess(x,y,lty=2,lwd=3,col="grey60")
     panel.xyplot(x,y)
 
     cor <- cor.test(x,y,method="spear")

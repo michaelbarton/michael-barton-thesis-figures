@@ -32,9 +32,10 @@ plot <- xyplot(
         x=c(panel_data$cost_median,panel_data$cost_median),
         y=c(panel_data$usage_min,panel_data$usage_max),
         col="grey40",
-        lwd=4
+        lwd=3
       )
     }
+    panel.loess(x,y,lty=2,col="grey60")
     panel.xyplot(x,y)
     cor <- cor.test(x,y,method="spear")
     panel.text(min(x), 0.12, paste("R = ",round(cor$estimate,3)),pos=4)

@@ -40,7 +40,7 @@ plot_data$level <- ordered(plot_data$level)
 levels(plot_data$level) <- c("weak fixation","strong fixation","identical")
 
 plot_data$fixed <- ordered(plot_data$fixed)
-levels(plot_data$fixed) <- c("variable","fixed")
+levels(plot_data$fixed) <- c("non-conserved sites","conserved sites")
 
 legends <- c("Molecular weight (Da)","Glucose absolute cost","Glucose relative cost")
 

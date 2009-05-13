@@ -15,7 +15,7 @@ plot <- xyplot(
   data=data,
   scale=list(relation="free"),
   xlab="Amino acid cost",
-  ylab="Mean mutation rate",
+  ylab="Mean relative substitution rate",
   ylim=c(0.85,1.2),
   panel = function(x,y,...){
     panel.loess(x,y,lty=2,lwd=3,col="grey60")

@@ -10,7 +10,7 @@ plot(
   data$mutation,
   type="n",
   xlab="Percent sites fixed",
-  ylab="Mean mutation rate"
+  ylab="Mean relative substitution rate"
 )
 
 model <- rlm(

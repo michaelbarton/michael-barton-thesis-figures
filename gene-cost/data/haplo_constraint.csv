@@ -1,0 +1,211 @@
+gene,environment,solution,haploinsufficiency,constraint
+YDL052C,amm,optimal,-0.06514,constrained
+YDR481C,amm,optimal,-0.046086,zero flux
+YDR232W,amm,optimal,0.011419,zero flux
+YIR028W,amm,optimal,0.010498,zero flux
+YNR058W,amm,optimal,0.011838,zero flux
+YER055C,amm,optimal,0.013176,constrained
+YCL004W,amm,optimal,0.009452,zero flux
+YGR202C,amm,optimal,-0.020144,zero flux
+YPR060C,amm,optimal,0.013475,constrained
+YGL148W,amm,optimal,-0.014887,constrained
+YDR044W,amm,optimal,0.013139,zero flux
+YCR005C,amm,optimal,-0.021247,zero flux
+YFR055W,amm,optimal,-0.021964,zero flux
+YGR155W,amm,optimal,0.006668,zero flux
+YNR057C,amm,optimal,-0.063747,zero flux
+YLR172C,amm,optimal,0.010718,zero flux
+YOL096C,amm,optimal,0.015336,zero flux
+YNR043W,amm,optimal,-0.050574,constrained
+YJR057W,amm,optimal,-0.061078,zero flux
+YLR372W,amm,optimal,0.025547,zero flux
+YBL013W,amm,optimal,-0.034528,zero flux
+YIL155C,amm,optimal,0.008323,variable
+YNL241C,amm,optimal,-0.010003,variable
+YBR020W,amm,optimal,-0.010938,zero flux
+YPR035W,amm,optimal,0.015836,constrained
+YDR300C,amm,optimal,-0.074152,variable
+YMR250W,amm,optimal,0.007272,zero flux
+YDL215C,amm,optimal,-0.040676,variable
+YDL171C,amm,optimal,0.011036,zero flux
+YOL033W,amm,optimal,0.01928,zero flux
+YHL032C,amm,optimal,0.012743,zero flux
+YMR217W,amm,optimal,0.01076,constrained
+YLR299W,amm,optimal,0.021323,zero flux
+YPL040C,amm,optimal,0.015522,zero flux
+YHR007C,amm,optimal,-0.035729,constrained
+YNL073W,amm,optimal,0.010286,zero flux
+YDL055C,amm,optimal,0.01175,constrained
+YGR264C,amm,optimal,0.012057,zero flux
+YGR171C,amm,optimal,0.015097,zero flux
+YCR012W,amm,optimal,-0.014081,variable
+YMR220W,amm,optimal,0.009358,constrained
+YDR531W,amm,optimal,-0.022378,zero flux
+YBR166C,amm,optimal,-0.011048,variable
+YGR061C,amm,optimal,0.020029,constrained
+YIL020C,amm,optimal,-0.008478,constrained
+YNL169C,amm,optimal,0.011039,variable
+YOL143C,amm,optimal,0.012435,zero flux
+YDR050C,amm,optimal,-0.014223,variable
+YPR026W,amm,optimal,-0.050976,zero flux
+YGR185C,amm,optimal,0.009583,zero flux
+YDR047W,amm,optimal,0.021891,zero flux
+YBR021W,amm,optimal,-0.063891,zero flux
+YJR133W,amm,optimal,0.011261,zero flux
+YDL052C,amm,suboptimal,-0.06514,constrained
+YDR481C,amm,suboptimal,-0.046086,zero flux
+YDR232W,amm,suboptimal,0.011419,zero flux
+YIR028W,amm,suboptimal,0.010498,zero flux
+YNR058W,amm,suboptimal,0.011838,zero flux
+YER055C,amm,suboptimal,0.013176,constrained
+YCL004W,amm,suboptimal,0.009452,zero flux
+YGR202C,amm,suboptimal,-0.020144,zero flux
+YPR060C,amm,suboptimal,0.013475,constrained
+YGL148W,amm,suboptimal,-0.014887,constrained
+YDR044W,amm,suboptimal,0.013139,zero flux
+YCR005C,amm,suboptimal,-0.021247,zero flux
+YFR055W,amm,suboptimal,-0.021964,zero flux
+YGR155W,amm,suboptimal,0.006668,zero flux
+YNR057C,amm,suboptimal,-0.063747,zero flux
+YLR172C,amm,suboptimal,0.010718,zero flux
+YOL096C,amm,suboptimal,0.015336,zero flux
+YNR043W,amm,suboptimal,-0.050574,constrained
+YJR057W,amm,suboptimal,-0.061078,zero flux
+YLR372W,amm,suboptimal,0.025547,zero flux
+YBL013W,amm,suboptimal,-0.034528,zero flux
+YIL155C,amm,suboptimal,0.008323,zero flux
+YNL241C,amm,suboptimal,-0.010003,zero flux
+YBR020W,amm,suboptimal,-0.010938,zero flux
+YBR263W,amm,suboptimal,0.014261,variable
+YPR035W,amm,suboptimal,0.015836,variable
+YDR300C,amm,suboptimal,-0.074152,zero flux
+YMR250W,amm,suboptimal,0.007272,zero flux
+YDL215C,amm,suboptimal,-0.040676,zero flux
+YDL171C,amm,suboptimal,0.011036,variable
+YOL033W,amm,suboptimal,0.01928,zero flux
+YHL032C,amm,suboptimal,0.012743,zero flux
+YMR217W,amm,suboptimal,0.01076,constrained
+YLR299W,amm,suboptimal,0.021323,zero flux
+YPL040C,amm,suboptimal,0.015522,zero flux
+YHR007C,amm,suboptimal,-0.035729,constrained
+YNL073W,amm,suboptimal,0.010286,zero flux
+YDL055C,amm,suboptimal,0.01175,constrained
+YGR264C,amm,suboptimal,0.012057,zero flux
+YGR171C,amm,suboptimal,0.015097,zero flux
+YER053C,amm,suboptimal,0.016574,variable
+YMR220W,amm,suboptimal,0.009358,constrained
+YDR531W,amm,suboptimal,-0.022378,constrained
+YBR166C,amm,suboptimal,-0.011048,variable
+YGR061C,amm,suboptimal,0.020029,constrained
+YIL020C,amm,suboptimal,-0.008478,constrained
+YNL169C,amm,suboptimal,0.011039,variable
+YOL143C,amm,suboptimal,0.012435,zero flux
+YDR050C,amm,suboptimal,-0.014223,variable
+YPR026W,amm,suboptimal,-0.050976,zero flux
+YGR185C,amm,suboptimal,0.009583,zero flux
+YDR047W,amm,suboptimal,0.021891,zero flux
+YBR021W,amm,suboptimal,-0.063891,zero flux
+YJR133W,amm,suboptimal,0.011261,zero flux
+YBR265W,glc,optimal,0.02147,zero flux
+YJR025C,glc,optimal,-0.013804,zero flux
+YNR033W,glc,optimal,-0.027643,zero flux
+YDL052C,glc,optimal,-0.049125,constrained
+YDR481C,glc,optimal,-0.047088,zero flux
+YDR232W,glc,optimal,0.023667,zero flux
+YNR058W,glc,optimal,0.012482,zero flux
+YCR024C,glc,optimal,-0.050671,zero flux
+YGL012W,glc,optimal,-0.036634,constrained
+YGR088W,glc,optimal,0.015192,zero flux
+YPR060C,glc,optimal,0.0276,constrained
+YGL148W,glc,optimal,-0.01935,constrained
+YDR044W,glc,optimal,0.024577,zero flux
+YCR005C,glc,optimal,-0.0288,zero flux
+YGR155W,glc,optimal,0.019845,zero flux
+YNR057C,glc,optimal,-0.035036,zero flux
+YNR043W,glc,optimal,-0.038795,constrained
+YJR057W,glc,optimal,-0.02899,zero flux
+YLR372W,glc,optimal,0.051725,zero flux
+YJR051W,glc,optimal,-0.040295,zero flux
+YDL022W,glc,optimal,0.025978,variable
+YBR020W,glc,optimal,-0.011287,zero flux
+YBR263W,glc,optimal,0.036199,variable
+YDR300C,glc,optimal,-0.083667,variable
+YMR250W,glc,optimal,-0.000864,zero flux
+YDL215C,glc,optimal,-0.048022,variable
+YHL032C,glc,optimal,0.018826,zero flux
+YLR299W,glc,optimal,0.032588,zero flux
+YGR267C,glc,optimal,0.026401,zero flux
+YDL205C,glc,optimal,0.019007,zero flux
+YNL277W,glc,optimal,0.016517,variable
+YPL040C,glc,optimal,0.028787,zero flux
+YBL098W,glc,optimal,0.01368,zero flux
+YPR006C,glc,optimal,-0.01557,zero flux
+YOL126C,glc,optimal,-0.017959,variable
+YHR046C,glc,optimal,0.019372,constrained
+YCR012W,glc,optimal,-0.011305,variable
+YPL268W,glc,optimal,0.018199,zero flux
+YER053C,glc,optimal,0.01863,variable
+YMR220W,glc,optimal,0.015913,constrained
+YCR028C,glc,optimal,-0.062896,zero flux
+YIL020C,glc,optimal,-0.018295,constrained
+YNL169C,glc,optimal,0.012446,variable
+YOL143C,glc,optimal,0.014662,zero flux
+YGR175C,glc,optimal,0.014398,constrained
+YIL162W,glc,optimal,-0.022648,zero flux
+YEL046C,glc,optimal,0.020257,variable
+YDR050C,glc,optimal,-0.022823,variable
+YPR026W,glc,optimal,-0.038541,zero flux
+YDR047W,glc,optimal,0.02076,zero flux
+YBR021W,glc,optimal,-0.070071,zero flux
+YBR265W,glc,suboptimal,0.02147,zero flux
+YJR025C,glc,suboptimal,-0.013804,zero flux
+YNR033W,glc,suboptimal,-0.027643,constrained
+YDL052C,glc,suboptimal,-0.049125,constrained
+YDR481C,glc,suboptimal,-0.047088,zero flux
+YDR232W,glc,suboptimal,0.023667,zero flux
+YNR058W,glc,suboptimal,0.012482,zero flux
+YCR024C,glc,suboptimal,-0.050671,zero flux
+YGL012W,glc,suboptimal,-0.036634,constrained
+YGR088W,glc,suboptimal,0.015192,variable
+YPR060C,glc,suboptimal,0.0276,constrained
+YGL148W,glc,suboptimal,-0.01935,constrained
+YDR044W,glc,suboptimal,0.024577,zero flux
+YCR005C,glc,suboptimal,-0.0288,zero flux
+YAL012W,glc,suboptimal,0.017396,variable
+YGR155W,glc,suboptimal,0.019845,zero flux
+YNR057C,glc,suboptimal,-0.035036,zero flux
+YNR043W,glc,suboptimal,-0.038795,constrained
+YJR057W,glc,suboptimal,-0.02899,zero flux
+YLR372W,glc,suboptimal,0.051725,zero flux
+YJR051W,glc,suboptimal,-0.040295,zero flux
+YDL022W,glc,suboptimal,0.025978,zero flux
+YBR020W,glc,suboptimal,-0.011287,zero flux
+YBR263W,glc,suboptimal,0.036199,variable
+YDR300C,glc,suboptimal,-0.083667,variable
+YMR250W,glc,suboptimal,-0.000864,zero flux
+YDL215C,glc,suboptimal,-0.048022,zero flux
+YHL032C,glc,suboptimal,0.018826,zero flux
+YLR299W,glc,suboptimal,0.032588,zero flux
+YGR267C,glc,suboptimal,0.026401,constrained
+YDL205C,glc,suboptimal,0.019007,zero flux
+YNL277W,glc,suboptimal,0.016517,zero flux
+YPL040C,glc,suboptimal,0.028787,zero flux
+YBL098W,glc,suboptimal,0.01368,zero flux
+YPR006C,glc,suboptimal,-0.01557,zero flux
+YOL126C,glc,suboptimal,-0.017959,variable
+YHR046C,glc,suboptimal,0.019372,constrained
+YCR012W,glc,suboptimal,-0.011305,variable
+YPL268W,glc,suboptimal,0.018199,zero flux
+YER053C,glc,suboptimal,0.01863,variable
+YMR220W,glc,suboptimal,0.015913,constrained
+YCR028C,glc,suboptimal,-0.062896,zero flux
+YIL020C,glc,suboptimal,-0.018295,constrained
+YNL169C,glc,suboptimal,0.012446,variable
+YOL143C,glc,suboptimal,0.014662,zero flux
+YGR175C,glc,suboptimal,0.014398,constrained
+YIL162W,glc,suboptimal,-0.022648,zero flux
+YEL046C,glc,suboptimal,0.020257,variable
+YDR050C,glc,suboptimal,-0.022823,variable
+YPR026W,glc,suboptimal,-0.038541,zero flux
+YDR047W,glc,suboptimal,0.02076,zero flux
+YBR021W,glc,suboptimal,-0.070071,zero flux

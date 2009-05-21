@@ -1,7 +1,9 @@
 rm(list=ls())
+library(MASS)
 library(reshape)
 library(lattice)
 source('helper/find_replace.R')
+source('helper/panel.confidence.R')
 
 data <- read.csv('data/amino_acid_usage.csv')
 data <- subset(data, cost_type == "glu-abs" | cost_type == "glu-rel" | cost_type == "weight")
@@ -24,7 +26,8 @@ plot <- xyplot(
   layout = c(1,3),
   ylim=c(0,0.0035),
   panel=function(x,y,subscripts,...){
-    panel.loess(x,y,lwd=2,lty=2,col="grey40")
+
+    panel.confidence(x,y)
     panel.xyplot(x,y)
 
     cor <- cor.test(x,y,method="spear")

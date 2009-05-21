@@ -37,7 +37,7 @@ for(i in 1:length(types)){
 }
 
 plot_data$level <- ordered(plot_data$level)
-levels(plot_data$level) <- c("weak fixation","strong fixation","identical")
+levels(plot_data$level) <- c("weak conservation","strong conservation","identical")
 
 plot_data$fixed <- ordered(plot_data$fixed)
 levels(plot_data$fixed) <- c("non-conserved sites","conserved sites")

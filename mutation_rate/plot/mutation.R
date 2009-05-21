@@ -1,6 +1,7 @@
 rm(list=ls())
 require(lattice)
 source('helper/find_replace.R')
+source('helper/panel.confidence.R')
 
 data <- read.csv('data/acid_mutation_rates.csv')
 data <- subset(data, (cost_type == "weight" | cost_type == "glu-abs" | cost_type == "glu-rel"))
@@ -18,7 +19,7 @@ plot <- xyplot(
   ylab="Mean relative substitution rate",
   ylim=c(0.85,1.2),
   panel = function(x,y,...){
-    panel.loess(x,y,lty=2,lwd=3,col="grey60")
+    panel.confidence(x,y)
     panel.xyplot(x,y)
 
     cor <- cor.test(x,y,method="spear")

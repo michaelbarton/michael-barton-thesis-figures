@@ -2,11 +2,10 @@ rm(list=ls())
 require(lattice)
 require(reshape)
 source('helper/find_replace.R')
+source('helper/panel.confidence.R')
 
-data <- read.csv('data/mutation_rates.csv')
-
-melted <- melt(data)
-mutation <- cast(melted,acid + cost_type ~ variable,median)
+mutation <- read.csv('data/median_mutation_rate_vs_ancestral_cost.csv')
+mutation <- subset(mutation, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
 
 mutation$cost_type <- find.replace(mutation$cost_type,
   c("weight","glu-rel","glu-abs"),
@@ -18,10 +17,15 @@ plot <- xyplot(
   data=mutation,
   scale=list(relation="free"),
   xlab="Ancestral amino acid cost",
-  ylab="Median relative substitution rate",
+  ylab="Mean relative substitution rate",
+  ylim=c(0.85,1.2),
   panel = function(x,y,...){
-    panel.loess(x,y,lty=2,lwd=3,col="grey60")
+    panel.confidence(x,y)
     panel.xyplot(x,y)
+
+    cor <- cor.test(x,y,method="spear")
+    panel.text(min(x), 1.2,    paste("R = ",round(cor$estimate,3)),pos=4)
+    panel.text(min(x), 1.17,  paste("p = ",round(cor$p.value,3)),pos=4)
   }
 )
 

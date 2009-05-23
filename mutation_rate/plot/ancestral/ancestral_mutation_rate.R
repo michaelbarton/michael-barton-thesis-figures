@@ -4,7 +4,7 @@ require(reshape)
 source('helper/find_replace.R')
 source('helper/panel.confidence.R')
 
-mutation <- read.csv('data/median_mutation_rate_vs_ancestral_cost.csv')
+mutation <- read.csv('data/ancestral/mean_mutation_rate.csv')
 mutation <- subset(mutation, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
 
 mutation$cost_type <- find.replace(mutation$cost_type,
@@ -18,7 +18,7 @@ plot <- xyplot(
   scale=list(relation="free"),
   xlab="Ancestral amino acid cost",
   ylab="Mean relative substitution rate",
-  ylim=c(0.85,1.2),
+  #ylim=c(0.85,1.2),
   panel = function(x,y,...){
     panel.confidence(x,y)
     panel.xyplot(x,y)
@@ -30,6 +30,6 @@ plot <- xyplot(
 )
 
 
-postscript("results/ancestral_mutation.eps",width=4,height=10,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/ancestral/mutation_rate.eps",width=4,height=10,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

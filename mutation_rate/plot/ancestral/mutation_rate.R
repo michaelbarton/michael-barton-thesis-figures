@@ -1,6 +1,5 @@
 rm(list=ls())
 require(lattice)
-require(reshape)
 source('helper/find_replace.R')
 source('helper/panel.confidence.R')
 
@@ -13,19 +12,19 @@ mutation$cost_type <- find.replace(mutation$cost_type,
 )
 
 plot <- xyplot(
-  mutation ~ cost | cost_type,
+  rate ~ cost | cost_type,
   data=mutation,
   scale=list(relation="free"),
   xlab="Ancestral amino acid cost",
   ylab="Mean relative substitution rate",
-  #ylim=c(0.85,1.2),
+  ylim=c(0.75,1.1),
   panel = function(x,y,...){
     panel.confidence(x,y)
     panel.xyplot(x,y)
 
     cor <- cor.test(x,y,method="spear")
-    panel.text(min(x), 1.2,    paste("R = ",round(cor$estimate,3)),pos=4)
-    panel.text(min(x), 1.17,  paste("p = ",round(cor$p.value,3)),pos=4)
+    panel.text(min(x), 1.1,    paste("R = ",round(cor$estimate,3)),pos=4)
+    panel.text(min(x), 1.07,  paste("p = ",round(cor$p.value,3)),pos=4)
   }
 )
 

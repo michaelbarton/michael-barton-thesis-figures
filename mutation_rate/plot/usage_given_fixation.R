@@ -1,6 +1,7 @@
 rm(list=ls())
 require(lattice)
 require(reshape)
+source('helper/panel.confidence.R')
 
 data <- read.csv(file="data/fixation_usage.csv")
 data <- subset(data, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
@@ -37,10 +38,13 @@ for(i in 1:length(types)){
 }
 
 plot_data$level <- ordered(plot_data$level)
-levels(plot_data$level) <- c("weak conservation","strong conservation","identical")
+levels(plot_data$level) <- c("conservation at PAM250 > 0","conservation at PAM250 > 0.5","conservation at identical")
 
-plot_data$fixed <- ordered(plot_data$fixed)
-levels(plot_data$fixed) <- c("non-conserved sites","conserved sites")
+con_levels <- ordered(1:2)
+levels(con_levels) <- c(TRUE,FALSE)
+
+plot_data$fixed <- factor(plot_data$fixed, levels = con_levels)
+levels(plot_data$fixed) <- c("conserved sites","non-conserved sites")
 
 legends <- c("Molecular weight (Da)","Glucose absolute cost","Glucose relative cost")
 
@@ -49,9 +53,9 @@ for(i in 1:length(types)){
   file = paste("results/usage_given_fixation_",types[i],".eps",sep="")
 
 plot <- xyplot(
-  count ~ cost | level + fixed,
+  count ~ cost | fixed + level,
   data=sub_plot_data,
-  ylim=c(0,160000),
+  scale="free",
   xlab=legends[i],
   ylab="Amino acid frequency",
   panel=function(x,y,subscripts){
@@ -62,16 +66,16 @@ plot <- xyplot(
     panel_data <- melt(sub_plot_data[subscripts,],measure.var="count")
     panel_data <- na.omit(cast(panel_data,acid + fixed + cost ~ variable,median))
 
-    panel.loess(panel_data$cost,panel_data$count,lty=2)
+    panel.confidence(panel_data$cost,panel_data$count)
     panel.xyplot(panel_data$cost,panel_data$count)
 
     spearman = cor.test(panel_data$cost,panel_data$count,method="spearman")
-    panel.text(min(x),150000,pos=4, paste("R = ",round(spearman$estimate,digits=3)))
-    panel.text(min(x),135000,pos=4, paste("p = ",round(spearman$p.value,digits=4)))
+    panel.text(max(x) * 0.9,max(y),pos=2, paste("R = ",round(spearman$estimate,digits=3)))
+    panel.text(max(x) * 0.9,max(y) * 0.9,pos=2, paste("p = ",round(spearman$p.value,digits=4)))
   }
 )
 
-postscript(file,width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript(file,width=8,height=10,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()
 }

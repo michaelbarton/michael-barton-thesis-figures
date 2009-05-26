@@ -12,10 +12,12 @@ plot <- splom(
   ylab= "Absolute reaction flux (log.2)",
   upper.panel=function(x,y,...){
     values = data$setup == "optimal"
+    x <- jitter(x,amount=1);y <- jitter(y,amount=1)
     panel.xyplot(x[values],y[values],col="grey10",pch=1)
   },
   lower.panel=function(x,y,...){
     values = data$setup == "suboptimal"
+    x <- jitter(x,amount=1);y <- jitter(y,amount=1)
     panel.xyplot(x[values],y[values],col="grey20",pch=2)
   },
   key = list(

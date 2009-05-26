@@ -1,11 +1,24 @@
 source('helpers/find_replace.R')
 
+flux_data_with_clusters <- function(){
+
+  scaled <- flux_data()
+
+  # Cluster flux into zero high low medium
+  scaled$cluster <- factor(kmeans(scaled$value,c(-15,0,10))$cluster)
+  scaled$cluster <- find.replace(scaled$cluster,c(1,2,3),c("zero","low","high"))
+
+  scaled
+}
+
 flux_data <- function(){
   library(reshape)
 
   data <- read.csv(file='data/gene_constraint.csv',header=TRUE)
 
   scaled <- cast( melt(data,measure.var="flux"), gene + reaction + setup ~ environment + variable)
+
+  scaled <- na.omit(scaled)
 
   # ignore rows where all values are very close to zero or the same across environments
   scaled <- subset(scaled, !(abs(glc_flux) < 0.001 & abs(amm_flux) < 0.001 & abs(sul_flux) < 0.001))

@@ -2,11 +2,7 @@ rm(list=ls())
 library(lattice)
 source('helpers/flux_data.R')
 
-data <- flux_data()
-
-# Break into three clusters based on flux
-data$cluster <- factor(kmeans(data$value,c(-15,0,10))$cluster)
-data$cluster <- find.replace(data$cluster,c(1,2,3),c("zero","low","high"))
+data <- flux_data_with_clusters()
 
 plot <- bwplot(
   cluster ~ value | setup,

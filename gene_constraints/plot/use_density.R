@@ -8,6 +8,7 @@ data <- flux_data()
 plot <- densityplot(
   ~ value | setup,
   groups = variable,
+  bw=1,
   xlab="Absolute reaction flux (log.2)",
   auto.key=TRUE,
   data=data

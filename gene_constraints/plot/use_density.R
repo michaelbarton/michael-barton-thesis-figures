@@ -9,6 +9,7 @@ data <- subset(data, value > -16)
 plot <- densityplot(
   ~ value | setup,
   groups = variable,
+  bw=1,
   xlab="Absolute reaction flux (log.2)",
   auto.key=TRUE,
   data=data

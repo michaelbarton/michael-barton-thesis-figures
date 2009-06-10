@@ -2,6 +2,8 @@ rm(list=ls())
 library(lattice)
 
 source('helper/find_replace.R')
+source('helper/panel_functions.R')
+
 
 data <- read.csv(file='data/haplo_constraint.csv')
 
@@ -17,10 +19,15 @@ data$environment <- find.replace(data$environment,
 plot <- bwplot(
   haploinsufficiency ~ constraint | environment + solution,
   data = data,
-  xlab = "log. Reaction constraint",
-  ylab = "Haplosufficient growth rate"
+  xlab = "Reaction constraint",
+  ylab = "Hemizygous growth rate difference",
+  panel= function(x,y,...){
+    panel.bwplot(x,y,...)
+    panel.abline(h=0,col="grey50",lty=2)
+    panel.anova(x,y)
+  }
 )
 
-postscript("results/haplo_constraint.eps",width=6,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/haplo/constraint.eps",width=8,height=8,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

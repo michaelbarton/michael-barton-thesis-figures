@@ -2,6 +2,7 @@ rm(list=ls())
 library(lattice)
 
 source('helper/find_replace.R')
+source('helper/panel_functions.R')
 
 data <- read.csv(file='data/haplo_sensitivity.csv')
 data$sensitivity <- log(abs(data$sensitivity) + 0.0001)
@@ -19,9 +20,14 @@ plot <- xyplot(
   haploinsufficiency ~ sensitivity | environment + solution,
   data = data,
   xlab = "log. Reaction sensitivity",
-  ylab = "Haplosufficient growth rate"
+  ylab = "Hemizygous growth rate difference",
+  panel= function(x,y,...){
+    panel.xyplot(x,y,...)
+    panel.abline(h=0,col="grey50",lty=2)
+    panel.spearman(x,y)
+  }
 )
 
-postscript("results/haplo_sensitivity.eps",width=6,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/haplo/sensitivity.eps",width=8,height=8,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

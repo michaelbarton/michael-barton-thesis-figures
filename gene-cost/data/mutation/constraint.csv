@@ -1,0 +1,887 @@
+gene,environment,solution,dN,dS,dN_dS,constraint
+YBR265W,amm,optimal,0.087000095,1.3737,0.0446523,zero flux
+YFL017C,amm,optimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,amm,optimal,0.072600263,1.5843,0.0316921,constrained
+YPL148C,amm,optimal,0.276800588,1.6009,0.132521,zero flux
+YNR033W,amm,optimal,0.162900037,1.5714,0.0769558,zero flux
+YKL001C,amm,optimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,amm,optimal,0.027399989,1.1184,0.0133093,variable
+YDL052C,amm,optimal,0.187600227,1.1216,0.103507,constrained
+YER043C,amm,optimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,amm,optimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,amm,optimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,amm,optimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,amm,optimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,amm,optimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,amm,optimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,amm,optimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,amm,optimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,amm,optimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,amm,optimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,amm,optimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,amm,optimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,amm,optimal,0.02890013,1.1842,0.0124518,variable
+YDR321W,amm,optimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,amm,optimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,amm,optimal,0.032100008,1.3329,0.014976,variable
+YPL104W,amm,optimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,amm,optimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,amm,optimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,amm,optimal,0.039600032,0.9744,0.0202651,zero flux
+YGL012W,amm,optimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,amm,optimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,amm,optimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,amm,optimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,amm,optimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,amm,optimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,amm,optimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,amm,optimal,0.080000157,1.4655,0.0393973,zero flux
+YGR012W,amm,optimal,0.102499903,1.6778,0.0466129,constrained
+YGL184C,amm,optimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,amm,optimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,amm,optimal,0.049800023,1.3728,0.0219365,zero flux
+YHR063C,amm,optimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,amm,optimal,0.160900402,1.5553,0.0766857,zero flux
+YBR252W,amm,optimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,amm,optimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,amm,optimal,0.173100423,1.428,0.0911938,constrained
+YLR372W,amm,optimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,amm,optimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,amm,optimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,amm,optimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,amm,optimal,0.091899929,1.3341,0.0496429,constrained
+YEL047C,amm,optimal,0.092699992,1.4669,0.040551,zero flux
+YOL059W,amm,optimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,amm,optimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,amm,optimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,amm,optimal,0.016100042,0.6778,0.0078969,variable
+YPR160W,amm,optimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,amm,optimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,amm,optimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,amm,optimal,0.034700099,1.6844,0.0144372,variable
+YMR300C,amm,optimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,amm,optimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,amm,optimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,amm,optimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,amm,optimal,0.054800079,1.4107,0.025245,zero flux
+YBL033C,amm,optimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,amm,optimal,0.015200039,1.2312,0.00804137,zero flux
+YIL094C,amm,optimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,amm,optimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,amm,optimal,0.071500053,1.5066,0.0341219,variable
+YHR025W,amm,optimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,amm,optimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,amm,optimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,amm,optimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,amm,optimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,amm,optimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,amm,optimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,amm,optimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,amm,optimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,amm,optimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,amm,optimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,amm,optimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,amm,optimal,0.074700065,1.5915,0.0328677,variable
+YKL085W,amm,optimal,0.036600099,1.5438,0.0150707,variable
+YDL078C,amm,optimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,amm,optimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,amm,optimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,amm,optimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,amm,optimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,amm,optimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,amm,optimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,amm,optimal,0.047200038,1.3499,0.0231518,zero flux
+YGL067W,amm,optimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,amm,optimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,amm,optimal,0.027499929,1.1537,0.0158091,zero flux
+YKL120W,amm,optimal,0.037500128,1.1246,0.0205362,variable
+YJL088W,amm,optimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,amm,optimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,amm,optimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,amm,optimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,amm,optimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,amm,optimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,amm,optimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,amm,optimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,amm,optimal,0.144000037,1.7533,0.0598815,constrained
+YCR012W,amm,optimal,0.021500098,0.214,0.0113448,variable
+YPR047W,amm,optimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,amm,optimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,amm,optimal,0.083500248,1.402,0.0398691,constrained
+YJR077C,amm,optimal,0.023499953,1.1117,0.0116238,variable
+YFL045C,amm,optimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,amm,optimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,amm,optimal,0.069500263,1.1615,0.0399257,zero flux
+YCR028C,amm,optimal,0.121199937,1.6136,0.0556425,zero flux
+YMR267W,amm,optimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,amm,optimal,0.098300066,1.596,0.0449713,variable
+YNL316C,amm,optimal,0.224400183,1.4812,0.111087,constrained
+YER014W,amm,optimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,amm,optimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,amm,optimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,amm,optimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,amm,optimal,0.167400372,1.4978,0.076152,variable
+YOL143C,amm,optimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,amm,optimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,amm,optimal,0.040500053,1.266,0.0193859,variable
+YNR050C,amm,optimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,amm,optimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,amm,optimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,amm,optimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,amm,optimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,amm,optimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,amm,optimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,amm,optimal,0.028299982,1.231,0.013723,constrained
+YKL194C,amm,optimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,amm,optimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,amm,optimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,amm,optimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,amm,optimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,amm,optimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,amm,optimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,amm,optimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,amm,optimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,amm,optimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,amm,optimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,amm,optimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,amm,optimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,amm,optimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,amm,optimal,0.166600085,1.5942,0.0771729,zero flux
+YBR265W,amm,suboptimal,0.087000095,1.3737,0.0446523,zero flux
+YFL017C,amm,suboptimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,amm,suboptimal,0.072600263,1.5843,0.0316921,variable
+YPL148C,amm,suboptimal,0.276800588,1.6009,0.132521,constrained
+YNR033W,amm,suboptimal,0.162900037,1.5714,0.0769558,zero flux
+YKL001C,amm,suboptimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,amm,suboptimal,0.027399989,1.1184,0.0133093,constrained
+YDL052C,amm,suboptimal,0.187600227,1.1216,0.103507,constrained
+YER043C,amm,suboptimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,amm,suboptimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,amm,suboptimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,amm,suboptimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,amm,suboptimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,amm,suboptimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,amm,suboptimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,amm,suboptimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,amm,suboptimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,amm,suboptimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,amm,suboptimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,amm,suboptimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,amm,suboptimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,amm,suboptimal,0.02890013,1.1842,0.0124518,variable
+YDR321W,amm,suboptimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,amm,suboptimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,amm,suboptimal,0.032100008,1.3329,0.014976,variable
+YPL104W,amm,suboptimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,amm,suboptimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,amm,suboptimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,amm,suboptimal,0.039600032,0.9744,0.0202651,variable
+YGL012W,amm,suboptimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,amm,suboptimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,amm,suboptimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,amm,suboptimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,amm,suboptimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,amm,suboptimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,amm,suboptimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,amm,suboptimal,0.080000157,1.4655,0.0393973,zero flux
+YGR012W,amm,suboptimal,0.102499903,1.6778,0.0466129,constrained
+YGL184C,amm,suboptimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,amm,suboptimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,amm,suboptimal,0.049800023,1.3728,0.0219365,zero flux
+YHR063C,amm,suboptimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,amm,suboptimal,0.160900402,1.5553,0.0766857,zero flux
+YBR252W,amm,suboptimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,amm,suboptimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,amm,suboptimal,0.173100423,1.428,0.0911938,zero flux
+YLR372W,amm,suboptimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,amm,suboptimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,amm,suboptimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,amm,suboptimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,amm,suboptimal,0.091899929,1.3341,0.0496429,zero flux
+YEL047C,amm,suboptimal,0.092699992,1.4669,0.040551,zero flux
+YOL059W,amm,suboptimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,amm,suboptimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,amm,suboptimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,amm,suboptimal,0.016100042,0.6778,0.0078969,variable
+YBR263W,amm,suboptimal,0.049399997,1.0199,0.0264841,variable
+YPR160W,amm,suboptimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,amm,suboptimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,amm,suboptimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,amm,suboptimal,0.034700099,1.6844,0.0144372,zero flux
+YMR300C,amm,suboptimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,amm,suboptimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,amm,suboptimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,amm,suboptimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,amm,suboptimal,0.054800079,1.4107,0.025245,zero flux
+YBL033C,amm,suboptimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,amm,suboptimal,0.015200039,1.2312,0.00804137,zero flux
+YIL094C,amm,suboptimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,amm,suboptimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,amm,suboptimal,0.071500053,1.5066,0.0341219,variable
+YHR025W,amm,suboptimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,amm,suboptimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,amm,suboptimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,amm,suboptimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,amm,suboptimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,amm,suboptimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,amm,suboptimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,amm,suboptimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,amm,suboptimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,amm,suboptimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,amm,suboptimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,amm,suboptimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,amm,suboptimal,0.074700065,1.5915,0.0328677,variable
+YDL078C,amm,suboptimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,amm,suboptimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,amm,suboptimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,amm,suboptimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,amm,suboptimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,amm,suboptimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,amm,suboptimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,amm,suboptimal,0.047200038,1.3499,0.0231518,zero flux
+YGL067W,amm,suboptimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,amm,suboptimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,amm,suboptimal,0.027499929,1.1537,0.0158091,zero flux
+YKL120W,amm,suboptimal,0.037500128,1.1246,0.0205362,variable
+YJL088W,amm,suboptimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,amm,suboptimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,amm,suboptimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,amm,suboptimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,amm,suboptimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,amm,suboptimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,amm,suboptimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,amm,suboptimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,amm,suboptimal,0.144000037,1.7533,0.0598815,constrained
+YPR047W,amm,suboptimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,amm,suboptimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,amm,suboptimal,0.083500248,1.402,0.0398691,constrained
+YJR077C,amm,suboptimal,0.023499953,1.1117,0.0116238,variable
+YFL045C,amm,suboptimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,amm,suboptimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,amm,suboptimal,0.069500263,1.1615,0.0399257,constrained
+YCR028C,amm,suboptimal,0.121199937,1.6136,0.0556425,constrained
+YMR267W,amm,suboptimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,amm,suboptimal,0.098300066,1.596,0.0449713,variable
+YNL316C,amm,suboptimal,0.224400183,1.4812,0.111087,constrained
+YER014W,amm,suboptimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,amm,suboptimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,amm,suboptimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,amm,suboptimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,amm,suboptimal,0.167400372,1.4978,0.076152,variable
+YOL143C,amm,suboptimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,amm,suboptimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,amm,suboptimal,0.040500053,1.266,0.0193859,variable
+YNR050C,amm,suboptimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,amm,suboptimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,amm,suboptimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,amm,suboptimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,amm,suboptimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,amm,suboptimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,amm,suboptimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,amm,suboptimal,0.028299982,1.231,0.013723,constrained
+YKL194C,amm,suboptimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,amm,suboptimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,amm,suboptimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,amm,suboptimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,amm,suboptimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,amm,suboptimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,amm,suboptimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,amm,suboptimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,amm,suboptimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,amm,suboptimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,amm,suboptimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,amm,suboptimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,amm,suboptimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,amm,suboptimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,amm,suboptimal,0.166600085,1.5942,0.0771729,zero flux
+YBR265W,glc,optimal,0.087000095,1.3737,0.0446523,zero flux
+YFL017C,glc,optimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,glc,optimal,0.072600263,1.5843,0.0316921,constrained
+YPL148C,glc,optimal,0.276800588,1.6009,0.132521,zero flux
+YNR033W,glc,optimal,0.162900037,1.5714,0.0769558,zero flux
+YKL001C,glc,optimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,glc,optimal,0.027399989,1.1184,0.0133093,constrained
+YDL052C,glc,optimal,0.187600227,1.1216,0.103507,constrained
+YER043C,glc,optimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,glc,optimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,glc,optimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,glc,optimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,glc,optimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,glc,optimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,glc,optimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,glc,optimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,glc,optimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,glc,optimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,glc,optimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,glc,optimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,glc,optimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,glc,optimal,0.02890013,1.1842,0.0124518,variable
+YDR321W,glc,optimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,glc,optimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,glc,optimal,0.032100008,1.3329,0.014976,variable
+YPL104W,glc,optimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,glc,optimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,glc,optimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,glc,optimal,0.039600032,0.9744,0.0202651,zero flux
+YGL012W,glc,optimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,glc,optimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,glc,optimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,glc,optimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,glc,optimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,glc,optimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,glc,optimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,glc,optimal,0.080000157,1.4655,0.0393973,zero flux
+YGR012W,glc,optimal,0.102499903,1.6778,0.0466129,constrained
+YGL184C,glc,optimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,glc,optimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,glc,optimal,0.049800023,1.3728,0.0219365,zero flux
+YHR063C,glc,optimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,glc,optimal,0.160900402,1.5553,0.0766857,zero flux
+YBR252W,glc,optimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,glc,optimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,glc,optimal,0.173100423,1.428,0.0911938,constrained
+YLR372W,glc,optimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,glc,optimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,glc,optimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,glc,optimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,glc,optimal,0.091899929,1.3341,0.0496429,constrained
+YEL047C,glc,optimal,0.092699992,1.4669,0.040551,variable
+YOL059W,glc,optimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,glc,optimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,glc,optimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,glc,optimal,0.016100042,0.6778,0.0078969,variable
+YBR263W,glc,optimal,0.049399997,1.0199,0.0264841,variable
+YPR160W,glc,optimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,glc,optimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,glc,optimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,glc,optimal,0.034700099,1.6844,0.0144372,variable
+YMR300C,glc,optimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,glc,optimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,glc,optimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,glc,optimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,glc,optimal,0.054800079,1.4107,0.025245,zero flux
+YBL033C,glc,optimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,glc,optimal,0.015200039,1.2312,0.00804137,zero flux
+YIL094C,glc,optimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,glc,optimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,glc,optimal,0.071500053,1.5066,0.0341219,variable
+YHR025W,glc,optimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,glc,optimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,glc,optimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,glc,optimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,glc,optimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,glc,optimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,glc,optimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,glc,optimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,glc,optimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,glc,optimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,glc,optimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,glc,optimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,glc,optimal,0.074700065,1.5915,0.0328677,variable
+YKL085W,glc,optimal,0.036600099,1.5438,0.0150707,variable
+YDL078C,glc,optimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,glc,optimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,glc,optimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,glc,optimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,glc,optimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,glc,optimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,glc,optimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,glc,optimal,0.047200038,1.3499,0.0231518,zero flux
+YGL067W,glc,optimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,glc,optimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,glc,optimal,0.027499929,1.1537,0.0158091,zero flux
+YKL120W,glc,optimal,0.037500128,1.1246,0.0205362,variable
+YJL088W,glc,optimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,glc,optimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,glc,optimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,glc,optimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,glc,optimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,glc,optimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,glc,optimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,glc,optimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,glc,optimal,0.144000037,1.7533,0.0598815,constrained
+YCR012W,glc,optimal,0.021500098,0.214,0.0113448,variable
+YPR047W,glc,optimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,glc,optimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,glc,optimal,0.083500248,1.402,0.0398691,constrained
+YFL045C,glc,optimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,glc,optimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,glc,optimal,0.069500263,1.1615,0.0399257,zero flux
+YCR028C,glc,optimal,0.121199937,1.6136,0.0556425,zero flux
+YMR267W,glc,optimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,glc,optimal,0.098300066,1.596,0.0449713,variable
+YNL316C,glc,optimal,0.224400183,1.4812,0.111087,constrained
+YER014W,glc,optimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,glc,optimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,glc,optimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,glc,optimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,glc,optimal,0.167400372,1.4978,0.076152,variable
+YOL143C,glc,optimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,glc,optimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,glc,optimal,0.040500053,1.266,0.0193859,variable
+YNR050C,glc,optimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,glc,optimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,glc,optimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,glc,optimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,glc,optimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,glc,optimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,glc,optimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,glc,optimal,0.028299982,1.231,0.013723,constrained
+YKL194C,glc,optimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,glc,optimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,glc,optimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,glc,optimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,glc,optimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,glc,optimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,glc,optimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,glc,optimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,glc,optimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,glc,optimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,glc,optimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,glc,optimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,glc,optimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,glc,optimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,glc,optimal,0.166600085,1.5942,0.0771729,zero flux
+YBR265W,glc,suboptimal,0.087000095,1.3737,0.0446523,zero flux
+YFL017C,glc,suboptimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,glc,suboptimal,0.072600263,1.5843,0.0316921,variable
+YPL148C,glc,suboptimal,0.276800588,1.6009,0.132521,zero flux
+YNR033W,glc,suboptimal,0.162900037,1.5714,0.0769558,constrained
+YKL001C,glc,suboptimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,glc,suboptimal,0.027399989,1.1184,0.0133093,constrained
+YDL052C,glc,suboptimal,0.187600227,1.1216,0.103507,constrained
+YER043C,glc,suboptimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,glc,suboptimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,glc,suboptimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,glc,suboptimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,glc,suboptimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,glc,suboptimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,glc,suboptimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,glc,suboptimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,glc,suboptimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,glc,suboptimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,glc,suboptimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,glc,suboptimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,glc,suboptimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,glc,suboptimal,0.02890013,1.1842,0.0124518,zero flux
+YDR321W,glc,suboptimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,glc,suboptimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,glc,suboptimal,0.032100008,1.3329,0.014976,zero flux
+YPL104W,glc,suboptimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,glc,suboptimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,glc,suboptimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,glc,suboptimal,0.039600032,0.9744,0.0202651,zero flux
+YGL012W,glc,suboptimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,glc,suboptimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,glc,suboptimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,glc,suboptimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,glc,suboptimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,glc,suboptimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,glc,suboptimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,glc,suboptimal,0.080000157,1.4655,0.0393973,zero flux
+YGR012W,glc,suboptimal,0.102499903,1.6778,0.0466129,variable
+YAL012W,glc,suboptimal,0.03169998,0.9632,0.0156176,variable
+YGL184C,glc,suboptimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,glc,suboptimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,glc,suboptimal,0.049800023,1.3728,0.0219365,constrained
+YHR063C,glc,suboptimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,glc,suboptimal,0.160900402,1.5553,0.0766857,zero flux
+YBR252W,glc,suboptimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,glc,suboptimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,glc,suboptimal,0.173100423,1.428,0.0911938,zero flux
+YLR372W,glc,suboptimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,glc,suboptimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,glc,suboptimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,glc,suboptimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,glc,suboptimal,0.091899929,1.3341,0.0496429,zero flux
+YEL047C,glc,suboptimal,0.092699992,1.4669,0.040551,variable
+YOL059W,glc,suboptimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,glc,suboptimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,glc,suboptimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,glc,suboptimal,0.016100042,0.6778,0.0078969,variable
+YBR263W,glc,suboptimal,0.049399997,1.0199,0.0264841,variable
+YPR160W,glc,suboptimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,glc,suboptimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,glc,suboptimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,glc,suboptimal,0.034700099,1.6844,0.0144372,zero flux
+YMR300C,glc,suboptimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,glc,suboptimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,glc,suboptimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,glc,suboptimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,glc,suboptimal,0.054800079,1.4107,0.025245,zero flux
+YBL033C,glc,suboptimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,glc,suboptimal,0.015200039,1.2312,0.00804137,constrained
+YIL094C,glc,suboptimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,glc,suboptimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,glc,suboptimal,0.071500053,1.5066,0.0341219,zero flux
+YHR025W,glc,suboptimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,glc,suboptimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,glc,suboptimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,glc,suboptimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,glc,suboptimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,glc,suboptimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,glc,suboptimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,glc,suboptimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,glc,suboptimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,glc,suboptimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,glc,suboptimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,glc,suboptimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,glc,suboptimal,0.074700065,1.5915,0.0328677,variable
+YKL085W,glc,suboptimal,0.036600099,1.5438,0.0150707,variable
+YDL078C,glc,suboptimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,glc,suboptimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,glc,suboptimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,glc,suboptimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,glc,suboptimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,glc,suboptimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,glc,suboptimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,glc,suboptimal,0.047200038,1.3499,0.0231518,variable
+YGL067W,glc,suboptimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,glc,suboptimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,glc,suboptimal,0.027499929,1.1537,0.0158091,zero flux
+YJL088W,glc,suboptimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,glc,suboptimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,glc,suboptimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,glc,suboptimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,glc,suboptimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,glc,suboptimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,glc,suboptimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,glc,suboptimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,glc,suboptimal,0.144000037,1.7533,0.0598815,constrained
+YCR012W,glc,suboptimal,0.021500098,0.214,0.0113448,variable
+YPR047W,glc,suboptimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,glc,suboptimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,glc,suboptimal,0.083500248,1.402,0.0398691,constrained
+YFL045C,glc,suboptimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,glc,suboptimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,glc,suboptimal,0.069500263,1.1615,0.0399257,zero flux
+YCR028C,glc,suboptimal,0.121199937,1.6136,0.0556425,zero flux
+YMR267W,glc,suboptimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,glc,suboptimal,0.098300066,1.596,0.0449713,variable
+YNL316C,glc,suboptimal,0.224400183,1.4812,0.111087,constrained
+YER014W,glc,suboptimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,glc,suboptimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,glc,suboptimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,glc,suboptimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,glc,suboptimal,0.167400372,1.4978,0.076152,variable
+YOL143C,glc,suboptimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,glc,suboptimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,glc,suboptimal,0.040500053,1.266,0.0193859,variable
+YNR050C,glc,suboptimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,glc,suboptimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,glc,suboptimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,glc,suboptimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,glc,suboptimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,glc,suboptimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,glc,suboptimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,glc,suboptimal,0.028299982,1.231,0.013723,constrained
+YKL194C,glc,suboptimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,glc,suboptimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,glc,suboptimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,glc,suboptimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,glc,suboptimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,glc,suboptimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,glc,suboptimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,glc,suboptimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,glc,suboptimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,glc,suboptimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,glc,suboptimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,glc,suboptimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,glc,suboptimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,glc,suboptimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,glc,suboptimal,0.166600085,1.5942,0.0771729,zero flux
+YBR265W,sul,optimal,0.087000095,1.3737,0.0446523,zero flux
+YFL017C,sul,optimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,sul,optimal,0.072600263,1.5843,0.0316921,constrained
+YPL148C,sul,optimal,0.276800588,1.6009,0.132521,zero flux
+YNR033W,sul,optimal,0.162900037,1.5714,0.0769558,zero flux
+YKL001C,sul,optimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,sul,optimal,0.027399989,1.1184,0.0133093,variable
+YDL052C,sul,optimal,0.187600227,1.1216,0.103507,constrained
+YER043C,sul,optimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,sul,optimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,sul,optimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,sul,optimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,sul,optimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,sul,optimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,sul,optimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,sul,optimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,sul,optimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,sul,optimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,sul,optimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,sul,optimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,sul,optimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,sul,optimal,0.02890013,1.1842,0.0124518,variable
+YDR321W,sul,optimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,sul,optimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,sul,optimal,0.032100008,1.3329,0.014976,variable
+YPL104W,sul,optimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,sul,optimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,sul,optimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,sul,optimal,0.039600032,0.9744,0.0202651,zero flux
+YGL012W,sul,optimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,sul,optimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,sul,optimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,sul,optimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,sul,optimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,sul,optimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,sul,optimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,sul,optimal,0.080000157,1.4655,0.0393973,zero flux
+YGR012W,sul,optimal,0.102499903,1.6778,0.0466129,constrained
+YGL184C,sul,optimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,sul,optimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,sul,optimal,0.049800023,1.3728,0.0219365,zero flux
+YHR063C,sul,optimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,sul,optimal,0.160900402,1.5553,0.0766857,zero flux
+YBR252W,sul,optimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,sul,optimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,sul,optimal,0.173100423,1.428,0.0911938,constrained
+YLR372W,sul,optimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,sul,optimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,sul,optimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,sul,optimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,sul,optimal,0.091899929,1.3341,0.0496429,constrained
+YEL047C,sul,optimal,0.092699992,1.4669,0.040551,zero flux
+YOL059W,sul,optimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,sul,optimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,sul,optimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,sul,optimal,0.016100042,0.6778,0.0078969,variable
+YPR160W,sul,optimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,sul,optimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,sul,optimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,sul,optimal,0.034700099,1.6844,0.0144372,variable
+YMR300C,sul,optimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,sul,optimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,sul,optimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,sul,optimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,sul,optimal,0.054800079,1.4107,0.025245,zero flux
+YBL033C,sul,optimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,sul,optimal,0.015200039,1.2312,0.00804137,zero flux
+YIL094C,sul,optimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,sul,optimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,sul,optimal,0.071500053,1.5066,0.0341219,variable
+YHR025W,sul,optimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,sul,optimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,sul,optimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,sul,optimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,sul,optimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,sul,optimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,sul,optimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,sul,optimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,sul,optimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,sul,optimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,sul,optimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,sul,optimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,sul,optimal,0.074700065,1.5915,0.0328677,variable
+YKL085W,sul,optimal,0.036600099,1.5438,0.0150707,variable
+YDL078C,sul,optimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,sul,optimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,sul,optimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,sul,optimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,sul,optimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,sul,optimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,sul,optimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,sul,optimal,0.047200038,1.3499,0.0231518,zero flux
+YGL067W,sul,optimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,sul,optimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,sul,optimal,0.027499929,1.1537,0.0158091,zero flux
+YKL120W,sul,optimal,0.037500128,1.1246,0.0205362,variable
+YJL088W,sul,optimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,sul,optimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,sul,optimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,sul,optimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,sul,optimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,sul,optimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,sul,optimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,sul,optimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,sul,optimal,0.144000037,1.7533,0.0598815,constrained
+YCR012W,sul,optimal,0.021500098,0.214,0.0113448,variable
+YPR047W,sul,optimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,sul,optimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,sul,optimal,0.083500248,1.402,0.0398691,constrained
+YJR077C,sul,optimal,0.023499953,1.1117,0.0116238,variable
+YFL045C,sul,optimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,sul,optimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,sul,optimal,0.069500263,1.1615,0.0399257,zero flux
+YCR028C,sul,optimal,0.121199937,1.6136,0.0556425,zero flux
+YMR267W,sul,optimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,sul,optimal,0.098300066,1.596,0.0449713,variable
+YNL316C,sul,optimal,0.224400183,1.4812,0.111087,constrained
+YER014W,sul,optimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,sul,optimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,sul,optimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,sul,optimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,sul,optimal,0.167400372,1.4978,0.076152,variable
+YOL143C,sul,optimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,sul,optimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,sul,optimal,0.040500053,1.266,0.0193859,variable
+YNR050C,sul,optimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,sul,optimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,sul,optimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,sul,optimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,sul,optimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,sul,optimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,sul,optimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,sul,optimal,0.028299982,1.231,0.013723,constrained
+YKL194C,sul,optimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,sul,optimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,sul,optimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,sul,optimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,sul,optimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,sul,optimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,sul,optimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,sul,optimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,sul,optimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,sul,optimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,sul,optimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,sul,optimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,sul,optimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,sul,optimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,sul,optimal,0.166600085,1.5942,0.0771729,zero flux
+YBR265W,sul,suboptimal,0.087000095,1.3737,0.0446523,constrained
+YFL017C,sul,suboptimal,0.140799899,1.8609,0.0581712,zero flux
+YOL140W,sul,suboptimal,0.072600263,1.5843,0.0316921,variable
+YPL148C,sul,suboptimal,0.276800588,1.6009,0.132521,zero flux
+YNR033W,sul,suboptimal,0.162900037,1.5714,0.0769558,zero flux
+YKL001C,sul,suboptimal,0.018199992,1.4296,0.0082303,constrained
+YNL220W,sul,suboptimal,0.027399989,1.1184,0.0133093,constrained
+YDL052C,sul,suboptimal,0.187600227,1.1216,0.103507,constrained
+YER043C,sul,suboptimal,0.028300011,0.724,0.0130608,constrained
+YOR128C,sul,suboptimal,0.044099986,1.5952,0.0195457,constrained
+YDR481C,sul,suboptimal,0.130599953,1.3345,0.0678674,zero flux
+YDR111C,sul,suboptimal,0.129000389,1.6407,0.0574305,variable
+YLR089C,sul,suboptimal,0.065500145,1.3687,0.0323183,zero flux
+YIR029W,sul,suboptimal,0.144599909,1.2423,0.0787504,zero flux
+YIR027C,sul,suboptimal,0.141200322,1.2873,0.0784939,zero flux
+YIR028W,sul,suboptimal,0.059399993,1.1398,0.0328097,zero flux
+YDR354W,sul,suboptimal,0.141900325,1.4917,0.0685532,constrained
+YHR018C,sul,suboptimal,0.036500071,1.3475,0.0169812,constrained
+YOL058W,sul,suboptimal,0.038100039,0.9762,0.0177016,constrained
+YHR091C,sul,suboptimal,0.231201546,1.6539,0.108027,zero flux
+YBR034C,sul,suboptimal,0.025599974,1.3248,0.0118183,zero flux
+YDR158W,sul,suboptimal,0.02890013,1.1842,0.0124518,variable
+YDR321W,sul,suboptimal,0.093800189,1.5936,0.0416403,zero flux
+YHR019C,sul,suboptimal,0.066000019,1.1094,0.0309932,zero flux
+YER052C,sul,suboptimal,0.032100008,1.3329,0.014976,variable
+YPL104W,sul,suboptimal,0.166000437,1.5897,0.0776563,zero flux
+YDR530C,sul,suboptimal,0.230900812,1.4092,0.114983,zero flux
+YOL064C,sul,suboptimal,0.076500049,1.2214,0.0394841,variable
+YMR015C,sul,suboptimal,0.039600032,0.9744,0.0202651,zero flux
+YGL012W,sul,suboptimal,0.069500041,1.4777,0.0304199,constrained
+YDR256C,sul,suboptimal,0.059100062,1.8395,0.0244496,zero flux
+YCL004W,sul,suboptimal,0.150199945,1.455,0.0757736,zero flux
+YGR202C,sul,suboptimal,0.091700127,1.6829,0.0404466,zero flux
+YPR060C,sul,suboptimal,0.071300077,1.7033,0.0294027,constrained
+YDL142C,sul,suboptimal,0.255900386,1.2623,0.151236,zero flux
+YOR100C,sul,suboptimal,0.081700236,1.4343,0.0413005,zero flux
+YBR132C,sul,suboptimal,0.080000157,1.4655,0.0393973,constrained
+YGR012W,sul,suboptimal,0.102499903,1.6778,0.0466129,variable
+YGL184C,sul,suboptimal,0.078199998,1.5355,0.0364477,zero flux
+YOL096C,sul,suboptimal,0.151499986,1.8247,0.0643878,zero flux
+YDL100C,sul,suboptimal,0.049800023,1.3728,0.0219365,zero flux
+YHR063C,sul,suboptimal,0.14280009,1.4753,0.064628,zero flux
+YJR057W,sul,suboptimal,0.160900402,1.5553,0.0766857,variable
+YBR252W,sul,suboptimal,0.07899988,1.9999,0.0290222,zero flux
+YHR068W,sul,suboptimal,0.027600101,1.0809,0.0128706,zero flux
+YIL134W,sul,suboptimal,0.173100423,1.428,0.0911938,constrained
+YLR372W,sul,suboptimal,0.093200272,1.1084,0.044387,zero flux
+YJL155C,sul,suboptimal,0.068100037,1.7134,0.0298352,zero flux
+YOR176W,sul,suboptimal,0.076699958,1.3865,0.0379746,zero flux
+YBL013W,sul,suboptimal,0.308000101,1.7051,0.146244,zero flux
+YDL045C,sul,suboptimal,0.091899929,1.3341,0.0496429,constrained
+YEL047C,sul,suboptimal,0.092699992,1.4669,0.040551,variable
+YOL059W,sul,suboptimal,0.06420021,0.9621,0.0383594,zero flux
+YBR020W,sul,suboptimal,0.104500147,1.5046,0.0457163,zero flux
+YDR408C,sul,suboptimal,0.092400204,1.4876,0.0467149,constrained
+YLR058C,sul,suboptimal,0.016100042,0.6778,0.0078969,variable
+YBR263W,sul,suboptimal,0.049399997,1.0199,0.0264841,variable
+YPR160W,sul,suboptimal,0.031800039,1.3108,0.0148984,zero flux
+YJL101C,sul,suboptimal,0.093200293,1.6269,0.0424988,zero flux
+YMR250W,sul,suboptimal,0.109400243,1.7734,0.0456582,zero flux
+YDL215C,sul,suboptimal,0.034700099,1.6844,0.0144372,zero flux
+YMR300C,sul,suboptimal,0.018800041,1.2371,0.00942306,constrained
+YHL032C,sul,suboptimal,0.084600275,1.6496,0.037448,zero flux
+YDR272W,sul,suboptimal,0.183000413,1.8028,0.0752927,zero flux
+YMR217W,sul,suboptimal,0.01729999,0.9623,0.00803873,constrained
+YPL091W,sul,suboptimal,0.054800079,1.4107,0.025245,variable
+YBL033C,sul,suboptimal,0.161900252,2.0336,0.0648722,zero flux
+YGR267C,sul,suboptimal,0.015200039,1.2312,0.00804137,zero flux
+YIL094C,sul,suboptimal,0.034300138,1.2669,0.0162346,constrained
+YDL205C,sul,suboptimal,0.033400093,1.2979,0.0167393,zero flux
+YNL277W,sul,suboptimal,0.071500053,1.5066,0.0341219,variable
+YHR025W,sul,suboptimal,0.032400094,1.0257,0.0177131,zero flux
+YIL116W,sul,suboptimal,0.121700087,1.5234,0.0551133,constrained
+YNL009W,sul,suboptimal,0.120600024,1.5178,0.0584243,zero flux
+YBR248C,sul,suboptimal,0.082900041,1.6251,0.0366915,constrained
+YBL076C,sul,suboptimal,0.049400076,1.1887,0.0226394,zero flux
+YPL040C,sul,suboptimal,0.191600518,1.5169,0.0932027,zero flux
+YBL098W,sul,suboptimal,0.116900263,1.3408,0.0598145,zero flux
+YLR382C,sul,suboptimal,0.142500068,1.5541,0.0673549,zero flux
+YML004C,sul,suboptimal,0.1034999,1.3979,0.0493842,zero flux
+YHR007C,sul,suboptimal,0.041200071,0.7531,0.0206527,constrained
+YNL073W,sul,suboptimal,0.216700581,1.6659,0.0988318,zero flux
+YPR006C,sul,suboptimal,0.131199941,1.5196,0.0628283,zero flux
+YOL126C,sul,suboptimal,0.074700065,1.5915,0.0328677,variable
+YDL078C,sul,suboptimal,0.092200236,1.3345,0.0472064,zero flux
+YJR130C,sul,suboptimal,0.099899979,1.7384,0.0437816,zero flux
+YGR264C,sul,suboptimal,0.072299913,1.3797,0.0320281,zero flux
+YGR171C,sul,suboptimal,0.209400337,1.7489,0.0900604,zero flux
+YHR046C,sul,suboptimal,0.079700225,1.8289,0.0329855,constrained
+YJL153C,sul,suboptimal,0.093400068,1.815,0.0382599,constrained
+YBR176W,sul,suboptimal,0.133700039,1.417,0.0658926,zero flux
+YKR080W,sul,suboptimal,0.047200038,1.3499,0.0231518,zero flux
+YGL067W,sul,suboptimal,0.134700416,1.3699,0.0683637,zero flux
+YEL042W,sul,suboptimal,0.249000809,1.6235,0.106452,zero flux
+YGR010W,sul,suboptimal,0.027499929,1.1537,0.0158091,zero flux
+YKL120W,sul,suboptimal,0.037500128,1.1246,0.0205362,variable
+YJL088W,sul,suboptimal,0.089200017,1.7099,0.0365252,constrained
+YML110C,sul,suboptimal,0.072200101,1.3437,0.0353818,zero flux
+YGR255C,sul,suboptimal,0.061000029,1.7586,0.0261887,zero flux
+YDR538W,sul,suboptimal,0.159700489,1.4839,0.079071,zero flux
+YKL184W,sul,suboptimal,0.155199874,1.873,0.0612337,zero flux
+YIL145C,sul,suboptimal,0.120400366,1.3999,0.0624276,zero flux
+YPR167C,sul,suboptimal,0.069100189,1.2202,0.0378486,constrained
+YGR007W,sul,suboptimal,0.175999947,1.7318,0.077151,zero flux
+YGR157W,sul,suboptimal,0.144000037,1.7533,0.0598815,constrained
+YPR047W,sul,suboptimal,0.133500388,1.6972,0.0584628,zero flux
+YPL268W,sul,suboptimal,0.140700028,1.6752,0.0641786,zero flux
+YPR113W,sul,suboptimal,0.083500248,1.402,0.0398691,constrained
+YJR077C,sul,suboptimal,0.023499953,1.1117,0.0116238,variable
+YFL045C,sul,suboptimal,0.044100069,0.9154,0.0202254,constrained
+YMR220W,sul,suboptimal,0.175800376,1.5932,0.0803997,constrained
+YDR531W,sul,suboptimal,0.069500263,1.1615,0.0399257,zero flux
+YCR028C,sul,suboptimal,0.121199937,1.6136,0.0556425,zero flux
+YMR267W,sul,suboptimal,0.190300534,1.6857,0.0846239,zero flux
+YBR166C,sul,suboptimal,0.098300066,1.596,0.0449713,variable
+YNL316C,sul,suboptimal,0.224400183,1.4812,0.111087,constrained
+YER014W,sul,suboptimal,0.15620045,1.4749,0.0774508,zero flux
+YAR015W,sul,suboptimal,0.065800015,1.1987,0.0330396,constrained
+YIL020C,sul,suboptimal,0.091400142,1.8754,0.0375135,constrained
+YNL169C,sul,suboptimal,0.06670016,1.4868,0.0326835,variable
+YGR208W,sul,suboptimal,0.167400372,1.4978,0.076152,variable
+YOL143C,sul,suboptimal,0.028300156,1.2019,0.0145068,zero flux
+YBR256C,sul,suboptimal,0.107800314,1.9578,0.0423221,zero flux
+YJL121C,sul,suboptimal,0.040500053,1.266,0.0193859,variable
+YNR050C,sul,suboptimal,0.056900134,1.0678,0.0289689,constrained
+YIR034C,sul,suboptimal,0.065200048,1.0476,0.0375704,constrained
+YJR010W,sul,suboptimal,0.049800091,1.0987,0.025275,zero flux
+YJL068C,sul,suboptimal,0.158800425,1.4953,0.0757361,zero flux
+YPR069C,sul,suboptimal,0.028200105,1.2494,0.0123926,zero flux
+YHR190W,sul,suboptimal,0.042900193,0.9524,0.0229538,constrained
+YIL162W,sul,suboptimal,0.066399966,1.2702,0.0289026,zero flux
+YER086W,sul,suboptimal,0.028299982,1.231,0.013723,constrained
+YKL194C,sul,suboptimal,0.096199931,1.6921,0.0412622,zero flux
+YOR074C,sul,suboptimal,0.075299916,1.2308,0.0401561,constrained
+YDR353W,sul,suboptimal,0.047600161,1.1016,0.0232025,constrained
+YHR106W,sul,suboptimal,0.107800326,1.7008,0.0478309,zero flux
+YPR026W,sul,suboptimal,0.088599904,1.6363,0.040498,zero flux
+YOL097C,sul,suboptimal,0.041499999,1.1893,0.0203258,zero flux
+YDR268W,sul,suboptimal,0.103500298,1.3106,0.0542736,zero flux
+YDL103C,sul,suboptimal,0.135500047,1.6735,0.0579786,zero flux
+YBR019C,sul,suboptimal,0.125900376,1.5521,0.0555935,zero flux
+YIR032C,sul,suboptimal,0.209099831,1.2407,0.125175,zero flux
+YKR069W,sul,suboptimal,0.100900311,1.4626,0.0503123,zero flux
+YOR278W,sul,suboptimal,0.314500197,1.7813,0.133949,zero flux
+YBR021W,sul,suboptimal,0.06360007,1.342,0.0317597,zero flux
+YHL016C,sul,suboptimal,0.06359991,1.4243,0.0306544,zero flux
+YGR194C,sul,suboptimal,0.166600085,1.5942,0.0771729,zero flux

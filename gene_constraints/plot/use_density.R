@@ -4,6 +4,7 @@ source('helpers/find_replace.R')
 source('helpers/flux_data.R')
 
 data <- flux_data()
+data <- subset(data, value > -16)
 
 plot <- densityplot(
   ~ value | setup,

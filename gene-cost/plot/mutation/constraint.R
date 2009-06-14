@@ -13,7 +13,7 @@ data$solution <- factor(data$solution,levels=order)
 
 data$environment <- find.replace(data$environment,
   c('glc'     , 'amm'      , 'sul'), 
-  c('glucose' , 'ammonium' , 'sulphur')
+  c('glucose' , 'ammonium' , 'sulfur')
 )
 
 plot <- bwplot(
@@ -27,6 +27,6 @@ plot <- bwplot(
   }
 )
 
-postscript("results/mutation/constraint.eps",width=8,height=8,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/mutation/constraint.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

@@ -40,7 +40,7 @@ for(i in 1:length(solutions)){
     results <- rbind(results,data.frame(
       environment = environments[j],
       solution    = solutions[i],
-      value       = test$p.value
+      value       = round(test$p.value,digits=3)
     ))
   }
 }

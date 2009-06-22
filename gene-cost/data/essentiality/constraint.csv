@@ -72,7 +72,6 @@ YAR035W,amm,optimal,zero flux,false
 YPR062W,amm,optimal,zero flux,false
 YCR005C,amm,optimal,zero flux,false
 YGR012W,amm,optimal,constrained,false
-YAL012W,amm,optimal,at maximum,false
 YFR055W,amm,optimal,zero flux,false
 YGL184C,amm,optimal,zero flux,false
 YNL247W,amm,optimal,zero flux,true
@@ -109,7 +108,6 @@ YBR020W,amm,optimal,zero flux,false
 YDR408C,amm,optimal,constrained,false
 YEL011W,amm,optimal,zero flux,false
 YLR058C,amm,optimal,variable,false
-YBR263W,amm,optimal,at maximum,false
 YPR160W,amm,optimal,zero flux,false
 YPR035W,amm,optimal,constrained,true
 YOR168W,amm,optimal,zero flux,true
@@ -197,7 +195,6 @@ YPR047W,amm,optimal,zero flux,false
 YPL268W,amm,optimal,zero flux,false
 YPR113W,amm,optimal,constrained,true
 YJR077C,amm,optimal,variable,false
-YER053C,amm,optimal,at maximum,false
 YFL045C,amm,optimal,constrained,true
 YMR220W,amm,optimal,constrained,true
 YDR531W,amm,optimal,zero flux,true
@@ -225,7 +222,6 @@ YIR034C,amm,optimal,constrained,false
 YJR010W,amm,optimal,zero flux,false
 YML008C,amm,optimal,zero flux,false
 YJL068C,amm,optimal,zero flux,false
-YML082W,amm,optimal,at maximum,false
 YPR069C,amm,optimal,zero flux,false
 YLR146C,amm,optimal,zero flux,false
 YGR175C,amm,optimal,constrained,true
@@ -334,7 +330,6 @@ YAR035W,amm,suboptimal,variable,false
 YPR062W,amm,suboptimal,zero flux,false
 YCR005C,amm,suboptimal,zero flux,false
 YGR012W,amm,suboptimal,constrained,false
-YAL012W,amm,suboptimal,at maximum,false
 YFR055W,amm,suboptimal,zero flux,false
 YGL184C,amm,suboptimal,zero flux,false
 YNL247W,amm,suboptimal,zero flux,true
@@ -425,7 +420,6 @@ YDL055C,amm,suboptimal,constrained,true
 YER003C,amm,suboptimal,constrained,true
 YPR006C,amm,suboptimal,zero flux,false
 YOL126C,amm,suboptimal,variable,false
-YKL085W,amm,suboptimal,at maximum,false
 YDL078C,amm,suboptimal,zero flux,false
 YJR130C,amm,suboptimal,zero flux,false
 YGR264C,amm,suboptimal,zero flux,true
@@ -454,7 +448,6 @@ YPR167C,amm,suboptimal,constrained,false
 YKR093W,amm,suboptimal,zero flux,false
 YGR007W,amm,suboptimal,zero flux,false
 YGR157W,amm,suboptimal,constrained,false
-YCR012W,amm,suboptimal,at maximum,true
 YPR047W,amm,suboptimal,zero flux,false
 YPL268W,amm,suboptimal,zero flux,false
 YPR113W,amm,suboptimal,constrained,true
@@ -487,7 +480,6 @@ YIR034C,amm,suboptimal,constrained,false
 YJR010W,amm,suboptimal,zero flux,false
 YML008C,amm,suboptimal,variable,false
 YJL068C,amm,suboptimal,zero flux,false
-YML082W,amm,suboptimal,at maximum,false
 YPR069C,amm,suboptimal,zero flux,false
 YLR146C,amm,suboptimal,zero flux,false
 YGR175C,amm,suboptimal,constrained,true
@@ -596,7 +588,6 @@ YAR035W,glc,optimal,zero flux,false
 YPR062W,glc,optimal,zero flux,false
 YCR005C,glc,optimal,zero flux,false
 YGR012W,glc,optimal,constrained,false
-YAL012W,glc,optimal,at maximum,false
 YFR055W,glc,optimal,zero flux,false
 YGL184C,glc,optimal,zero flux,false
 YNL247W,glc,optimal,zero flux,true
@@ -720,7 +711,6 @@ YCR012W,glc,optimal,variable,true
 YPR047W,glc,optimal,zero flux,false
 YPL268W,glc,optimal,zero flux,false
 YPR113W,glc,optimal,constrained,true
-YJR077C,glc,optimal,at maximum,false
 YER053C,glc,optimal,variable,false
 YFL045C,glc,optimal,constrained,true
 YMR220W,glc,optimal,constrained,true
@@ -749,7 +739,6 @@ YIR034C,glc,optimal,constrained,false
 YJR010W,glc,optimal,zero flux,false
 YML008C,glc,optimal,zero flux,false
 YJL068C,glc,optimal,zero flux,false
-YML082W,glc,optimal,at maximum,false
 YPR069C,glc,optimal,zero flux,false
 YLR146C,glc,optimal,zero flux,false
 YGR175C,glc,optimal,constrained,true
@@ -963,7 +952,6 @@ YGL067W,glc,suboptimal,zero flux,false
 YLR138W,glc,suboptimal,zero flux,false
 YEL042W,glc,suboptimal,zero flux,false
 YGR010W,glc,suboptimal,zero flux,false
-YKL120W,glc,suboptimal,at maximum,false
 YJL088W,glc,suboptimal,constrained,false
 YPL266W,glc,suboptimal,zero flux,true
 YML110C,glc,suboptimal,zero flux,false
@@ -982,7 +970,6 @@ YCR012W,glc,suboptimal,variable,true
 YPR047W,glc,suboptimal,zero flux,false
 YPL268W,glc,suboptimal,zero flux,false
 YPR113W,glc,suboptimal,constrained,true
-YJR077C,glc,suboptimal,at maximum,false
 YER053C,glc,suboptimal,variable,false
 YFL045C,glc,suboptimal,constrained,true
 YMR220W,glc,suboptimal,constrained,true
@@ -1011,7 +998,6 @@ YIR034C,glc,suboptimal,constrained,false
 YJR010W,glc,suboptimal,zero flux,false
 YML008C,glc,suboptimal,zero flux,false
 YJL068C,glc,suboptimal,zero flux,false
-YML082W,glc,suboptimal,at maximum,false
 YPR069C,glc,suboptimal,zero flux,false
 YLR146C,glc,suboptimal,zero flux,false
 YGR175C,glc,suboptimal,constrained,true
@@ -1120,7 +1106,6 @@ YAR035W,sul,optimal,zero flux,false
 YPR062W,sul,optimal,zero flux,false
 YCR005C,sul,optimal,zero flux,false
 YGR012W,sul,optimal,constrained,false
-YAL012W,sul,optimal,at maximum,false
 YFR055W,sul,optimal,zero flux,false
 YGL184C,sul,optimal,zero flux,false
 YNL247W,sul,optimal,zero flux,true
@@ -1157,7 +1142,6 @@ YBR020W,sul,optimal,zero flux,false
 YDR408C,sul,optimal,constrained,false
 YEL011W,sul,optimal,zero flux,false
 YLR058C,sul,optimal,variable,false
-YBR263W,sul,optimal,at maximum,false
 YPR160W,sul,optimal,zero flux,false
 YPR035W,sul,optimal,constrained,true
 YOR168W,sul,optimal,zero flux,true
@@ -1245,7 +1229,6 @@ YPR047W,sul,optimal,zero flux,false
 YPL268W,sul,optimal,zero flux,false
 YPR113W,sul,optimal,constrained,true
 YJR077C,sul,optimal,variable,false
-YER053C,sul,optimal,at maximum,false
 YFL045C,sul,optimal,constrained,true
 YMR220W,sul,optimal,constrained,true
 YDR531W,sul,optimal,zero flux,true
@@ -1273,7 +1256,6 @@ YIR034C,sul,optimal,constrained,false
 YJR010W,sul,optimal,zero flux,false
 YML008C,sul,optimal,zero flux,false
 YJL068C,sul,optimal,zero flux,false
-YML082W,sul,optimal,at maximum,false
 YPR069C,sul,optimal,zero flux,false
 YLR146C,sul,optimal,zero flux,false
 YGR175C,sul,optimal,constrained,true
@@ -1382,7 +1364,6 @@ YAR035W,sul,suboptimal,variable,false
 YPR062W,sul,suboptimal,zero flux,false
 YCR005C,sul,suboptimal,zero flux,false
 YGR012W,sul,suboptimal,variable,false
-YAL012W,sul,suboptimal,at maximum,false
 YFR055W,sul,suboptimal,zero flux,false
 YGL184C,sul,suboptimal,zero flux,false
 YNL247W,sul,suboptimal,zero flux,true
@@ -1473,7 +1454,6 @@ YDL055C,sul,suboptimal,constrained,true
 YER003C,sul,suboptimal,constrained,true
 YPR006C,sul,suboptimal,zero flux,false
 YOL126C,sul,suboptimal,variable,false
-YKL085W,sul,suboptimal,at maximum,false
 YDL078C,sul,suboptimal,zero flux,false
 YJR130C,sul,suboptimal,zero flux,false
 YGR264C,sul,suboptimal,zero flux,true
@@ -1502,7 +1482,6 @@ YPR167C,sul,suboptimal,constrained,false
 YKR093W,sul,suboptimal,zero flux,false
 YGR007W,sul,suboptimal,zero flux,false
 YGR157W,sul,suboptimal,constrained,false
-YCR012W,sul,suboptimal,at maximum,true
 YPR047W,sul,suboptimal,zero flux,false
 YPL268W,sul,suboptimal,zero flux,false
 YPR113W,sul,suboptimal,constrained,true
@@ -1535,7 +1514,6 @@ YIR034C,sul,suboptimal,constrained,false
 YJR010W,sul,suboptimal,zero flux,false
 YML008C,sul,suboptimal,zero flux,false
 YJL068C,sul,suboptimal,zero flux,false
-YML082W,sul,suboptimal,at maximum,false
 YPR069C,sul,suboptimal,zero flux,false
 YLR146C,sul,suboptimal,zero flux,false
 YGR175C,sul,suboptimal,constrained,true

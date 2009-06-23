@@ -16,17 +16,12 @@ data$environment <- find.replace(data$environment,
   c('glucose' , 'ammonium' , 'sulfur')
 )
 
-data$essential <- find.replace(data$essential,
-  c('true'      , 'false'   ), 
-  c('essential' , 'dispensible')
-)
 attach(data)
 levels <- tapply(gene,list(essential,constraint,environment,solution),length)
 detach(data)
 
 environments <- unique(data$environment)
 solutions <- unique(data$solution)
-
 
 results <- data.frame(
   environment = character(),

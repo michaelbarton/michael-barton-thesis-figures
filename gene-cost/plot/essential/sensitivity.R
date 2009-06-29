@@ -16,19 +16,23 @@ data$environment <- find.replace(data$environment,
   c('glucose' , 'ammonium' , 'sulfur')
 )
 
-data$essential <- find.replace(data$essential,
-  c('true'      , 'false'   ), 
-  c('essential' , 'dispensible')
-)
+data$viable <- 0
+data$viable[data$essential == 'viable'] <- 1
 
-plot <- bwplot(
-  essential ~ sensitivity | environment + solution,
+plot <- xyplot(
+  viable ~ sensitivity | environment + solution,
   data = data,
-  ylab = "Gene Frequency",
   xlab = "log. Reaction sensitivity",
+  ylab = "Gene dispensibility",
+  ylim = c(-0.3,1.3),
+  scales = list(y = list(
+    alternating = 1,
+    at = c(0,1),
+    labels = c("essential","dispensible")
+  )),
   panel= function(x,y,...){
-    panel.bwplot(x,y,...)
-    panel.anova(y,x)
+    panel.xyplot(x,jitter(y,factor=0.2))
+    panel.binomial(x,y)
   }
 )
 

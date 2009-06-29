@@ -16,22 +16,26 @@ data$environment <- find.replace(data$environment,
   c('glucose' , 'ammonium' , 'sulfur')
 )
 
-data$essential <- find.replace(data$essential,
-  c('true'      , 'false'   ), 
-  c('essential' , 'dispensible')
-)
+data$viable <- 0
+data$viable[data$essential == 'viable'] <- 1
 
-plot <- bwplot(
-  essential ~ flux | environment + solution,
+plot <- xyplot(
+  viable ~ flux | environment + solution,
   data = data,
-  ylab = "Gene Frequency",
   xlab = "log. Reaction flux",
+  ylab = "Gene dispensibility",
+  ylim = c(-0.3,1.3),
+  scales = list(y = list(
+    alternating = 1,
+    at = c(0,1),
+    labels = c("essential","dispensible")
+  )),
   panel= function(x,y,...){
-    panel.bwplot(x,y,...)
-    panel.anova(y,x)
+    panel.xyplot(x,jitter(y,factor=0.2))
+    panel.binomial(x,y)
   }
 )
 
-postscript("results/essential/flux.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/essential/flux.eps",width=8,height=8,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

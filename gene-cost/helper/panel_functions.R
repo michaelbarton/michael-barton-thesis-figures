@@ -13,6 +13,23 @@ panel.anova <- function(x,y){
   panel.regression.values(r_sq,p)
 }
 
+panel.binomial <- function(x,y,lwd=2,col="grey50"){
+  model <- glm(y ~ x,binomial)
+
+  continuous <- seq(min(x),max(x),(max(x) - min(x)) * 0.01)
+  predicted <- predict(model,list(x=continuous),type="response")
+  panel.lines(continuous,predicted,lwd=lwd,col=col)
+
+  model.sum <- summary.glm(model)
+  p <- round(model.sum$coefficients[2,4],3)
+
+  cor <- cor.test(predict(model,list(x=x),type="response"),y,method="spear")
+  r_sq <- round(cor$estimate,3)
+
+  panel.regression.values(r_sq,p)
+
+}
+
 panel.spearman <- function(x,y){
   cor <- cor.test(x,y,method="spear")
   r_sq <- round(cor$estimate,3)

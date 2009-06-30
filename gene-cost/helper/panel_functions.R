@@ -24,7 +24,7 @@ panel.binomial <- function(x,y,lwd=2,col="grey50"){
   p <- round(model.sum$coefficients[2,4],3)
 
   cor <- cor.test(predict(model,list(x=x),type="response"),y,method="spear")
-  r_sq <- round(cor$estimate,3)
+  r_sq <- round(cor$estimate^2,3)
 
   panel.regression.values(r_sq,p)
 

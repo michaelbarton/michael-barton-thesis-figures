@@ -27,6 +27,6 @@ plot <- xyplot(
   }
 )
 
-postscript("results/mutation/sensitivity.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/mutation/dn_ds/sensitivity.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

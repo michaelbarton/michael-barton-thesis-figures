@@ -38,6 +38,6 @@ plot <- xyplot(
   }
 )
 
-postscript("results/mutation/non_trivial_flux.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/mutation/dn_ds/non_trivial_flux.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

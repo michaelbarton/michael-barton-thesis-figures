@@ -36,6 +36,6 @@ plot <- xyplot(
   }
 )
 
-postscript("results/essential/flux.eps",width=8,height=8,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
+postscript("results/essential/flux.eps",width=10,height=6,onefile=FALSE,horizontal=FALSE, paper = "special",colormodel="rgb")
 print(plot)
 graphics.off()

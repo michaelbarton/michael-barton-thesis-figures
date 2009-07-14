@@ -16,6 +16,12 @@ data$environment <- find.replace(data$environment,
   c('glucose' , 'ammonium' , 'sulfur')
 )
 
+ordered_environments <- as.ordered(1:3)
+levels(ordered_environments)[1] <- "glucose"
+levels(ordered_environments)[2] <- "ammonium"
+levels(ordered_environments)[3] <- "sulfur"
+data$environment <- factor(data$environment,levels=ordered_environments)
+
 plot <- bwplot(
   cai ~ constraint | environment + solution,
   data = data,

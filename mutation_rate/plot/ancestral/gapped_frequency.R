@@ -12,6 +12,12 @@ gaps$cost_type <- find.replace(gaps$cost_type,
   c("Molecular weight","Glucose relative","Glucose absolute")
 )
 
+ordered_costs <- as.ordered(1:3)
+levels(ordered_costs)[3] <- "Molecular weight"
+levels(ordered_costs)[2] <- "Glucose absolute"
+levels(ordered_costs)[1] <- "Glucose relative"
+gaps$cost_type <- factor(gaps$cost_type,levels=ordered_costs)
+
 plot <- xyplot(
   (gapped / total) * 100 ~ cost | cost_type,
   data=gaps,

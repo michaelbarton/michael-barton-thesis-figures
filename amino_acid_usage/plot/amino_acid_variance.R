@@ -17,6 +17,12 @@ plot_data$cost_type <- find.replace(plot_data$cost_type,
   c("Molecular weight","Glucose relative","Glucose absolute")
 )
 
+ordered_costs <- as.ordered(1:3)
+levels(ordered_costs)[3] <- "Molecular weight"
+levels(ordered_costs)[2] <- "Glucose absolute"
+levels(ordered_costs)[1] <- "Glucose relative"
+plot_data$cost_type <- factor(plot_data$cost_type,levels=ordered_costs)
+
 plot <- xyplot(
   usage_mad ~ cost_median | cost_type,
   xlab="Amino acid cost",

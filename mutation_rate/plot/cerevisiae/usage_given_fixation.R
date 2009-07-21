@@ -55,9 +55,9 @@ for(i in 1:length(types)){
 plot <- xyplot(
   count ~ cost | fixed + level,
   data=sub_plot_data,
-  scale="free",
+  scales=list(relation="free", tick.number=3),
   xlab=legends[i],
-  ylab="Amino acid frequency",
+  ylab="Median amino acid frequency",
   panel=function(x,y,subscripts){
 
     panel.xyplot(x,y,col="grey60")

@@ -2,12 +2,11 @@ library(grid)
 
 panel.anova <- function(x,y){
   aov_summary <- summary.lm(aov(y ~ x))
-  r_sq <- round(aov_summary$r.squared, digits = 3)
-  p    <- round(1 - pf(
+  r_sq <- aov_summary$r.squared
+  p    <- 1 - pf(
     aov_summary$fstatistic[1],
     aov_summary$fstatistic[2],
-    aov_summary$fstatistic[3]),
-    digits = 3
+    aov_summary$fstatistic[3]
   )
 
   panel.regression.values(r_sq,p,TRUE)
@@ -21,10 +20,10 @@ panel.binomial <- function(x,y,lwd=2,col="grey50"){
   panel.lines(continuous,predicted,lwd=lwd,col=col)
 
   model.sum <- summary.glm(model)
-  p <- round(model.sum$coefficients[2,4],3)
+  p <- model.sum$coefficients[2,4]
 
   cor <- cor.test(predict(model,list(x=x),type="response"),y,method="spear")
-  r_sq <- round(cor$estimate^2,3)
+  r_sq <- cor$estimate^2
 
   panel.regression.values(r_sq,p,TRUE)
 
@@ -32,19 +31,22 @@ panel.binomial <- function(x,y,lwd=2,col="grey50"){
 
 panel.spearman <- function(x,y){
   cor <- cor.test(x,y,method="spear")
-  r_sq <- round(cor$estimate,3)
-  p    <- round(cor$p.value,3)
+  r_sq <- cor$estimate
+  p    <- cor$p.value
   panel.regression.values(r_sq,p)
 }
 
 panel.regression.values <- function(r.value,p.value,squared=FALSE){
+  formatted_r = round(r.value,digits=3)
+  formatted_p = format(p.value,scientific=TRUE,digits=2)
+
   if(squared == TRUE){
-    r = bquote(R^2 ==  .(r.value))
+    r = bquote(R^2 ==  .(formatted_r))
   } else {
-    r = bquote(R ==  .(r.value))
+    r = bquote(R ==  .(formatted_r))
   }
-  p = bquote(p ==  .(p.value))
+  p = bquote(p ==  .(formatted_p))
 
   grid.text(r, x=unit(0.075,"npc"), y=unit(0.925,"npc"), just='left')
-  grid.text(p, x=unit(0.4,"npc"), y=unit(0.905,"npc"), just='left')
+  grid.text(p, x=unit(0.45,"npc"), y=unit(0.908,"npc"), just='left')
 }

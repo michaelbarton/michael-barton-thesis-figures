@@ -2,7 +2,7 @@ rm(list=ls())
 require(lattice)
 require(reshape)
 source('helper/find_replace.R')
-source('helper/panel.confidence.R')
+source('../helper/panel_functions.R')
 
 gaps <- read.csv('data/ancestral/gapped_frequency.csv')
 gaps <- subset(gaps, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
@@ -24,13 +24,11 @@ plot <- xyplot(
   scale=list(relation="free"),
   xlab="Ancestral amino acid cost",
   ylab="Percent occurance of one or more deletions in descendent site",
+  ylim=list(c(8.5,11.5)),
   panel = function(x,y,...){
     panel.confidence(x,y)
     panel.xyplot(x,y)
-
-    cor <- cor.test(x,y,method="spear")
-    panel.text(max(x), 11.1, paste("R = ",round(cor$estimate,3)),pos=2)
-    panel.text(max(x), 10.9, paste("p = ",round(cor$p.value,3)),pos=2)
+    panel.spearman(x,y)
   }
 )
 

@@ -30,6 +30,7 @@ panel.binomial <- function(x,y,lwd=2,col="grey50"){
 }
 
 panel.confidence <- function(x,y,lwd=2,col="grey50"){
+  library(MASS)
 
   model = rlm(y ~ x)
   continuous <- seq(min(x),max(x),(max(x) - min(x)) * 0.01)

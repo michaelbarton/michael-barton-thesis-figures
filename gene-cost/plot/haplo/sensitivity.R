@@ -26,7 +26,7 @@ plot <- xyplot(
   haploinsufficiency ~ sensitivity | environment + solution,
   data = data,
   xlab = "log. Reaction sensitivity",
-  ylab = "Hemizygous growth rate difference",
+  ylab = "Hemizygous growth rate difference relative to wild type",
   panel= function(x,y,...){
     panel.xyplot(x,y,...)
     panel.abline(h=0,col="grey50",lty=2)

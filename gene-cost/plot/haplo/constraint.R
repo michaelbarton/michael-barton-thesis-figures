@@ -26,7 +26,7 @@ plot <- bwplot(
   haploinsufficiency ~ constraint | environment + solution,
   data = data,
   xlab = "Reaction constraint",
-  ylab = "Hemizygous growth rate difference",
+  ylab = "Hemizygous growth rate difference relative to wild type",
   panel= function(x,y,...){
     panel.bwplot(x,y,...)
     panel.abline(h=0,col="grey50",lty=2)

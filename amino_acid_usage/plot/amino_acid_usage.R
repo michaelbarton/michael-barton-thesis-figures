@@ -3,7 +3,7 @@ library(reshape)
 library(lattice)
 library(MASS)
 source('helper/find_replace.R')
-source('helper/panel.confidence.R')
+source('../helper/panel_functions.R')
 
 data <- read.csv('data/amino_acid_usage.csv')
 data <- subset(data, cost_type == "glu-abs" | cost_type == "glu-rel" | cost_type == "weight")
@@ -45,9 +45,7 @@ plot <- xyplot(
     }
     panel.confidence(x,y)
     panel.xyplot(x,y)
-    cor <- cor.test(x,y,method="spear")
-    panel.text(min(x), 0.12, paste("R = ",round(cor$estimate,3)),pos=4)
-    panel.text(min(x), 0.11, paste("p = ",round(cor$p.value,3)),pos=4)
+    panel.spearman(x,y)
   }
   
 )

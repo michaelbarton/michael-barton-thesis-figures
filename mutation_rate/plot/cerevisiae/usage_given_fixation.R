@@ -1,7 +1,7 @@
 rm(list=ls())
 require(lattice)
 require(reshape)
-source('helper/panel.confidence.R')
+source('../helper/panel_functions.R')
 
 data <- read.csv(file="data/fixation_usage.csv")
 data <- subset(data, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
@@ -55,9 +55,10 @@ for(i in 1:length(types)){
 plot <- xyplot(
   count ~ cost | fixed + level,
   data=sub_plot_data,
-  scale="free",
+  scales=list(relation="free", tick.number=3),
+  ylim=list(c(0,130000),c(0,30000),c(0,130000),c(0,50000),c(0,130000),c(0,60000)),
   xlab=legends[i],
-  ylab="Amino acid frequency",
+  ylab="Median amino acid frequency",
   panel=function(x,y,subscripts){
 
     panel.xyplot(x,y,col="grey60")
@@ -68,10 +69,8 @@ plot <- xyplot(
 
     panel.confidence(panel_data$cost,panel_data$count)
     panel.xyplot(panel_data$cost,panel_data$count)
-
-    spearman = cor.test(panel_data$cost,panel_data$count,method="spearman")
-    panel.text(max(x) * 0.9,max(y),pos=2, paste("R = ",round(spearman$estimate,digits=3)))
-    panel.text(max(x) * 0.9,max(y) * 0.9,pos=2, paste("p = ",round(spearman$p.value,digits=4)))
+    panel.spearman(panel_data$cost,panel_data$count)
+    
   }
 )
 

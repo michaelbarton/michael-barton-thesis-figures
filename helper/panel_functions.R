@@ -29,6 +29,19 @@ panel.binomial <- function(x,y,lwd=2,col="grey50"){
 
 }
 
+panel.confidence <- function(x,y,lwd=2,col="grey50"){
+  library(MASS)
+
+  model = rlm(y ~ x)
+  continuous <- seq(min(x),max(x),(max(x) - min(x)) * 0.01)
+  predicted <- predict(model,data.frame(x=continuous))
+  confidence <- predict(model,data.frame(x=continuous),level = 0.95, interval = "confidence")
+
+  panel.lines(continuous,predicted,lwd=lwd,col=col)
+  panel.lines(continuous,confidence[,2],lty=2,lwd=lwd,col=col)
+  panel.lines(continuous,confidence[,3],lty=2,lwd=lwd,col=col)
+}
+
 panel.spearman <- function(x,y){
   cor <- cor.test(x,y,method="spear")
   r_sq <- cor$estimate
@@ -48,5 +61,5 @@ panel.regression.values <- function(r.value,p.value,squared=FALSE){
   p = bquote(p ==  .(formatted_p))
 
   grid.text(r, x=unit(0.075,"npc"), y=unit(0.925,"npc"), just='left')
-  grid.text(p, x=unit(0.45,"npc"), y=unit(0.908,"npc"), just='left')
+  grid.text(p, x=unit(0.45,"npc"), y=unit(0.923,"npc"), just='left')
 }

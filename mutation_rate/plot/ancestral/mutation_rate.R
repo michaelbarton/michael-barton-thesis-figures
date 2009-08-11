@@ -1,7 +1,7 @@
 rm(list=ls())
 require(lattice)
 source('helper/find_replace.R')
-source('helper/panel.confidence.R')
+source('../helper/panel_functions.R')
 
 mutation <- read.csv('data/ancestral/mean_mutation_rate.csv')
 mutation <- subset(mutation, cost_type == "glu-rel" | cost_type == "glu-abs" | cost_type == "weight")
@@ -27,10 +27,7 @@ plot <- xyplot(
   panel = function(x,y,...){
     panel.confidence(x,y)
     panel.xyplot(x,y)
-
-    cor <- cor.test(x,y,method="spear")
-    panel.text(min(x), 1.1,    paste("R = ",round(cor$estimate,3)),pos=4)
-    panel.text(min(x), 1.07,  paste("p = ",round(cor$p.value,3)),pos=4)
+    panel.spearman(x,y)
   }
 )
 

@@ -37,8 +37,12 @@ panel.spearman <- function(x,y){
 }
 
 panel.regression.values <- function(r.value,p.value,squared=FALSE){
-  formatted_r = round(r.value,digits=3)
-  formatted_p = format(p.value,scientific=TRUE,digits=2)
+  formatted_r = format(round(r.value,digits=3),nsmall=3)
+  if (p.value < 0.01)
+    formatted_p = format(p.value,scientific=TRUE,digits=2)
+  else
+    formatted_p = format(p.value,scientific=FALSE,digits=2)
+  end
 
   if(squared == TRUE){
     r = bquote(R^2 ==  .(formatted_r))

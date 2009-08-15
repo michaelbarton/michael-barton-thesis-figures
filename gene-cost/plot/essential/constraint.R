@@ -13,7 +13,7 @@ data$solution <- factor(data$solution,levels=order)
 
 data$environment <- find.replace(data$environment,
   c('glc'     , 'amm'      , 'sul'), 
-  c('glucose' , 'ammonium' , 'sulfur')
+  c('glucose' , 'ammonium' , 'sulphur')
 )
 
 attach(data)
@@ -62,7 +62,7 @@ write.csv(file="results/essential/constraint.csv",results)
 ordered_environments <- as.ordered(1:3)
 levels(ordered_environments)[3] <- "glucose"
 levels(ordered_environments)[2] <- "ammonium"
-levels(ordered_environments)[1] <- "sulfur"
+levels(ordered_environments)[1] <- "sulphur"
 results$environment <- factor(results$environment,levels=ordered_environments)
 
 ordered_solutions <- as.ordered(1:2)
@@ -71,8 +71,8 @@ levels(ordered_solutions)[2] <- "suboptimal"
 results$solution <- factor(results$solution,levels=ordered_solutions)
 
 ordered_essentials <- as.ordered(1:2)
-levels(ordered_essentials)[1] <- "viable"
-levels(ordered_essentials)[2] <- "inviable"
+levels(ordered_essentials)[2] <- "dispensible"
+levels(ordered_essentials)[1] <- "essential"
 results$essential <- factor(results$essential,levels=ordered_essentials)
 
 plot <- dotplot(

@@ -18,7 +18,7 @@ env_wise <- subset(env_wise, !(glc_flux == amm_flux & amm_flux == sul_flux))
 plot_data <- data.frame(
   gene  = rep(env_wise$gene,3),
   sol   = rep(env_wise$solution,3),
-  env   = rep(c("glucose","ammonium","sulfur"),each=length(env_wise$gene)),
+  env   = rep(c("glucose","ammonium","sulphur"),each=length(env_wise$gene)),
   dN_dS = c(env_wise$glc_dN_dS, env_wise$amm_dN_dS, env_wise$sul_dN_dS),
   flux  = c(env_wise$glc_flux, env_wise$amm_flux, env_wise$sul_flux)
 )

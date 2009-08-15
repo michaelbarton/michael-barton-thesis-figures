@@ -13,7 +13,7 @@ data$solution <- factor(data$solution,levels=order)
 
 data$environment <- find.replace(data$environment,
   c('glc'     , 'amm'      , 'sul'), 
-  c('glucose' , 'ammonium' , 'sulfur')
+  c('glucose' , 'ammonium' , 'sulphur')
 )
 
 data$viable <- 0
@@ -22,7 +22,7 @@ data$viable[data$essential == 'viable'] <- 1
 ordered_environments <- as.ordered(1:3)
 levels(ordered_environments)[1] <- "glucose"
 levels(ordered_environments)[2] <- "ammonium"
-levels(ordered_environments)[3] <- "sulfur"
+levels(ordered_environments)[3] <- "sulphur"
 data$environment <- factor(data$environment,levels=ordered_environments)
 
 plot <- xyplot(

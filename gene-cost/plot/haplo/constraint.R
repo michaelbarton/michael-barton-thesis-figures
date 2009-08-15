@@ -19,7 +19,7 @@ data$environment <- find.replace(data$environment,
 ordered_environments <- as.ordered(1:3)
 levels(ordered_environments)[1] <- "glucose"
 levels(ordered_environments)[2] <- "ammonium"
-levels(ordered_environments)[3] <- "sulfur"
+levels(ordered_environments)[3] <- "sulphur"
 data$environment <- factor(data$environment,levels=ordered_environments)
 
 plot <- bwplot(

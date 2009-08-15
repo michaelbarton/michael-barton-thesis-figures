@@ -1,1479 +1,1479 @@
 gene,environment,solution,constraint,essential
-YGR282C,amm,optimal,zero flux,viable
-YBR265W,amm,optimal,zero flux,inviable
-YJR025C,amm,optimal,zero flux,viable
-YGR019W,amm,optimal,zero flux,viable
-YFL017C,amm,optimal,zero flux,inviable
-YBL015W,amm,optimal,variable,viable
-YPL148C,amm,optimal,zero flux,viable
-YLR153C,amm,optimal,zero flux,inviable
-YCR032W,amm,optimal,zero flux,viable
-YNR033W,amm,optimal,zero flux,viable
-YOL052C,amm,optimal,zero flux,viable
-YJL005W,amm,optimal,zero flux,inviable
-YJR105W,amm,optimal,zero flux,viable
-YKL001C,amm,optimal,constrained,viable
-YDL052C,amm,optimal,constrained,viable
-YFL030W,amm,optimal,zero flux,viable
-YER043C,amm,optimal,constrained,inviable
-YOR128C,amm,optimal,constrained,viable
-YDR481C,amm,optimal,zero flux,viable
-YDR232W,amm,optimal,zero flux,inviable
-YDR111C,amm,optimal,variable,viable
-YLR089C,amm,optimal,zero flux,viable
-YOR335C,amm,optimal,zero flux,inviable
-YMR083W,amm,optimal,variable,viable
-YIR029W,amm,optimal,zero flux,viable
-YIR027C,amm,optimal,zero flux,viable
-YIR028W,amm,optimal,zero flux,viable
-YJR152W,amm,optimal,zero flux,viable
-YNR058W,amm,optimal,zero flux,viable
-YPL274W,amm,optimal,zero flux,viable
-YDR354W,amm,optimal,constrained,viable
-YDR305C,amm,optimal,zero flux,viable
-YPL111W,amm,optimal,zero flux,viable
-YHR018C,amm,optimal,constrained,viable
-YOL058W,amm,optimal,constrained,viable
-YDR341C,amm,optimal,zero flux,inviable
-YHR091C,amm,optimal,zero flux,viable
-YBR034C,amm,optimal,zero flux,viable
-YDR158W,amm,optimal,variable,viable
-YDR321W,amm,optimal,zero flux,viable
-YHR019C,amm,optimal,zero flux,inviable
-YCR024C,amm,optimal,zero flux,viable
-YER052C,amm,optimal,variable,viable
-YLL018C,amm,optimal,zero flux,inviable
-YPL104W,amm,optimal,zero flux,viable
-YDR530C,amm,optimal,zero flux,viable
-YER055C,amm,optimal,constrained,viable
-YOL064C,amm,optimal,variable,viable
-YGR286C,amm,optimal,zero flux,viable
-YNL280C,amm,optimal,constrained,viable
-YMR015C,amm,optimal,zero flux,viable
-YGL012W,amm,optimal,constrained,viable
-YLR056W,amm,optimal,zero flux,viable
-YMR202W,amm,optimal,zero flux,viable
-YGR088W,amm,optimal,variable,viable
-YDR256C,amm,optimal,zero flux,viable
-YCL004W,amm,optimal,zero flux,inviable
-YGR202C,amm,optimal,zero flux,viable
-YGL077C,amm,optimal,zero flux,viable
-YLR133W,amm,optimal,zero flux,viable
-YPR060C,amm,optimal,constrained,viable
-YGL148W,amm,optimal,constrained,viable
-YDL142C,amm,optimal,zero flux,viable
-YDR044W,amm,optimal,zero flux,inviable
-YOR100C,amm,optimal,zero flux,viable
-YBR132C,amm,optimal,zero flux,viable
-YAR035W,amm,optimal,zero flux,viable
-YPR062W,amm,optimal,zero flux,viable
-YCR005C,amm,optimal,zero flux,viable
-YGR012W,amm,optimal,constrained,viable
-YFR055W,amm,optimal,zero flux,viable
-YNL247W,amm,optimal,zero flux,inviable
-YGR155W,amm,optimal,zero flux,viable
-YNR057C,amm,optimal,zero flux,viable
-YLR420W,amm,optimal,zero flux,viable
-YLR172C,amm,optimal,zero flux,viable
-YOL096C,amm,optimal,zero flux,viable
-YDL100C,amm,optimal,zero flux,viable
-YMR013C,amm,optimal,zero flux,inviable
-YPR183W,amm,optimal,constrained,inviable
-YNR043W,amm,optimal,constrained,inviable
-YJR057W,amm,optimal,zero flux,inviable
-YBR252W,amm,optimal,zero flux,inviable
-YHR068W,amm,optimal,zero flux,inviable
-YDL174C,amm,optimal,zero flux,viable
-YDR147W,amm,optimal,zero flux,viable
-YIL134W,amm,optimal,constrained,viable
-YLR372W,amm,optimal,zero flux,viable
-YLR377C,amm,optimal,variable,viable
-YJL155C,amm,optimal,zero flux,viable
-YOR176W,amm,optimal,zero flux,inviable
-YBL013W,amm,optimal,zero flux,viable
-YDL045C,amm,optimal,constrained,inviable
-YEL047C,amm,optimal,zero flux,viable
-YJR051W,amm,optimal,zero flux,viable
-YER183C,amm,optimal,zero flux,viable
-YDL022W,amm,optimal,variable,viable
-YOL059W,amm,optimal,zero flux,viable
-YIL155C,amm,optimal,variable,viable
-YNL241C,amm,optimal,variable,viable
-YBR020W,amm,optimal,zero flux,viable
-YDR408C,amm,optimal,constrained,viable
-YEL011W,amm,optimal,zero flux,viable
-YLR058C,amm,optimal,variable,viable
-YPR160W,amm,optimal,zero flux,viable
-YPR035W,amm,optimal,constrained,inviable
-YOR168W,amm,optimal,zero flux,inviable
-YLR195C,amm,optimal,zero flux,inviable
-YDR300C,amm,optimal,variable,viable
-YJL101C,amm,optimal,zero flux,viable
-YMR250W,amm,optimal,zero flux,viable
-YDL215C,amm,optimal,variable,viable
-YMR300C,amm,optimal,constrained,viable
-YDL171C,amm,optimal,zero flux,viable
-YGL245W,amm,optimal,zero flux,inviable
-YOL033W,amm,optimal,zero flux,viable
-YLL043W,amm,optimal,zero flux,viable
-YHL032C,amm,optimal,zero flux,viable
-YDR272W,amm,optimal,zero flux,viable
-YOR040W,amm,optimal,zero flux,viable
-YMR217W,amm,optimal,constrained,viable
-YPL091W,amm,optimal,zero flux,viable
-YOL049W,amm,optimal,zero flux,viable
-YLR299W,amm,optimal,zero flux,viable
-YBL033C,amm,optimal,zero flux,viable
-YGR267C,amm,optimal,zero flux,inviable
-YDR234W,amm,optimal,constrained,viable
-YFR025C,amm,optimal,constrained,viable
-YDL205C,amm,optimal,zero flux,inviable
-YNL277W,amm,optimal,variable,viable
-YHR025W,amm,optimal,zero flux,viable
-YIL116W,amm,optimal,constrained,viable
-YLR174W,amm,optimal,variable,viable
-YDL066W,amm,optimal,variable,viable
-YNL009W,amm,optimal,zero flux,viable
-YER065C,amm,optimal,zero flux,viable
-YBR248C,amm,optimal,constrained,viable
-YOR202W,amm,optimal,constrained,viable
-YBL076C,amm,optimal,zero flux,inviable
-YPL040C,amm,optimal,zero flux,viable
-YDR380W,amm,optimal,zero flux,viable
-YPL117C,amm,optimal,constrained,inviable
-YBL098W,amm,optimal,zero flux,viable
-YPL160W,amm,optimal,zero flux,inviable
-YLR382C,amm,optimal,zero flux,viable
-YML004C,amm,optimal,zero flux,viable
-YHR007C,amm,optimal,constrained,inviable
-YHR072W,amm,optimal,constrained,inviable
-YDR037W,amm,optimal,zero flux,inviable
-YNL073W,amm,optimal,zero flux,viable
-YML054C,amm,optimal,zero flux,viable
-YDL055C,amm,optimal,constrained,inviable
-YER003C,amm,optimal,constrained,inviable
-YPR006C,amm,optimal,zero flux,viable
-YOL126C,amm,optimal,variable,viable
-YKL085W,amm,optimal,variable,viable
-YDL078C,amm,optimal,zero flux,viable
-YJR130C,amm,optimal,zero flux,viable
-YGR264C,amm,optimal,zero flux,inviable
-YGR171C,amm,optimal,zero flux,viable
-YHR046C,amm,optimal,constrained,viable
-YJL153C,amm,optimal,constrained,viable
-YLL061W,amm,optimal,zero flux,viable
-YBR176W,amm,optimal,zero flux,viable
-YKR080W,amm,optimal,zero flux,viable
-YGL067W,amm,optimal,zero flux,viable
-YLR138W,amm,optimal,zero flux,viable
-YEL042W,amm,optimal,zero flux,viable
-YGR010W,amm,optimal,zero flux,viable
-YKL120W,amm,optimal,variable,viable
-YJL088W,amm,optimal,constrained,viable
-YPL266W,amm,optimal,zero flux,inviable
-YML110C,amm,optimal,zero flux,viable
-YDR538W,amm,optimal,zero flux,viable
-YKL184W,amm,optimal,zero flux,viable
-YLR438W,amm,optimal,zero flux,viable
-YOR130C,amm,optimal,constrained,viable
-YIL145C,amm,optimal,zero flux,viable
-YPR167C,amm,optimal,constrained,viable
-YKR093W,amm,optimal,zero flux,viable
-YGR007W,amm,optimal,zero flux,viable
-YGR157W,amm,optimal,constrained,viable
-YCR012W,amm,optimal,variable,inviable
-YPR047W,amm,optimal,zero flux,viable
-YPL268W,amm,optimal,zero flux,viable
-YPR113W,amm,optimal,constrained,inviable
-YJR077C,amm,optimal,variable,viable
-YFL045C,amm,optimal,constrained,inviable
-YMR220W,amm,optimal,constrained,inviable
-YDR531W,amm,optimal,zero flux,inviable
-YCR028C,amm,optimal,zero flux,viable
-YBR011C,amm,optimal,constrained,inviable
-YMR267W,amm,optimal,zero flux,viable
-YGL040C,amm,optimal,zero flux,inviable
-YKR097W,amm,optimal,zero flux,viable
-YBR166C,amm,optimal,variable,viable
-YNL316C,amm,optimal,constrained,viable
-YER014W,amm,optimal,zero flux,viable
-YDR007W,amm,optimal,constrained,viable
-YAR015W,amm,optimal,constrained,viable
-YGR061C,amm,optimal,constrained,viable
-YIL020C,amm,optimal,constrained,viable
-YLR142W,amm,optimal,zero flux,viable
-YNL169C,amm,optimal,variable,viable
-YGR208W,amm,optimal,variable,viable
-YOL143C,amm,optimal,zero flux,viable
-YBR256C,amm,optimal,zero flux,inviable
-YJL121C,amm,optimal,variable,viable
-YOR095C,amm,optimal,variable,inviable
-YNR050C,amm,optimal,constrained,viable
-YIR034C,amm,optimal,constrained,viable
-YJR010W,amm,optimal,zero flux,viable
-YML008C,amm,optimal,zero flux,viable
-YJL068C,amm,optimal,zero flux,viable
-YPR069C,amm,optimal,zero flux,viable
-YLR146C,amm,optimal,zero flux,viable
-YGR175C,amm,optimal,constrained,inviable
-YHR190W,amm,optimal,constrained,inviable
-YIL162W,amm,optimal,zero flux,viable
-YEL046C,amm,optimal,variable,viable
-YER086W,amm,optimal,constrained,viable
-YIL078W,amm,optimal,zero flux,inviable
-YKL194C,amm,optimal,zero flux,viable
-YOR074C,amm,optimal,constrained,inviable
-YDR050C,amm,optimal,variable,inviable
-YDR353W,amm,optimal,constrained,inviable
-YHR106W,amm,optimal,zero flux,viable
-YPR026W,amm,optimal,zero flux,viable
-YJR078W,amm,optimal,zero flux,viable
-YGL026C,amm,optimal,constrained,viable
-YOL097C,amm,optimal,zero flux,inviable
-YDR268W,amm,optimal,zero flux,viable
-YGR185C,amm,optimal,zero flux,inviable
-YPL097W,amm,optimal,zero flux,viable
-YDL103C,amm,optimal,zero flux,inviable
-YBR019C,amm,optimal,zero flux,viable
-YIR032C,amm,optimal,zero flux,viable
-YKR069W,amm,optimal,zero flux,viable
-YOR278W,amm,optimal,zero flux,inviable
-YDR047W,amm,optimal,zero flux,inviable
-YBR021W,amm,optimal,zero flux,viable
-YHL016C,amm,optimal,zero flux,viable
-YBL042C,amm,optimal,zero flux,viable
-YJR133W,amm,optimal,zero flux,viable
-YGR194C,amm,optimal,zero flux,viable
-YLR070C,amm,optimal,zero flux,viable
-YGR282C,amm,suboptimal,zero flux,viable
-YBR265W,amm,suboptimal,zero flux,inviable
-YJR025C,amm,suboptimal,zero flux,viable
-YGR019W,amm,suboptimal,zero flux,viable
-YFL017C,amm,suboptimal,zero flux,inviable
-YBL015W,amm,suboptimal,variable,viable
-YPL148C,amm,suboptimal,constrained,viable
-YLR153C,amm,suboptimal,zero flux,inviable
-YCR032W,amm,suboptimal,zero flux,viable
-YNR033W,amm,suboptimal,zero flux,viable
-YOL052C,amm,suboptimal,zero flux,viable
-YJL005W,amm,suboptimal,zero flux,inviable
-YJR105W,amm,suboptimal,variable,viable
-YKL001C,amm,suboptimal,constrained,viable
-YDL052C,amm,suboptimal,constrained,viable
-YFL030W,amm,suboptimal,zero flux,viable
-YER043C,amm,suboptimal,constrained,inviable
-YOR128C,amm,suboptimal,constrained,viable
-YDR481C,amm,suboptimal,zero flux,viable
-YDR232W,amm,suboptimal,zero flux,inviable
-YDR111C,amm,suboptimal,variable,viable
-YLR089C,amm,suboptimal,zero flux,viable
-YOR335C,amm,suboptimal,zero flux,inviable
-YMR083W,amm,suboptimal,variable,viable
-YIR029W,amm,suboptimal,zero flux,viable
-YIR027C,amm,suboptimal,zero flux,viable
-YIR028W,amm,suboptimal,zero flux,viable
-YJR152W,amm,suboptimal,zero flux,viable
-YNR058W,amm,suboptimal,zero flux,viable
-YPL274W,amm,suboptimal,zero flux,viable
-YDR354W,amm,suboptimal,constrained,viable
-YDR305C,amm,suboptimal,zero flux,viable
-YPL111W,amm,suboptimal,constrained,viable
-YHR018C,amm,suboptimal,constrained,viable
-YOL058W,amm,suboptimal,constrained,viable
-YDR341C,amm,suboptimal,zero flux,inviable
-YHR091C,amm,suboptimal,zero flux,viable
-YBR034C,amm,suboptimal,zero flux,viable
-YDR158W,amm,suboptimal,variable,viable
-YDR321W,amm,suboptimal,zero flux,viable
-YHR019C,amm,suboptimal,zero flux,inviable
-YCR024C,amm,suboptimal,zero flux,viable
-YER052C,amm,suboptimal,variable,viable
-YLL018C,amm,suboptimal,zero flux,inviable
-YPL104W,amm,suboptimal,zero flux,viable
-YDR530C,amm,suboptimal,zero flux,viable
-YER055C,amm,suboptimal,constrained,viable
-YOL064C,amm,suboptimal,variable,viable
-YGR286C,amm,suboptimal,zero flux,viable
-YNL280C,amm,suboptimal,constrained,viable
-YMR015C,amm,suboptimal,variable,viable
-YGL012W,amm,suboptimal,constrained,viable
-YLR056W,amm,suboptimal,variable,viable
-YMR202W,amm,suboptimal,variable,viable
-YGR088W,amm,suboptimal,zero flux,viable
-YDR256C,amm,suboptimal,zero flux,viable
-YCL004W,amm,suboptimal,zero flux,inviable
-YGR202C,amm,suboptimal,zero flux,viable
-YGL077C,amm,suboptimal,zero flux,viable
-YLR133W,amm,suboptimal,zero flux,viable
-YPR060C,amm,suboptimal,constrained,viable
-YGL148W,amm,suboptimal,constrained,viable
-YDL142C,amm,suboptimal,zero flux,viable
-YDR044W,amm,suboptimal,zero flux,inviable
-YOR100C,amm,suboptimal,zero flux,viable
-YBR132C,amm,suboptimal,zero flux,viable
-YAR035W,amm,suboptimal,variable,viable
-YPR062W,amm,suboptimal,zero flux,viable
-YCR005C,amm,suboptimal,zero flux,viable
-YGR012W,amm,suboptimal,constrained,viable
-YFR055W,amm,suboptimal,zero flux,viable
-YNL247W,amm,suboptimal,zero flux,inviable
-YGR155W,amm,suboptimal,zero flux,viable
-YNR057C,amm,suboptimal,zero flux,viable
-YLR420W,amm,suboptimal,zero flux,viable
-YLR172C,amm,suboptimal,zero flux,viable
-YOL096C,amm,suboptimal,zero flux,viable
-YDL100C,amm,suboptimal,zero flux,viable
-YMR013C,amm,suboptimal,zero flux,inviable
-YPR183W,amm,suboptimal,constrained,inviable
-YNR043W,amm,suboptimal,constrained,inviable
-YJR057W,amm,suboptimal,zero flux,inviable
-YBR252W,amm,suboptimal,zero flux,inviable
-YHR068W,amm,suboptimal,zero flux,inviable
-YDL174C,amm,suboptimal,zero flux,viable
-YDR147W,amm,suboptimal,zero flux,viable
-YIL134W,amm,suboptimal,zero flux,viable
-YLR372W,amm,suboptimal,zero flux,viable
-YLR377C,amm,suboptimal,zero flux,viable
-YJL155C,amm,suboptimal,zero flux,viable
-YOR176W,amm,suboptimal,zero flux,inviable
-YBL013W,amm,suboptimal,zero flux,viable
-YDL045C,amm,suboptimal,zero flux,inviable
-YEL047C,amm,suboptimal,zero flux,viable
-YJR051W,amm,suboptimal,zero flux,viable
-YER183C,amm,suboptimal,zero flux,viable
-YDL022W,amm,suboptimal,variable,viable
-YOL059W,amm,suboptimal,zero flux,viable
-YIL155C,amm,suboptimal,zero flux,viable
-YNL241C,amm,suboptimal,zero flux,viable
-YBR020W,amm,suboptimal,zero flux,viable
-YDR408C,amm,suboptimal,constrained,viable
-YEL011W,amm,suboptimal,variable,viable
-YLR058C,amm,suboptimal,variable,viable
-YBR263W,amm,suboptimal,variable,viable
-YPR160W,amm,suboptimal,zero flux,viable
-YPR035W,amm,suboptimal,variable,inviable
-YOR168W,amm,suboptimal,zero flux,inviable
-YLR195C,amm,suboptimal,zero flux,inviable
-YDR300C,amm,suboptimal,zero flux,viable
-YJL101C,amm,suboptimal,zero flux,viable
-YMR250W,amm,suboptimal,zero flux,viable
-YDL215C,amm,suboptimal,zero flux,viable
-YMR300C,amm,suboptimal,constrained,viable
-YDL171C,amm,suboptimal,variable,viable
-YGL245W,amm,suboptimal,zero flux,inviable
-YOL033W,amm,suboptimal,zero flux,viable
-YLL043W,amm,suboptimal,zero flux,viable
-YHL032C,amm,suboptimal,zero flux,viable
-YDR272W,amm,suboptimal,zero flux,viable
-YOR040W,amm,suboptimal,zero flux,viable
-YMR217W,amm,suboptimal,constrained,viable
-YPL091W,amm,suboptimal,zero flux,viable
-YOL049W,amm,suboptimal,zero flux,viable
-YLR299W,amm,suboptimal,zero flux,viable
-YBL033C,amm,suboptimal,zero flux,viable
-YGR267C,amm,suboptimal,zero flux,inviable
-YDR234W,amm,suboptimal,constrained,viable
-YFR025C,amm,suboptimal,constrained,viable
-YDL205C,amm,suboptimal,zero flux,inviable
-YNL277W,amm,suboptimal,variable,viable
-YHR025W,amm,suboptimal,zero flux,viable
-YIL116W,amm,suboptimal,constrained,viable
-YLR174W,amm,suboptimal,zero flux,viable
-YDL066W,amm,suboptimal,zero flux,viable
-YNL009W,amm,suboptimal,zero flux,viable
-YER065C,amm,suboptimal,zero flux,viable
-YBR248C,amm,suboptimal,constrained,viable
-YOR202W,amm,suboptimal,constrained,viable
-YBL076C,amm,suboptimal,zero flux,inviable
-YPL040C,amm,suboptimal,zero flux,viable
-YDR380W,amm,suboptimal,zero flux,viable
-YPL117C,amm,suboptimal,constrained,inviable
-YBL098W,amm,suboptimal,zero flux,viable
-YPL160W,amm,suboptimal,zero flux,inviable
-YLR382C,amm,suboptimal,zero flux,viable
-YML004C,amm,suboptimal,zero flux,viable
-YHR007C,amm,suboptimal,constrained,inviable
-YHR072W,amm,suboptimal,constrained,inviable
-YDR037W,amm,suboptimal,zero flux,inviable
-YNL073W,amm,suboptimal,zero flux,viable
-YML054C,amm,suboptimal,zero flux,viable
-YDL055C,amm,suboptimal,constrained,inviable
-YER003C,amm,suboptimal,constrained,inviable
-YPR006C,amm,suboptimal,zero flux,viable
-YOL126C,amm,suboptimal,variable,viable
-YDL078C,amm,suboptimal,zero flux,viable
-YJR130C,amm,suboptimal,zero flux,viable
-YGR264C,amm,suboptimal,zero flux,inviable
-YGR171C,amm,suboptimal,zero flux,viable
-YHR046C,amm,suboptimal,constrained,viable
-YJL153C,amm,suboptimal,constrained,viable
-YLL061W,amm,suboptimal,zero flux,viable
-YBR176W,amm,suboptimal,zero flux,viable
-YKR080W,amm,suboptimal,zero flux,viable
-YGL067W,amm,suboptimal,zero flux,viable
-YLR138W,amm,suboptimal,zero flux,viable
-YEL042W,amm,suboptimal,zero flux,viable
-YGR010W,amm,suboptimal,zero flux,viable
-YKL120W,amm,suboptimal,variable,viable
-YJL088W,amm,suboptimal,constrained,viable
-YPL266W,amm,suboptimal,zero flux,inviable
-YML110C,amm,suboptimal,zero flux,viable
-YDR538W,amm,suboptimal,zero flux,viable
-YKL184W,amm,suboptimal,zero flux,viable
-YLR438W,amm,suboptimal,variable,viable
-YOR130C,amm,suboptimal,variable,viable
-YIL145C,amm,suboptimal,zero flux,viable
-YPR167C,amm,suboptimal,constrained,viable
-YKR093W,amm,suboptimal,zero flux,viable
-YGR007W,amm,suboptimal,zero flux,viable
-YGR157W,amm,suboptimal,constrained,viable
-YPR047W,amm,suboptimal,zero flux,viable
-YPL268W,amm,suboptimal,zero flux,viable
-YPR113W,amm,suboptimal,constrained,inviable
-YJR077C,amm,suboptimal,variable,viable
-YER053C,amm,suboptimal,variable,viable
-YFL045C,amm,suboptimal,constrained,inviable
-YMR220W,amm,suboptimal,constrained,inviable
-YDR531W,amm,suboptimal,constrained,inviable
-YCR028C,amm,suboptimal,constrained,viable
-YBR011C,amm,suboptimal,constrained,inviable
-YMR267W,amm,suboptimal,zero flux,viable
-YGL040C,amm,suboptimal,zero flux,inviable
-YKR097W,amm,suboptimal,zero flux,viable
-YBR166C,amm,suboptimal,variable,viable
-YNL316C,amm,suboptimal,constrained,viable
-YER014W,amm,suboptimal,zero flux,viable
-YDR007W,amm,suboptimal,constrained,viable
-YAR015W,amm,suboptimal,constrained,viable
-YGR061C,amm,suboptimal,constrained,viable
-YIL020C,amm,suboptimal,constrained,viable
-YLR142W,amm,suboptimal,variable,viable
-YNL169C,amm,suboptimal,variable,viable
-YGR208W,amm,suboptimal,variable,viable
-YOL143C,amm,suboptimal,zero flux,viable
-YBR256C,amm,suboptimal,zero flux,inviable
-YJL121C,amm,suboptimal,variable,viable
-YOR095C,amm,suboptimal,constrained,inviable
-YNR050C,amm,suboptimal,constrained,viable
-YIR034C,amm,suboptimal,constrained,viable
-YJR010W,amm,suboptimal,zero flux,viable
-YML008C,amm,suboptimal,variable,viable
-YJL068C,amm,suboptimal,zero flux,viable
-YPR069C,amm,suboptimal,zero flux,viable
-YLR146C,amm,suboptimal,zero flux,viable
-YGR175C,amm,suboptimal,constrained,inviable
-YHR190W,amm,suboptimal,constrained,inviable
-YIL162W,amm,suboptimal,zero flux,viable
-YEL046C,amm,suboptimal,variable,viable
-YER086W,amm,suboptimal,constrained,viable
-YIL078W,amm,suboptimal,zero flux,inviable
-YKL194C,amm,suboptimal,zero flux,viable
-YOR074C,amm,suboptimal,constrained,inviable
-YDR050C,amm,suboptimal,variable,inviable
-YDR353W,amm,suboptimal,constrained,inviable
-YHR106W,amm,suboptimal,zero flux,viable
-YPR026W,amm,suboptimal,zero flux,viable
-YJR078W,amm,suboptimal,zero flux,viable
-YGL026C,amm,suboptimal,constrained,viable
-YOL097C,amm,suboptimal,zero flux,inviable
-YDR268W,amm,suboptimal,zero flux,viable
-YGR185C,amm,suboptimal,zero flux,inviable
-YPL097W,amm,suboptimal,zero flux,viable
-YDL103C,amm,suboptimal,zero flux,inviable
-YBR019C,amm,suboptimal,zero flux,viable
-YIR032C,amm,suboptimal,zero flux,viable
-YKR069W,amm,suboptimal,zero flux,viable
-YOR278W,amm,suboptimal,zero flux,inviable
-YDR047W,amm,suboptimal,zero flux,inviable
-YBR021W,amm,suboptimal,zero flux,viable
-YHL016C,amm,suboptimal,zero flux,viable
-YBL042C,amm,suboptimal,zero flux,viable
-YJR133W,amm,suboptimal,zero flux,viable
-YGR194C,amm,suboptimal,zero flux,viable
-YLR070C,amm,suboptimal,zero flux,viable
-YGR282C,glc,optimal,zero flux,viable
-YBR265W,glc,optimal,zero flux,inviable
-YJR025C,glc,optimal,zero flux,viable
-YGR019W,glc,optimal,zero flux,viable
-YFL017C,glc,optimal,zero flux,inviable
-YBL015W,glc,optimal,variable,viable
-YPL148C,glc,optimal,zero flux,viable
-YLR153C,glc,optimal,zero flux,inviable
-YCR032W,glc,optimal,zero flux,viable
-YNR033W,glc,optimal,zero flux,viable
-YOL052C,glc,optimal,zero flux,viable
-YJL005W,glc,optimal,zero flux,inviable
-YJR105W,glc,optimal,variable,viable
-YKL001C,glc,optimal,constrained,viable
-YDL052C,glc,optimal,constrained,viable
-YFL030W,glc,optimal,zero flux,viable
-YER043C,glc,optimal,constrained,inviable
-YOR128C,glc,optimal,constrained,viable
-YDR481C,glc,optimal,zero flux,viable
-YDR232W,glc,optimal,zero flux,inviable
-YDR111C,glc,optimal,variable,viable
-YLR089C,glc,optimal,zero flux,viable
-YOR335C,glc,optimal,zero flux,inviable
-YMR083W,glc,optimal,zero flux,viable
-YIR029W,glc,optimal,zero flux,viable
-YIR027C,glc,optimal,zero flux,viable
-YIR028W,glc,optimal,zero flux,viable
-YJR152W,glc,optimal,zero flux,viable
-YNR058W,glc,optimal,zero flux,viable
-YPL274W,glc,optimal,zero flux,viable
-YDR354W,glc,optimal,constrained,viable
-YDR305C,glc,optimal,zero flux,viable
-YPL111W,glc,optimal,zero flux,viable
-YHR018C,glc,optimal,constrained,viable
-YOL058W,glc,optimal,constrained,viable
-YDR341C,glc,optimal,zero flux,inviable
-YHR091C,glc,optimal,zero flux,viable
-YBR034C,glc,optimal,zero flux,viable
-YDR158W,glc,optimal,variable,viable
-YDR321W,glc,optimal,zero flux,viable
-YHR019C,glc,optimal,zero flux,inviable
-YCR024C,glc,optimal,zero flux,viable
-YER052C,glc,optimal,variable,viable
-YLL018C,glc,optimal,zero flux,inviable
-YPL104W,glc,optimal,zero flux,viable
-YDR530C,glc,optimal,zero flux,viable
-YER055C,glc,optimal,constrained,viable
-YOL064C,glc,optimal,variable,viable
-YGR286C,glc,optimal,zero flux,viable
-YNL280C,glc,optimal,constrained,viable
-YMR015C,glc,optimal,zero flux,viable
-YGL012W,glc,optimal,constrained,viable
-YLR056W,glc,optimal,zero flux,viable
-YMR202W,glc,optimal,zero flux,viable
-YGR088W,glc,optimal,zero flux,viable
-YDR256C,glc,optimal,zero flux,viable
-YCL004W,glc,optimal,zero flux,inviable
-YGR202C,glc,optimal,zero flux,viable
-YGL077C,glc,optimal,zero flux,viable
-YLR133W,glc,optimal,zero flux,viable
-YPR060C,glc,optimal,constrained,viable
-YGL148W,glc,optimal,constrained,viable
-YDL142C,glc,optimal,zero flux,viable
-YDR044W,glc,optimal,zero flux,inviable
-YOR100C,glc,optimal,zero flux,viable
-YBR132C,glc,optimal,zero flux,viable
-YAR035W,glc,optimal,zero flux,viable
-YPR062W,glc,optimal,zero flux,viable
-YCR005C,glc,optimal,zero flux,viable
-YGR012W,glc,optimal,constrained,viable
-YFR055W,glc,optimal,zero flux,viable
-YNL247W,glc,optimal,zero flux,inviable
-YGR155W,glc,optimal,zero flux,viable
-YNR057C,glc,optimal,zero flux,viable
-YLR420W,glc,optimal,zero flux,viable
-YLR172C,glc,optimal,zero flux,viable
-YOL096C,glc,optimal,zero flux,viable
-YDL100C,glc,optimal,zero flux,viable
-YMR013C,glc,optimal,zero flux,inviable
-YPR183W,glc,optimal,constrained,inviable
-YNR043W,glc,optimal,constrained,inviable
-YJR057W,glc,optimal,zero flux,inviable
-YBR252W,glc,optimal,zero flux,inviable
-YHR068W,glc,optimal,zero flux,inviable
-YDL174C,glc,optimal,zero flux,viable
-YDR147W,glc,optimal,zero flux,viable
-YIL134W,glc,optimal,constrained,viable
-YLR372W,glc,optimal,zero flux,viable
-YLR377C,glc,optimal,zero flux,viable
-YJL155C,glc,optimal,zero flux,viable
-YOR176W,glc,optimal,zero flux,inviable
-YBL013W,glc,optimal,zero flux,viable
-YDL045C,glc,optimal,constrained,inviable
-YEL047C,glc,optimal,variable,viable
-YJR051W,glc,optimal,zero flux,viable
-YER183C,glc,optimal,zero flux,viable
-YDL022W,glc,optimal,variable,viable
-YOL059W,glc,optimal,zero flux,viable
-YIL155C,glc,optimal,zero flux,viable
-YNL241C,glc,optimal,zero flux,viable
-YBR020W,glc,optimal,zero flux,viable
-YDR408C,glc,optimal,constrained,viable
-YEL011W,glc,optimal,zero flux,viable
-YLR058C,glc,optimal,variable,viable
-YBR263W,glc,optimal,variable,viable
-YPR160W,glc,optimal,zero flux,viable
-YPR035W,glc,optimal,constrained,inviable
-YOR168W,glc,optimal,zero flux,inviable
-YLR195C,glc,optimal,zero flux,inviable
-YDR300C,glc,optimal,variable,viable
-YJL101C,glc,optimal,zero flux,viable
-YMR250W,glc,optimal,zero flux,viable
-YDL215C,glc,optimal,variable,viable
-YMR300C,glc,optimal,constrained,viable
-YDL171C,glc,optimal,zero flux,viable
-YGL245W,glc,optimal,zero flux,inviable
-YOL033W,glc,optimal,zero flux,viable
-YLL043W,glc,optimal,zero flux,viable
-YHL032C,glc,optimal,zero flux,viable
-YDR272W,glc,optimal,zero flux,viable
-YOR040W,glc,optimal,zero flux,viable
-YMR217W,glc,optimal,constrained,viable
-YPL091W,glc,optimal,zero flux,viable
-YOL049W,glc,optimal,zero flux,viable
-YLR299W,glc,optimal,zero flux,viable
-YBL033C,glc,optimal,zero flux,viable
-YGR267C,glc,optimal,zero flux,inviable
-YDR234W,glc,optimal,constrained,viable
-YFR025C,glc,optimal,constrained,viable
-YDL205C,glc,optimal,zero flux,inviable
-YNL277W,glc,optimal,variable,viable
-YHR025W,glc,optimal,zero flux,viable
-YIL116W,glc,optimal,constrained,viable
-YLR174W,glc,optimal,zero flux,viable
-YDL066W,glc,optimal,variable,viable
-YNL009W,glc,optimal,zero flux,viable
-YER065C,glc,optimal,zero flux,viable
-YBR248C,glc,optimal,constrained,viable
-YOR202W,glc,optimal,constrained,viable
-YBL076C,glc,optimal,zero flux,inviable
-YPL040C,glc,optimal,zero flux,viable
-YDR380W,glc,optimal,zero flux,viable
-YPL117C,glc,optimal,constrained,inviable
-YBL098W,glc,optimal,zero flux,viable
-YPL160W,glc,optimal,zero flux,inviable
-YLR382C,glc,optimal,zero flux,viable
-YML004C,glc,optimal,zero flux,viable
-YHR007C,glc,optimal,constrained,inviable
-YHR072W,glc,optimal,constrained,inviable
-YDR037W,glc,optimal,zero flux,inviable
-YNL073W,glc,optimal,zero flux,viable
-YML054C,glc,optimal,zero flux,viable
-YDL055C,glc,optimal,constrained,inviable
-YER003C,glc,optimal,constrained,inviable
-YPR006C,glc,optimal,zero flux,viable
-YOL126C,glc,optimal,variable,viable
-YKL085W,glc,optimal,variable,viable
-YDL078C,glc,optimal,zero flux,viable
-YJR130C,glc,optimal,zero flux,viable
-YGR264C,glc,optimal,zero flux,inviable
-YGR171C,glc,optimal,zero flux,viable
-YHR046C,glc,optimal,constrained,viable
-YJL153C,glc,optimal,constrained,viable
-YLL061W,glc,optimal,zero flux,viable
-YBR176W,glc,optimal,zero flux,viable
-YKR080W,glc,optimal,zero flux,viable
-YGL067W,glc,optimal,zero flux,viable
-YLR138W,glc,optimal,zero flux,viable
-YEL042W,glc,optimal,zero flux,viable
-YGR010W,glc,optimal,zero flux,viable
-YKL120W,glc,optimal,variable,viable
-YJL088W,glc,optimal,constrained,viable
-YPL266W,glc,optimal,zero flux,inviable
-YML110C,glc,optimal,zero flux,viable
-YDR538W,glc,optimal,zero flux,viable
-YKL184W,glc,optimal,zero flux,viable
-YLR438W,glc,optimal,zero flux,viable
-YOR130C,glc,optimal,constrained,viable
-YIL145C,glc,optimal,zero flux,viable
-YPR167C,glc,optimal,constrained,viable
-YKR093W,glc,optimal,zero flux,viable
-YGR007W,glc,optimal,zero flux,viable
-YGR157W,glc,optimal,constrained,viable
-YCR012W,glc,optimal,variable,inviable
-YPR047W,glc,optimal,zero flux,viable
-YPL268W,glc,optimal,zero flux,viable
-YPR113W,glc,optimal,constrained,inviable
-YER053C,glc,optimal,variable,viable
-YFL045C,glc,optimal,constrained,inviable
-YMR220W,glc,optimal,constrained,inviable
-YDR531W,glc,optimal,zero flux,inviable
-YCR028C,glc,optimal,zero flux,viable
-YBR011C,glc,optimal,constrained,inviable
-YMR267W,glc,optimal,zero flux,viable
-YGL040C,glc,optimal,zero flux,inviable
-YKR097W,glc,optimal,zero flux,viable
-YBR166C,glc,optimal,variable,viable
-YNL316C,glc,optimal,constrained,viable
-YER014W,glc,optimal,zero flux,viable
-YDR007W,glc,optimal,constrained,viable
-YAR015W,glc,optimal,constrained,viable
-YGR061C,glc,optimal,constrained,viable
-YIL020C,glc,optimal,constrained,viable
-YLR142W,glc,optimal,zero flux,viable
-YNL169C,glc,optimal,variable,viable
-YGR208W,glc,optimal,variable,viable
-YOL143C,glc,optimal,zero flux,viable
-YBR256C,glc,optimal,zero flux,inviable
-YJL121C,glc,optimal,variable,viable
-YOR095C,glc,optimal,constrained,inviable
-YNR050C,glc,optimal,constrained,viable
-YIR034C,glc,optimal,constrained,viable
-YJR010W,glc,optimal,zero flux,viable
-YML008C,glc,optimal,zero flux,viable
-YJL068C,glc,optimal,zero flux,viable
-YPR069C,glc,optimal,zero flux,viable
-YLR146C,glc,optimal,zero flux,viable
-YGR175C,glc,optimal,constrained,inviable
-YHR190W,glc,optimal,constrained,inviable
-YIL162W,glc,optimal,zero flux,viable
-YEL046C,glc,optimal,variable,viable
-YER086W,glc,optimal,constrained,viable
-YIL078W,glc,optimal,zero flux,inviable
-YKL194C,glc,optimal,zero flux,viable
-YOR074C,glc,optimal,constrained,inviable
-YDR050C,glc,optimal,variable,inviable
-YDR353W,glc,optimal,constrained,inviable
-YHR106W,glc,optimal,zero flux,viable
-YPR026W,glc,optimal,zero flux,viable
-YJR078W,glc,optimal,zero flux,viable
-YGL026C,glc,optimal,constrained,viable
-YOL097C,glc,optimal,zero flux,inviable
-YDR268W,glc,optimal,zero flux,viable
-YGR185C,glc,optimal,zero flux,inviable
-YPL097W,glc,optimal,zero flux,viable
-YDL103C,glc,optimal,zero flux,inviable
-YBR019C,glc,optimal,zero flux,viable
-YIR032C,glc,optimal,zero flux,viable
-YKR069W,glc,optimal,zero flux,viable
-YOR278W,glc,optimal,zero flux,inviable
-YDR047W,glc,optimal,zero flux,inviable
-YBR021W,glc,optimal,zero flux,viable
-YHL016C,glc,optimal,zero flux,viable
-YBL042C,glc,optimal,zero flux,viable
-YJR133W,glc,optimal,zero flux,viable
-YGR194C,glc,optimal,zero flux,viable
-YLR070C,glc,optimal,zero flux,viable
-YGR282C,glc,suboptimal,zero flux,viable
-YBR265W,glc,suboptimal,zero flux,inviable
-YJR025C,glc,suboptimal,zero flux,viable
-YGR019W,glc,suboptimal,zero flux,viable
-YFL017C,glc,suboptimal,zero flux,inviable
-YBL015W,glc,suboptimal,variable,viable
-YPL148C,glc,suboptimal,zero flux,viable
-YLR153C,glc,suboptimal,zero flux,inviable
-YCR032W,glc,suboptimal,zero flux,viable
-YNR033W,glc,suboptimal,constrained,viable
-YOL052C,glc,suboptimal,zero flux,viable
-YJL005W,glc,suboptimal,zero flux,inviable
-YJR105W,glc,suboptimal,variable,viable
-YKL001C,glc,suboptimal,constrained,viable
-YDL052C,glc,suboptimal,constrained,viable
-YFL030W,glc,suboptimal,zero flux,viable
-YER043C,glc,suboptimal,constrained,inviable
-YOR128C,glc,suboptimal,constrained,viable
-YDR481C,glc,suboptimal,zero flux,viable
-YDR232W,glc,suboptimal,zero flux,inviable
-YDR111C,glc,suboptimal,variable,viable
-YLR089C,glc,suboptimal,zero flux,viable
-YOR335C,glc,suboptimal,zero flux,inviable
-YMR083W,glc,suboptimal,zero flux,viable
-YIR029W,glc,suboptimal,zero flux,viable
-YIR027C,glc,suboptimal,zero flux,viable
-YIR028W,glc,suboptimal,zero flux,viable
-YJR152W,glc,suboptimal,zero flux,viable
-YNR058W,glc,suboptimal,zero flux,viable
-YPL274W,glc,suboptimal,zero flux,viable
-YDR354W,glc,suboptimal,constrained,viable
-YDR305C,glc,suboptimal,zero flux,viable
-YPL111W,glc,suboptimal,zero flux,viable
-YHR018C,glc,suboptimal,constrained,viable
-YOL058W,glc,suboptimal,constrained,viable
-YDR341C,glc,suboptimal,zero flux,inviable
-YHR091C,glc,suboptimal,zero flux,viable
-YBR034C,glc,suboptimal,zero flux,viable
-YDR158W,glc,suboptimal,zero flux,viable
-YDR321W,glc,suboptimal,zero flux,viable
-YHR019C,glc,suboptimal,zero flux,inviable
-YCR024C,glc,suboptimal,zero flux,viable
-YER052C,glc,suboptimal,zero flux,viable
-YLL018C,glc,suboptimal,zero flux,inviable
-YPL104W,glc,suboptimal,zero flux,viable
-YDR530C,glc,suboptimal,zero flux,viable
-YER055C,glc,suboptimal,constrained,viable
-YOL064C,glc,suboptimal,variable,viable
-YGR286C,glc,suboptimal,zero flux,viable
-YNL280C,glc,suboptimal,constrained,viable
-YMR015C,glc,suboptimal,zero flux,viable
-YGL012W,glc,suboptimal,constrained,viable
-YLR056W,glc,suboptimal,zero flux,viable
-YMR202W,glc,suboptimal,zero flux,viable
-YGR088W,glc,suboptimal,variable,viable
-YDR256C,glc,suboptimal,zero flux,viable
-YCL004W,glc,suboptimal,zero flux,inviable
-YGR202C,glc,suboptimal,zero flux,viable
-YGL077C,glc,suboptimal,zero flux,viable
-YLR133W,glc,suboptimal,zero flux,viable
-YPR060C,glc,suboptimal,constrained,viable
-YGL148W,glc,suboptimal,constrained,viable
-YDL142C,glc,suboptimal,zero flux,viable
-YDR044W,glc,suboptimal,zero flux,inviable
-YOR100C,glc,suboptimal,zero flux,viable
-YBR132C,glc,suboptimal,zero flux,viable
-YAR035W,glc,suboptimal,zero flux,viable
-YPR062W,glc,suboptimal,zero flux,viable
-YCR005C,glc,suboptimal,zero flux,viable
-YGR012W,glc,suboptimal,variable,viable
-YAL012W,glc,suboptimal,variable,viable
-YFR055W,glc,suboptimal,variable,viable
-YNL247W,glc,suboptimal,zero flux,inviable
-YGR155W,glc,suboptimal,zero flux,viable
-YNR057C,glc,suboptimal,zero flux,viable
-YLR420W,glc,suboptimal,zero flux,viable
-YLR172C,glc,suboptimal,zero flux,viable
-YOL096C,glc,suboptimal,zero flux,viable
-YDL100C,glc,suboptimal,constrained,viable
-YMR013C,glc,suboptimal,zero flux,inviable
-YPR183W,glc,suboptimal,constrained,inviable
-YNR043W,glc,suboptimal,constrained,inviable
-YJR057W,glc,suboptimal,zero flux,inviable
-YBR252W,glc,suboptimal,zero flux,inviable
-YHR068W,glc,suboptimal,zero flux,inviable
-YDL174C,glc,suboptimal,zero flux,viable
-YDR147W,glc,suboptimal,zero flux,viable
-YIL134W,glc,suboptimal,zero flux,viable
-YLR372W,glc,suboptimal,zero flux,viable
-YLR377C,glc,suboptimal,zero flux,viable
-YJL155C,glc,suboptimal,zero flux,viable
-YOR176W,glc,suboptimal,zero flux,inviable
-YBL013W,glc,suboptimal,zero flux,viable
-YDL045C,glc,suboptimal,zero flux,inviable
-YEL047C,glc,suboptimal,variable,viable
-YJR051W,glc,suboptimal,zero flux,viable
-YER183C,glc,suboptimal,zero flux,viable
-YDL022W,glc,suboptimal,zero flux,viable
-YOL059W,glc,suboptimal,zero flux,viable
-YIL155C,glc,suboptimal,zero flux,viable
-YNL241C,glc,suboptimal,zero flux,viable
-YBR020W,glc,suboptimal,zero flux,viable
-YDR408C,glc,suboptimal,constrained,viable
-YEL011W,glc,suboptimal,zero flux,viable
-YLR058C,glc,suboptimal,variable,viable
-YBR263W,glc,suboptimal,variable,viable
-YPR160W,glc,suboptimal,zero flux,viable
-YPR035W,glc,suboptimal,constrained,inviable
-YOR168W,glc,suboptimal,zero flux,inviable
-YLR195C,glc,suboptimal,zero flux,inviable
-YDR300C,glc,suboptimal,variable,viable
-YJL101C,glc,suboptimal,zero flux,viable
-YMR250W,glc,suboptimal,zero flux,viable
-YDL215C,glc,suboptimal,zero flux,viable
-YMR300C,glc,suboptimal,constrained,viable
-YDL171C,glc,suboptimal,zero flux,viable
-YGL245W,glc,suboptimal,zero flux,inviable
-YOL033W,glc,suboptimal,zero flux,viable
-YLL043W,glc,suboptimal,zero flux,viable
-YHL032C,glc,suboptimal,zero flux,viable
-YDR272W,glc,suboptimal,zero flux,viable
-YOR040W,glc,suboptimal,zero flux,viable
-YMR217W,glc,suboptimal,constrained,viable
-YPL091W,glc,suboptimal,zero flux,viable
-YOL049W,glc,suboptimal,zero flux,viable
-YLR299W,glc,suboptimal,zero flux,viable
-YBL033C,glc,suboptimal,zero flux,viable
-YGR267C,glc,suboptimal,constrained,inviable
-YDR234W,glc,suboptimal,constrained,viable
-YFR025C,glc,suboptimal,constrained,viable
-YDL205C,glc,suboptimal,zero flux,inviable
-YNL277W,glc,suboptimal,zero flux,viable
-YHR025W,glc,suboptimal,zero flux,viable
-YIL116W,glc,suboptimal,constrained,viable
-YLR174W,glc,suboptimal,zero flux,viable
-YDL066W,glc,suboptimal,variable,viable
-YNL009W,glc,suboptimal,zero flux,viable
-YER065C,glc,suboptimal,zero flux,viable
-YBR248C,glc,suboptimal,constrained,viable
-YOR202W,glc,suboptimal,constrained,viable
-YBL076C,glc,suboptimal,zero flux,inviable
-YPL040C,glc,suboptimal,zero flux,viable
-YDR380W,glc,suboptimal,zero flux,viable
-YPL117C,glc,suboptimal,constrained,inviable
-YBL098W,glc,suboptimal,zero flux,viable
-YPL160W,glc,suboptimal,zero flux,inviable
-YLR382C,glc,suboptimal,zero flux,viable
-YML004C,glc,suboptimal,zero flux,viable
-YHR007C,glc,suboptimal,constrained,inviable
-YHR072W,glc,suboptimal,constrained,inviable
-YDR037W,glc,suboptimal,zero flux,inviable
-YNL073W,glc,suboptimal,zero flux,viable
-YML054C,glc,suboptimal,zero flux,viable
-YDL055C,glc,suboptimal,constrained,inviable
-YER003C,glc,suboptimal,constrained,inviable
-YPR006C,glc,suboptimal,zero flux,viable
-YOL126C,glc,suboptimal,variable,viable
-YKL085W,glc,suboptimal,variable,viable
-YDL078C,glc,suboptimal,zero flux,viable
-YJR130C,glc,suboptimal,zero flux,viable
-YGR264C,glc,suboptimal,zero flux,inviable
-YGR171C,glc,suboptimal,zero flux,viable
-YHR046C,glc,suboptimal,constrained,viable
-YJL153C,glc,suboptimal,constrained,viable
-YLL061W,glc,suboptimal,zero flux,viable
-YBR176W,glc,suboptimal,zero flux,viable
-YKR080W,glc,suboptimal,variable,viable
-YGL067W,glc,suboptimal,zero flux,viable
-YLR138W,glc,suboptimal,zero flux,viable
-YEL042W,glc,suboptimal,zero flux,viable
-YGR010W,glc,suboptimal,zero flux,viable
-YJL088W,glc,suboptimal,constrained,viable
-YPL266W,glc,suboptimal,zero flux,inviable
-YML110C,glc,suboptimal,zero flux,viable
-YDR538W,glc,suboptimal,zero flux,viable
-YKL184W,glc,suboptimal,zero flux,viable
-YLR438W,glc,suboptimal,variable,viable
-YOR130C,glc,suboptimal,variable,viable
-YIL145C,glc,suboptimal,zero flux,viable
-YPR167C,glc,suboptimal,constrained,viable
-YKR093W,glc,suboptimal,zero flux,viable
-YGR007W,glc,suboptimal,zero flux,viable
-YGR157W,glc,suboptimal,constrained,viable
-YCR012W,glc,suboptimal,variable,inviable
-YPR047W,glc,suboptimal,zero flux,viable
-YPL268W,glc,suboptimal,zero flux,viable
-YPR113W,glc,suboptimal,constrained,inviable
-YER053C,glc,suboptimal,variable,viable
-YFL045C,glc,suboptimal,constrained,inviable
-YMR220W,glc,suboptimal,constrained,inviable
-YDR531W,glc,suboptimal,zero flux,inviable
-YCR028C,glc,suboptimal,zero flux,viable
-YBR011C,glc,suboptimal,constrained,inviable
-YMR267W,glc,suboptimal,zero flux,viable
-YGL040C,glc,suboptimal,zero flux,inviable
-YKR097W,glc,suboptimal,zero flux,viable
-YBR166C,glc,suboptimal,variable,viable
-YNL316C,glc,suboptimal,constrained,viable
-YER014W,glc,suboptimal,zero flux,viable
-YDR007W,glc,suboptimal,constrained,viable
-YAR015W,glc,suboptimal,constrained,viable
-YGR061C,glc,suboptimal,constrained,viable
-YIL020C,glc,suboptimal,constrained,viable
-YLR142W,glc,suboptimal,zero flux,viable
-YNL169C,glc,suboptimal,variable,viable
-YGR208W,glc,suboptimal,variable,viable
-YOL143C,glc,suboptimal,zero flux,viable
-YBR256C,glc,suboptimal,zero flux,inviable
-YJL121C,glc,suboptimal,variable,viable
-YOR095C,glc,suboptimal,constrained,inviable
-YNR050C,glc,suboptimal,constrained,viable
-YIR034C,glc,suboptimal,constrained,viable
-YJR010W,glc,suboptimal,zero flux,viable
-YML008C,glc,suboptimal,zero flux,viable
-YJL068C,glc,suboptimal,zero flux,viable
-YPR069C,glc,suboptimal,zero flux,viable
-YLR146C,glc,suboptimal,zero flux,viable
-YGR175C,glc,suboptimal,constrained,inviable
-YHR190W,glc,suboptimal,constrained,inviable
-YIL162W,glc,suboptimal,zero flux,viable
-YEL046C,glc,suboptimal,variable,viable
-YER086W,glc,suboptimal,constrained,viable
-YIL078W,glc,suboptimal,zero flux,inviable
-YKL194C,glc,suboptimal,zero flux,viable
-YOR074C,glc,suboptimal,constrained,inviable
-YDR050C,glc,suboptimal,variable,inviable
-YDR353W,glc,suboptimal,constrained,inviable
-YHR106W,glc,suboptimal,zero flux,viable
-YPR026W,glc,suboptimal,zero flux,viable
-YJR078W,glc,suboptimal,zero flux,viable
-YGL026C,glc,suboptimal,constrained,viable
-YOL097C,glc,suboptimal,zero flux,inviable
-YDR268W,glc,suboptimal,zero flux,viable
-YGR185C,glc,suboptimal,zero flux,inviable
-YPL097W,glc,suboptimal,zero flux,viable
-YDL103C,glc,suboptimal,zero flux,inviable
-YBR019C,glc,suboptimal,zero flux,viable
-YIR032C,glc,suboptimal,zero flux,viable
-YKR069W,glc,suboptimal,zero flux,viable
-YOR278W,glc,suboptimal,zero flux,inviable
-YDR047W,glc,suboptimal,zero flux,inviable
-YBR021W,glc,suboptimal,zero flux,viable
-YHL016C,glc,suboptimal,zero flux,viable
-YBL042C,glc,suboptimal,zero flux,viable
-YJR133W,glc,suboptimal,zero flux,viable
-YGR194C,glc,suboptimal,zero flux,viable
-YLR070C,glc,suboptimal,zero flux,viable
-YGR282C,sul,optimal,zero flux,viable
-YBR265W,sul,optimal,zero flux,inviable
-YJR025C,sul,optimal,zero flux,viable
-YGR019W,sul,optimal,zero flux,viable
-YFL017C,sul,optimal,zero flux,inviable
-YBL015W,sul,optimal,variable,viable
-YPL148C,sul,optimal,zero flux,viable
-YLR153C,sul,optimal,zero flux,inviable
-YCR032W,sul,optimal,zero flux,viable
-YNR033W,sul,optimal,zero flux,viable
-YOL052C,sul,optimal,zero flux,viable
-YJL005W,sul,optimal,zero flux,inviable
-YJR105W,sul,optimal,zero flux,viable
-YKL001C,sul,optimal,constrained,viable
-YDL052C,sul,optimal,constrained,viable
-YFL030W,sul,optimal,zero flux,viable
-YER043C,sul,optimal,constrained,inviable
-YOR128C,sul,optimal,constrained,viable
-YDR481C,sul,optimal,zero flux,viable
-YDR232W,sul,optimal,zero flux,inviable
-YDR111C,sul,optimal,variable,viable
-YLR089C,sul,optimal,zero flux,viable
-YOR335C,sul,optimal,zero flux,inviable
-YMR083W,sul,optimal,variable,viable
-YIR029W,sul,optimal,zero flux,viable
-YIR027C,sul,optimal,zero flux,viable
-YIR028W,sul,optimal,zero flux,viable
-YJR152W,sul,optimal,zero flux,viable
-YNR058W,sul,optimal,zero flux,viable
-YPL274W,sul,optimal,zero flux,viable
-YDR354W,sul,optimal,constrained,viable
-YDR305C,sul,optimal,zero flux,viable
-YPL111W,sul,optimal,zero flux,viable
-YHR018C,sul,optimal,constrained,viable
-YOL058W,sul,optimal,constrained,viable
-YDR341C,sul,optimal,zero flux,inviable
-YHR091C,sul,optimal,zero flux,viable
-YBR034C,sul,optimal,zero flux,viable
-YDR158W,sul,optimal,variable,viable
-YDR321W,sul,optimal,zero flux,viable
-YHR019C,sul,optimal,zero flux,inviable
-YCR024C,sul,optimal,zero flux,viable
-YER052C,sul,optimal,variable,viable
-YLL018C,sul,optimal,zero flux,inviable
-YPL104W,sul,optimal,zero flux,viable
-YDR530C,sul,optimal,zero flux,viable
-YER055C,sul,optimal,constrained,viable
-YOL064C,sul,optimal,variable,viable
-YGR286C,sul,optimal,zero flux,viable
-YNL280C,sul,optimal,constrained,viable
-YMR015C,sul,optimal,zero flux,viable
-YGL012W,sul,optimal,constrained,viable
-YLR056W,sul,optimal,zero flux,viable
-YMR202W,sul,optimal,zero flux,viable
-YGR088W,sul,optimal,variable,viable
-YDR256C,sul,optimal,zero flux,viable
-YCL004W,sul,optimal,zero flux,inviable
-YGR202C,sul,optimal,zero flux,viable
-YGL077C,sul,optimal,zero flux,viable
-YLR133W,sul,optimal,zero flux,viable
-YPR060C,sul,optimal,constrained,viable
-YGL148W,sul,optimal,constrained,viable
-YDL142C,sul,optimal,zero flux,viable
-YDR044W,sul,optimal,zero flux,inviable
-YOR100C,sul,optimal,zero flux,viable
-YBR132C,sul,optimal,zero flux,viable
-YAR035W,sul,optimal,zero flux,viable
-YPR062W,sul,optimal,zero flux,viable
-YCR005C,sul,optimal,zero flux,viable
-YGR012W,sul,optimal,constrained,viable
-YFR055W,sul,optimal,zero flux,viable
-YNL247W,sul,optimal,zero flux,inviable
-YGR155W,sul,optimal,zero flux,viable
-YNR057C,sul,optimal,zero flux,viable
-YLR420W,sul,optimal,zero flux,viable
-YLR172C,sul,optimal,zero flux,viable
-YOL096C,sul,optimal,zero flux,viable
-YDL100C,sul,optimal,zero flux,viable
-YMR013C,sul,optimal,zero flux,inviable
-YPR183W,sul,optimal,constrained,inviable
-YNR043W,sul,optimal,constrained,inviable
-YJR057W,sul,optimal,zero flux,inviable
-YBR252W,sul,optimal,zero flux,inviable
-YHR068W,sul,optimal,zero flux,inviable
-YDL174C,sul,optimal,zero flux,viable
-YDR147W,sul,optimal,zero flux,viable
-YIL134W,sul,optimal,constrained,viable
-YLR372W,sul,optimal,zero flux,viable
-YLR377C,sul,optimal,variable,viable
-YJL155C,sul,optimal,zero flux,viable
-YOR176W,sul,optimal,zero flux,inviable
-YBL013W,sul,optimal,zero flux,viable
-YDL045C,sul,optimal,constrained,inviable
-YEL047C,sul,optimal,zero flux,viable
-YJR051W,sul,optimal,zero flux,viable
-YER183C,sul,optimal,zero flux,viable
-YDL022W,sul,optimal,variable,viable
-YOL059W,sul,optimal,zero flux,viable
-YIL155C,sul,optimal,variable,viable
-YNL241C,sul,optimal,variable,viable
-YBR020W,sul,optimal,zero flux,viable
-YDR408C,sul,optimal,constrained,viable
-YEL011W,sul,optimal,zero flux,viable
-YLR058C,sul,optimal,variable,viable
-YPR160W,sul,optimal,zero flux,viable
-YPR035W,sul,optimal,constrained,inviable
-YOR168W,sul,optimal,zero flux,inviable
-YLR195C,sul,optimal,zero flux,inviable
-YDR300C,sul,optimal,variable,viable
-YJL101C,sul,optimal,zero flux,viable
-YMR250W,sul,optimal,zero flux,viable
-YDL215C,sul,optimal,variable,viable
-YMR300C,sul,optimal,constrained,viable
-YDL171C,sul,optimal,zero flux,viable
-YGL245W,sul,optimal,zero flux,inviable
-YOL033W,sul,optimal,zero flux,viable
-YLL043W,sul,optimal,zero flux,viable
-YHL032C,sul,optimal,zero flux,viable
-YDR272W,sul,optimal,zero flux,viable
-YOR040W,sul,optimal,zero flux,viable
-YMR217W,sul,optimal,constrained,viable
-YPL091W,sul,optimal,zero flux,viable
-YOL049W,sul,optimal,zero flux,viable
-YLR299W,sul,optimal,zero flux,viable
-YBL033C,sul,optimal,zero flux,viable
-YGR267C,sul,optimal,zero flux,inviable
-YDR234W,sul,optimal,constrained,viable
-YFR025C,sul,optimal,constrained,viable
-YDL205C,sul,optimal,zero flux,inviable
-YNL277W,sul,optimal,variable,viable
-YHR025W,sul,optimal,zero flux,viable
-YIL116W,sul,optimal,constrained,viable
-YLR174W,sul,optimal,variable,viable
-YDL066W,sul,optimal,variable,viable
-YNL009W,sul,optimal,zero flux,viable
-YER065C,sul,optimal,zero flux,viable
-YBR248C,sul,optimal,constrained,viable
-YOR202W,sul,optimal,constrained,viable
-YBL076C,sul,optimal,zero flux,inviable
-YPL040C,sul,optimal,zero flux,viable
-YDR380W,sul,optimal,zero flux,viable
-YPL117C,sul,optimal,constrained,inviable
-YBL098W,sul,optimal,zero flux,viable
-YPL160W,sul,optimal,zero flux,inviable
-YLR382C,sul,optimal,zero flux,viable
-YML004C,sul,optimal,zero flux,viable
-YHR007C,sul,optimal,constrained,inviable
-YHR072W,sul,optimal,constrained,inviable
-YDR037W,sul,optimal,zero flux,inviable
-YNL073W,sul,optimal,zero flux,viable
-YML054C,sul,optimal,zero flux,viable
-YDL055C,sul,optimal,constrained,inviable
-YER003C,sul,optimal,constrained,inviable
-YPR006C,sul,optimal,zero flux,viable
-YOL126C,sul,optimal,variable,viable
-YKL085W,sul,optimal,variable,viable
-YDL078C,sul,optimal,zero flux,viable
-YJR130C,sul,optimal,zero flux,viable
-YGR264C,sul,optimal,zero flux,inviable
-YGR171C,sul,optimal,zero flux,viable
-YHR046C,sul,optimal,constrained,viable
-YJL153C,sul,optimal,constrained,viable
-YLL061W,sul,optimal,zero flux,viable
-YBR176W,sul,optimal,zero flux,viable
-YKR080W,sul,optimal,zero flux,viable
-YGL067W,sul,optimal,zero flux,viable
-YLR138W,sul,optimal,zero flux,viable
-YEL042W,sul,optimal,zero flux,viable
-YGR010W,sul,optimal,zero flux,viable
-YKL120W,sul,optimal,variable,viable
-YJL088W,sul,optimal,constrained,viable
-YPL266W,sul,optimal,zero flux,inviable
-YML110C,sul,optimal,zero flux,viable
-YDR538W,sul,optimal,zero flux,viable
-YKL184W,sul,optimal,zero flux,viable
-YLR438W,sul,optimal,zero flux,viable
-YOR130C,sul,optimal,constrained,viable
-YIL145C,sul,optimal,zero flux,viable
-YPR167C,sul,optimal,constrained,viable
-YKR093W,sul,optimal,zero flux,viable
-YGR007W,sul,optimal,zero flux,viable
-YGR157W,sul,optimal,constrained,viable
-YCR012W,sul,optimal,variable,inviable
-YPR047W,sul,optimal,zero flux,viable
-YPL268W,sul,optimal,zero flux,viable
-YPR113W,sul,optimal,constrained,inviable
-YJR077C,sul,optimal,variable,viable
-YFL045C,sul,optimal,constrained,inviable
-YMR220W,sul,optimal,constrained,inviable
-YDR531W,sul,optimal,zero flux,inviable
-YCR028C,sul,optimal,zero flux,viable
-YBR011C,sul,optimal,constrained,inviable
-YMR267W,sul,optimal,zero flux,viable
-YGL040C,sul,optimal,zero flux,inviable
-YKR097W,sul,optimal,zero flux,viable
-YBR166C,sul,optimal,variable,viable
-YNL316C,sul,optimal,constrained,viable
-YER014W,sul,optimal,zero flux,viable
-YDR007W,sul,optimal,constrained,viable
-YAR015W,sul,optimal,constrained,viable
-YGR061C,sul,optimal,constrained,viable
-YIL020C,sul,optimal,constrained,viable
-YLR142W,sul,optimal,zero flux,viable
-YNL169C,sul,optimal,variable,viable
-YGR208W,sul,optimal,variable,viable
-YOL143C,sul,optimal,zero flux,viable
-YBR256C,sul,optimal,zero flux,inviable
-YJL121C,sul,optimal,variable,viable
-YOR095C,sul,optimal,variable,inviable
-YNR050C,sul,optimal,constrained,viable
-YIR034C,sul,optimal,constrained,viable
-YJR010W,sul,optimal,zero flux,viable
-YML008C,sul,optimal,zero flux,viable
-YJL068C,sul,optimal,zero flux,viable
-YPR069C,sul,optimal,zero flux,viable
-YLR146C,sul,optimal,zero flux,viable
-YGR175C,sul,optimal,constrained,inviable
-YHR190W,sul,optimal,constrained,inviable
-YIL162W,sul,optimal,zero flux,viable
-YEL046C,sul,optimal,variable,viable
-YER086W,sul,optimal,constrained,viable
-YIL078W,sul,optimal,zero flux,inviable
-YKL194C,sul,optimal,zero flux,viable
-YOR074C,sul,optimal,constrained,inviable
-YDR050C,sul,optimal,variable,inviable
-YDR353W,sul,optimal,constrained,inviable
-YHR106W,sul,optimal,zero flux,viable
-YPR026W,sul,optimal,zero flux,viable
-YJR078W,sul,optimal,zero flux,viable
-YGL026C,sul,optimal,constrained,viable
-YOL097C,sul,optimal,zero flux,inviable
-YDR268W,sul,optimal,zero flux,viable
-YGR185C,sul,optimal,zero flux,inviable
-YPL097W,sul,optimal,zero flux,viable
-YDL103C,sul,optimal,zero flux,inviable
-YBR019C,sul,optimal,zero flux,viable
-YIR032C,sul,optimal,zero flux,viable
-YKR069W,sul,optimal,zero flux,viable
-YOR278W,sul,optimal,zero flux,inviable
-YDR047W,sul,optimal,zero flux,inviable
-YBR021W,sul,optimal,zero flux,viable
-YHL016C,sul,optimal,zero flux,viable
-YBL042C,sul,optimal,zero flux,viable
-YJR133W,sul,optimal,zero flux,viable
-YGR194C,sul,optimal,zero flux,viable
-YLR070C,sul,optimal,zero flux,viable
-YGR282C,sul,suboptimal,zero flux,viable
-YBR265W,sul,suboptimal,constrained,inviable
-YJR025C,sul,suboptimal,zero flux,viable
-YGR019W,sul,suboptimal,zero flux,viable
-YFL017C,sul,suboptimal,zero flux,inviable
-YBL015W,sul,suboptimal,variable,viable
-YPL148C,sul,suboptimal,zero flux,viable
-YLR153C,sul,suboptimal,zero flux,inviable
-YCR032W,sul,suboptimal,zero flux,viable
-YNR033W,sul,suboptimal,zero flux,viable
-YOL052C,sul,suboptimal,zero flux,viable
-YJL005W,sul,suboptimal,zero flux,inviable
-YJR105W,sul,suboptimal,variable,viable
-YKL001C,sul,suboptimal,constrained,viable
-YDL052C,sul,suboptimal,constrained,viable
-YFL030W,sul,suboptimal,zero flux,viable
-YER043C,sul,suboptimal,constrained,inviable
-YOR128C,sul,suboptimal,constrained,viable
-YDR481C,sul,suboptimal,zero flux,viable
-YDR232W,sul,suboptimal,zero flux,inviable
-YDR111C,sul,suboptimal,variable,viable
-YLR089C,sul,suboptimal,zero flux,viable
-YOR335C,sul,suboptimal,zero flux,inviable
-YMR083W,sul,suboptimal,variable,viable
-YIR029W,sul,suboptimal,zero flux,viable
-YIR027C,sul,suboptimal,zero flux,viable
-YIR028W,sul,suboptimal,zero flux,viable
-YJR152W,sul,suboptimal,zero flux,viable
-YNR058W,sul,suboptimal,zero flux,viable
-YPL274W,sul,suboptimal,zero flux,viable
-YDR354W,sul,suboptimal,constrained,viable
-YDR305C,sul,suboptimal,zero flux,viable
-YPL111W,sul,suboptimal,zero flux,viable
-YHR018C,sul,suboptimal,constrained,viable
-YOL058W,sul,suboptimal,constrained,viable
-YDR341C,sul,suboptimal,zero flux,inviable
-YHR091C,sul,suboptimal,zero flux,viable
-YBR034C,sul,suboptimal,zero flux,viable
-YDR158W,sul,suboptimal,variable,viable
-YDR321W,sul,suboptimal,zero flux,viable
-YHR019C,sul,suboptimal,zero flux,inviable
-YCR024C,sul,suboptimal,zero flux,viable
-YER052C,sul,suboptimal,variable,viable
-YLL018C,sul,suboptimal,zero flux,inviable
-YPL104W,sul,suboptimal,zero flux,viable
-YDR530C,sul,suboptimal,zero flux,viable
-YER055C,sul,suboptimal,constrained,viable
-YOL064C,sul,suboptimal,variable,viable
-YGR286C,sul,suboptimal,zero flux,viable
-YNL280C,sul,suboptimal,constrained,viable
-YMR015C,sul,suboptimal,zero flux,viable
-YGL012W,sul,suboptimal,constrained,viable
-YLR056W,sul,suboptimal,zero flux,viable
-YMR202W,sul,suboptimal,zero flux,viable
-YGR088W,sul,suboptimal,variable,viable
-YDR256C,sul,suboptimal,zero flux,viable
-YCL004W,sul,suboptimal,zero flux,inviable
-YGR202C,sul,suboptimal,zero flux,viable
-YGL077C,sul,suboptimal,zero flux,viable
-YLR133W,sul,suboptimal,zero flux,viable
-YPR060C,sul,suboptimal,constrained,viable
-YGL148W,sul,suboptimal,constrained,viable
-YDL142C,sul,suboptimal,zero flux,viable
-YDR044W,sul,suboptimal,zero flux,inviable
-YOR100C,sul,suboptimal,zero flux,viable
-YBR132C,sul,suboptimal,constrained,viable
-YAR035W,sul,suboptimal,variable,viable
-YPR062W,sul,suboptimal,zero flux,viable
-YCR005C,sul,suboptimal,zero flux,viable
-YGR012W,sul,suboptimal,variable,viable
-YFR055W,sul,suboptimal,zero flux,viable
-YNL247W,sul,suboptimal,zero flux,inviable
-YGR155W,sul,suboptimal,zero flux,viable
-YNR057C,sul,suboptimal,zero flux,viable
-YLR420W,sul,suboptimal,zero flux,viable
-YLR172C,sul,suboptimal,zero flux,viable
-YOL096C,sul,suboptimal,zero flux,viable
-YDL100C,sul,suboptimal,zero flux,viable
-YMR013C,sul,suboptimal,zero flux,inviable
-YPR183W,sul,suboptimal,constrained,inviable
-YNR043W,sul,suboptimal,constrained,inviable
-YJR057W,sul,suboptimal,variable,inviable
-YBR252W,sul,suboptimal,zero flux,inviable
-YHR068W,sul,suboptimal,zero flux,inviable
-YDL174C,sul,suboptimal,zero flux,viable
-YDR147W,sul,suboptimal,zero flux,viable
-YIL134W,sul,suboptimal,constrained,viable
-YLR372W,sul,suboptimal,zero flux,viable
-YLR377C,sul,suboptimal,zero flux,viable
-YJL155C,sul,suboptimal,zero flux,viable
-YOR176W,sul,suboptimal,zero flux,inviable
-YBL013W,sul,suboptimal,zero flux,viable
-YDL045C,sul,suboptimal,constrained,inviable
-YEL047C,sul,suboptimal,variable,viable
-YJR051W,sul,suboptimal,zero flux,viable
-YER183C,sul,suboptimal,zero flux,viable
-YDL022W,sul,suboptimal,variable,viable
-YOL059W,sul,suboptimal,zero flux,viable
-YIL155C,sul,suboptimal,variable,viable
-YNL241C,sul,suboptimal,zero flux,viable
-YBR020W,sul,suboptimal,zero flux,viable
-YDR408C,sul,suboptimal,constrained,viable
-YEL011W,sul,suboptimal,variable,viable
-YLR058C,sul,suboptimal,variable,viable
-YBR263W,sul,suboptimal,variable,viable
-YPR160W,sul,suboptimal,zero flux,viable
-YPR035W,sul,suboptimal,constrained,inviable
-YOR168W,sul,suboptimal,zero flux,inviable
-YLR195C,sul,suboptimal,zero flux,inviable
-YDR300C,sul,suboptimal,zero flux,viable
-YJL101C,sul,suboptimal,zero flux,viable
-YMR250W,sul,suboptimal,zero flux,viable
-YDL215C,sul,suboptimal,zero flux,viable
-YMR300C,sul,suboptimal,constrained,viable
-YDL171C,sul,suboptimal,zero flux,viable
-YGL245W,sul,suboptimal,zero flux,inviable
-YOL033W,sul,suboptimal,zero flux,viable
-YLL043W,sul,suboptimal,variable,viable
-YHL032C,sul,suboptimal,zero flux,viable
-YDR272W,sul,suboptimal,zero flux,viable
-YOR040W,sul,suboptimal,zero flux,viable
-YMR217W,sul,suboptimal,constrained,viable
-YPL091W,sul,suboptimal,variable,viable
-YOL049W,sul,suboptimal,zero flux,viable
-YLR299W,sul,suboptimal,zero flux,viable
-YBL033C,sul,suboptimal,zero flux,viable
-YGR267C,sul,suboptimal,zero flux,inviable
-YDR234W,sul,suboptimal,constrained,viable
-YFR025C,sul,suboptimal,constrained,viable
-YDL205C,sul,suboptimal,zero flux,inviable
-YNL277W,sul,suboptimal,variable,viable
-YHR025W,sul,suboptimal,zero flux,viable
-YIL116W,sul,suboptimal,constrained,viable
-YLR174W,sul,suboptimal,zero flux,viable
-YDL066W,sul,suboptimal,variable,viable
-YNL009W,sul,suboptimal,zero flux,viable
-YER065C,sul,suboptimal,zero flux,viable
-YBR248C,sul,suboptimal,constrained,viable
-YOR202W,sul,suboptimal,constrained,viable
-YBL076C,sul,suboptimal,zero flux,inviable
-YPL040C,sul,suboptimal,zero flux,viable
-YDR380W,sul,suboptimal,zero flux,viable
-YPL117C,sul,suboptimal,constrained,inviable
-YBL098W,sul,suboptimal,zero flux,viable
-YPL160W,sul,suboptimal,zero flux,inviable
-YLR382C,sul,suboptimal,zero flux,viable
-YML004C,sul,suboptimal,zero flux,viable
-YHR007C,sul,suboptimal,constrained,inviable
-YHR072W,sul,suboptimal,constrained,inviable
-YDR037W,sul,suboptimal,zero flux,inviable
-YNL073W,sul,suboptimal,zero flux,viable
-YML054C,sul,suboptimal,zero flux,viable
-YDL055C,sul,suboptimal,constrained,inviable
-YER003C,sul,suboptimal,constrained,inviable
-YPR006C,sul,suboptimal,zero flux,viable
-YOL126C,sul,suboptimal,variable,viable
-YDL078C,sul,suboptimal,zero flux,viable
-YJR130C,sul,suboptimal,zero flux,viable
-YGR264C,sul,suboptimal,zero flux,inviable
-YGR171C,sul,suboptimal,zero flux,viable
-YHR046C,sul,suboptimal,constrained,viable
-YJL153C,sul,suboptimal,constrained,viable
-YLL061W,sul,suboptimal,zero flux,viable
-YBR176W,sul,suboptimal,zero flux,viable
-YKR080W,sul,suboptimal,zero flux,viable
-YGL067W,sul,suboptimal,zero flux,viable
-YLR138W,sul,suboptimal,zero flux,viable
-YEL042W,sul,suboptimal,zero flux,viable
-YGR010W,sul,suboptimal,zero flux,viable
-YKL120W,sul,suboptimal,variable,viable
-YJL088W,sul,suboptimal,constrained,viable
-YPL266W,sul,suboptimal,zero flux,inviable
-YML110C,sul,suboptimal,zero flux,viable
-YDR538W,sul,suboptimal,zero flux,viable
-YKL184W,sul,suboptimal,zero flux,viable
-YLR438W,sul,suboptimal,variable,viable
-YOR130C,sul,suboptimal,variable,viable
-YIL145C,sul,suboptimal,zero flux,viable
-YPR167C,sul,suboptimal,constrained,viable
-YKR093W,sul,suboptimal,zero flux,viable
-YGR007W,sul,suboptimal,zero flux,viable
-YGR157W,sul,suboptimal,constrained,viable
-YPR047W,sul,suboptimal,zero flux,viable
-YPL268W,sul,suboptimal,zero flux,viable
-YPR113W,sul,suboptimal,constrained,inviable
-YJR077C,sul,suboptimal,variable,viable
-YER053C,sul,suboptimal,variable,viable
-YFL045C,sul,suboptimal,constrained,inviable
-YMR220W,sul,suboptimal,constrained,inviable
-YDR531W,sul,suboptimal,zero flux,inviable
-YCR028C,sul,suboptimal,zero flux,viable
-YBR011C,sul,suboptimal,constrained,inviable
-YMR267W,sul,suboptimal,zero flux,viable
-YGL040C,sul,suboptimal,zero flux,inviable
-YKR097W,sul,suboptimal,zero flux,viable
-YBR166C,sul,suboptimal,variable,viable
-YNL316C,sul,suboptimal,constrained,viable
-YER014W,sul,suboptimal,zero flux,viable
-YDR007W,sul,suboptimal,constrained,viable
-YAR015W,sul,suboptimal,constrained,viable
-YGR061C,sul,suboptimal,constrained,viable
-YIL020C,sul,suboptimal,constrained,viable
-YLR142W,sul,suboptimal,zero flux,viable
-YNL169C,sul,suboptimal,variable,viable
-YGR208W,sul,suboptimal,variable,viable
-YOL143C,sul,suboptimal,zero flux,viable
-YBR256C,sul,suboptimal,zero flux,inviable
-YJL121C,sul,suboptimal,variable,viable
-YOR095C,sul,suboptimal,constrained,inviable
-YNR050C,sul,suboptimal,constrained,viable
-YIR034C,sul,suboptimal,constrained,viable
-YJR010W,sul,suboptimal,zero flux,viable
-YML008C,sul,suboptimal,zero flux,viable
-YJL068C,sul,suboptimal,zero flux,viable
-YPR069C,sul,suboptimal,zero flux,viable
-YLR146C,sul,suboptimal,zero flux,viable
-YGR175C,sul,suboptimal,constrained,inviable
-YHR190W,sul,suboptimal,constrained,inviable
-YIL162W,sul,suboptimal,zero flux,viable
-YEL046C,sul,suboptimal,variable,viable
-YER086W,sul,suboptimal,constrained,viable
-YIL078W,sul,suboptimal,zero flux,inviable
-YKL194C,sul,suboptimal,zero flux,viable
-YOR074C,sul,suboptimal,constrained,inviable
-YDR050C,sul,suboptimal,variable,inviable
-YDR353W,sul,suboptimal,constrained,inviable
-YHR106W,sul,suboptimal,zero flux,viable
-YPR026W,sul,suboptimal,zero flux,viable
-YJR078W,sul,suboptimal,zero flux,viable
-YGL026C,sul,suboptimal,constrained,viable
-YOL097C,sul,suboptimal,zero flux,inviable
-YDR268W,sul,suboptimal,zero flux,viable
-YGR185C,sul,suboptimal,zero flux,inviable
-YPL097W,sul,suboptimal,zero flux,viable
-YDL103C,sul,suboptimal,zero flux,inviable
-YBR019C,sul,suboptimal,zero flux,viable
-YIR032C,sul,suboptimal,zero flux,viable
-YKR069W,sul,suboptimal,zero flux,viable
-YOR278W,sul,suboptimal,zero flux,inviable
-YDR047W,sul,suboptimal,zero flux,inviable
-YBR021W,sul,suboptimal,zero flux,viable
-YHL016C,sul,suboptimal,zero flux,viable
-YBL042C,sul,suboptimal,zero flux,viable
-YJR133W,sul,suboptimal,zero flux,viable
-YGR194C,sul,suboptimal,zero flux,viable
-YLR070C,sul,suboptimal,zero flux,viable
+YGR282C,amm,optimal,zero flux,dispensible
+YBR265W,amm,optimal,zero flux,essential
+YJR025C,amm,optimal,zero flux,dispensible
+YGR019W,amm,optimal,zero flux,dispensible
+YFL017C,amm,optimal,zero flux,essential
+YBL015W,amm,optimal,variable,dispensible
+YPL148C,amm,optimal,zero flux,dispensible
+YLR153C,amm,optimal,zero flux,essential
+YCR032W,amm,optimal,zero flux,dispensible
+YNR033W,amm,optimal,zero flux,dispensible
+YOL052C,amm,optimal,zero flux,dispensible
+YJL005W,amm,optimal,zero flux,essential
+YJR105W,amm,optimal,zero flux,dispensible
+YKL001C,amm,optimal,constrained,dispensible
+YDL052C,amm,optimal,constrained,dispensible
+YFL030W,amm,optimal,zero flux,dispensible
+YER043C,amm,optimal,constrained,essential
+YOR128C,amm,optimal,constrained,dispensible
+YDR481C,amm,optimal,zero flux,dispensible
+YDR232W,amm,optimal,zero flux,essential
+YDR111C,amm,optimal,variable,dispensible
+YLR089C,amm,optimal,zero flux,dispensible
+YOR335C,amm,optimal,zero flux,essential
+YMR083W,amm,optimal,variable,dispensible
+YIR029W,amm,optimal,zero flux,dispensible
+YIR027C,amm,optimal,zero flux,dispensible
+YIR028W,amm,optimal,zero flux,dispensible
+YJR152W,amm,optimal,zero flux,dispensible
+YNR058W,amm,optimal,zero flux,dispensible
+YPL274W,amm,optimal,zero flux,dispensible
+YDR354W,amm,optimal,constrained,dispensible
+YDR305C,amm,optimal,zero flux,dispensible
+YPL111W,amm,optimal,zero flux,dispensible
+YHR018C,amm,optimal,constrained,dispensible
+YOL058W,amm,optimal,constrained,dispensible
+YDR341C,amm,optimal,zero flux,essential
+YHR091C,amm,optimal,zero flux,dispensible
+YBR034C,amm,optimal,zero flux,dispensible
+YDR158W,amm,optimal,variable,dispensible
+YDR321W,amm,optimal,zero flux,dispensible
+YHR019C,amm,optimal,zero flux,essential
+YCR024C,amm,optimal,zero flux,dispensible
+YER052C,amm,optimal,variable,dispensible
+YLL018C,amm,optimal,zero flux,essential
+YPL104W,amm,optimal,zero flux,dispensible
+YDR530C,amm,optimal,zero flux,dispensible
+YER055C,amm,optimal,constrained,dispensible
+YOL064C,amm,optimal,variable,dispensible
+YGR286C,amm,optimal,zero flux,dispensible
+YNL280C,amm,optimal,constrained,dispensible
+YMR015C,amm,optimal,zero flux,dispensible
+YGL012W,amm,optimal,constrained,dispensible
+YLR056W,amm,optimal,zero flux,dispensible
+YMR202W,amm,optimal,zero flux,dispensible
+YGR088W,amm,optimal,variable,dispensible
+YDR256C,amm,optimal,zero flux,dispensible
+YCL004W,amm,optimal,zero flux,essential
+YGR202C,amm,optimal,zero flux,dispensible
+YGL077C,amm,optimal,zero flux,dispensible
+YLR133W,amm,optimal,zero flux,dispensible
+YPR060C,amm,optimal,constrained,dispensible
+YGL148W,amm,optimal,constrained,dispensible
+YDL142C,amm,optimal,zero flux,dispensible
+YDR044W,amm,optimal,zero flux,essential
+YOR100C,amm,optimal,zero flux,dispensible
+YBR132C,amm,optimal,zero flux,dispensible
+YAR035W,amm,optimal,zero flux,dispensible
+YPR062W,amm,optimal,zero flux,dispensible
+YCR005C,amm,optimal,zero flux,dispensible
+YGR012W,amm,optimal,constrained,dispensible
+YFR055W,amm,optimal,zero flux,dispensible
+YNL247W,amm,optimal,zero flux,essential
+YGR155W,amm,optimal,zero flux,dispensible
+YNR057C,amm,optimal,zero flux,dispensible
+YLR420W,amm,optimal,zero flux,dispensible
+YLR172C,amm,optimal,zero flux,dispensible
+YOL096C,amm,optimal,zero flux,dispensible
+YDL100C,amm,optimal,zero flux,dispensible
+YMR013C,amm,optimal,zero flux,essential
+YPR183W,amm,optimal,constrained,essential
+YNR043W,amm,optimal,constrained,essential
+YJR057W,amm,optimal,zero flux,essential
+YBR252W,amm,optimal,zero flux,essential
+YHR068W,amm,optimal,zero flux,essential
+YDL174C,amm,optimal,zero flux,dispensible
+YDR147W,amm,optimal,zero flux,dispensible
+YIL134W,amm,optimal,constrained,dispensible
+YLR372W,amm,optimal,zero flux,dispensible
+YLR377C,amm,optimal,variable,dispensible
+YJL155C,amm,optimal,zero flux,dispensible
+YOR176W,amm,optimal,zero flux,essential
+YBL013W,amm,optimal,zero flux,dispensible
+YDL045C,amm,optimal,constrained,essential
+YEL047C,amm,optimal,zero flux,dispensible
+YJR051W,amm,optimal,zero flux,dispensible
+YER183C,amm,optimal,zero flux,dispensible
+YDL022W,amm,optimal,variable,dispensible
+YOL059W,amm,optimal,zero flux,dispensible
+YIL155C,amm,optimal,variable,dispensible
+YNL241C,amm,optimal,variable,dispensible
+YBR020W,amm,optimal,zero flux,dispensible
+YDR408C,amm,optimal,constrained,dispensible
+YEL011W,amm,optimal,zero flux,dispensible
+YLR058C,amm,optimal,variable,dispensible
+YPR160W,amm,optimal,zero flux,dispensible
+YPR035W,amm,optimal,constrained,essential
+YOR168W,amm,optimal,zero flux,essential
+YLR195C,amm,optimal,zero flux,essential
+YDR300C,amm,optimal,variable,dispensible
+YJL101C,amm,optimal,zero flux,dispensible
+YMR250W,amm,optimal,zero flux,dispensible
+YDL215C,amm,optimal,variable,dispensible
+YMR300C,amm,optimal,constrained,dispensible
+YDL171C,amm,optimal,zero flux,dispensible
+YGL245W,amm,optimal,zero flux,essential
+YOL033W,amm,optimal,zero flux,dispensible
+YLL043W,amm,optimal,zero flux,dispensible
+YHL032C,amm,optimal,zero flux,dispensible
+YDR272W,amm,optimal,zero flux,dispensible
+YOR040W,amm,optimal,zero flux,dispensible
+YMR217W,amm,optimal,constrained,dispensible
+YPL091W,amm,optimal,zero flux,dispensible
+YOL049W,amm,optimal,zero flux,dispensible
+YLR299W,amm,optimal,zero flux,dispensible
+YBL033C,amm,optimal,zero flux,dispensible
+YGR267C,amm,optimal,zero flux,essential
+YDR234W,amm,optimal,constrained,dispensible
+YFR025C,amm,optimal,constrained,dispensible
+YDL205C,amm,optimal,zero flux,essential
+YNL277W,amm,optimal,variable,dispensible
+YHR025W,amm,optimal,zero flux,dispensible
+YIL116W,amm,optimal,constrained,dispensible
+YLR174W,amm,optimal,variable,dispensible
+YDL066W,amm,optimal,variable,dispensible
+YNL009W,amm,optimal,zero flux,dispensible
+YER065C,amm,optimal,zero flux,dispensible
+YBR248C,amm,optimal,constrained,dispensible
+YOR202W,amm,optimal,constrained,dispensible
+YBL076C,amm,optimal,zero flux,essential
+YPL040C,amm,optimal,zero flux,dispensible
+YDR380W,amm,optimal,zero flux,dispensible
+YPL117C,amm,optimal,constrained,essential
+YBL098W,amm,optimal,zero flux,dispensible
+YPL160W,amm,optimal,zero flux,essential
+YLR382C,amm,optimal,zero flux,dispensible
+YML004C,amm,optimal,zero flux,dispensible
+YHR007C,amm,optimal,constrained,essential
+YHR072W,amm,optimal,constrained,essential
+YDR037W,amm,optimal,zero flux,essential
+YNL073W,amm,optimal,zero flux,dispensible
+YML054C,amm,optimal,zero flux,dispensible
+YDL055C,amm,optimal,constrained,essential
+YER003C,amm,optimal,constrained,essential
+YPR006C,amm,optimal,zero flux,dispensible
+YOL126C,amm,optimal,variable,dispensible
+YKL085W,amm,optimal,variable,dispensible
+YDL078C,amm,optimal,zero flux,dispensible
+YJR130C,amm,optimal,zero flux,dispensible
+YGR264C,amm,optimal,zero flux,essential
+YGR171C,amm,optimal,zero flux,dispensible
+YHR046C,amm,optimal,constrained,dispensible
+YJL153C,amm,optimal,constrained,dispensible
+YLL061W,amm,optimal,zero flux,dispensible
+YBR176W,amm,optimal,zero flux,dispensible
+YKR080W,amm,optimal,zero flux,dispensible
+YGL067W,amm,optimal,zero flux,dispensible
+YLR138W,amm,optimal,zero flux,dispensible
+YEL042W,amm,optimal,zero flux,dispensible
+YGR010W,amm,optimal,zero flux,dispensible
+YKL120W,amm,optimal,variable,dispensible
+YJL088W,amm,optimal,constrained,dispensible
+YPL266W,amm,optimal,zero flux,essential
+YML110C,amm,optimal,zero flux,dispensible
+YDR538W,amm,optimal,zero flux,dispensible
+YKL184W,amm,optimal,zero flux,dispensible
+YLR438W,amm,optimal,zero flux,dispensible
+YOR130C,amm,optimal,constrained,dispensible
+YIL145C,amm,optimal,zero flux,dispensible
+YPR167C,amm,optimal,constrained,dispensible
+YKR093W,amm,optimal,zero flux,dispensible
+YGR007W,amm,optimal,zero flux,dispensible
+YGR157W,amm,optimal,constrained,dispensible
+YCR012W,amm,optimal,variable,essential
+YPR047W,amm,optimal,zero flux,dispensible
+YPL268W,amm,optimal,zero flux,dispensible
+YPR113W,amm,optimal,constrained,essential
+YJR077C,amm,optimal,variable,dispensible
+YFL045C,amm,optimal,constrained,essential
+YMR220W,amm,optimal,constrained,essential
+YDR531W,amm,optimal,zero flux,essential
+YCR028C,amm,optimal,zero flux,dispensible
+YBR011C,amm,optimal,constrained,essential
+YMR267W,amm,optimal,zero flux,dispensible
+YGL040C,amm,optimal,zero flux,essential
+YKR097W,amm,optimal,zero flux,dispensible
+YBR166C,amm,optimal,variable,dispensible
+YNL316C,amm,optimal,constrained,dispensible
+YER014W,amm,optimal,zero flux,dispensible
+YDR007W,amm,optimal,constrained,dispensible
+YAR015W,amm,optimal,constrained,dispensible
+YGR061C,amm,optimal,constrained,dispensible
+YIL020C,amm,optimal,constrained,dispensible
+YLR142W,amm,optimal,zero flux,dispensible
+YNL169C,amm,optimal,variable,dispensible
+YGR208W,amm,optimal,variable,dispensible
+YOL143C,amm,optimal,zero flux,dispensible
+YBR256C,amm,optimal,zero flux,essential
+YJL121C,amm,optimal,variable,dispensible
+YOR095C,amm,optimal,variable,essential
+YNR050C,amm,optimal,constrained,dispensible
+YIR034C,amm,optimal,constrained,dispensible
+YJR010W,amm,optimal,zero flux,dispensible
+YML008C,amm,optimal,zero flux,dispensible
+YJL068C,amm,optimal,zero flux,dispensible
+YPR069C,amm,optimal,zero flux,dispensible
+YLR146C,amm,optimal,zero flux,dispensible
+YGR175C,amm,optimal,constrained,essential
+YHR190W,amm,optimal,constrained,essential
+YIL162W,amm,optimal,zero flux,dispensible
+YEL046C,amm,optimal,variable,dispensible
+YER086W,amm,optimal,constrained,dispensible
+YIL078W,amm,optimal,zero flux,essential
+YKL194C,amm,optimal,zero flux,dispensible
+YOR074C,amm,optimal,constrained,essential
+YDR050C,amm,optimal,variable,essential
+YDR353W,amm,optimal,constrained,essential
+YHR106W,amm,optimal,zero flux,dispensible
+YPR026W,amm,optimal,zero flux,dispensible
+YJR078W,amm,optimal,zero flux,dispensible
+YGL026C,amm,optimal,constrained,dispensible
+YOL097C,amm,optimal,zero flux,essential
+YDR268W,amm,optimal,zero flux,dispensible
+YGR185C,amm,optimal,zero flux,essential
+YPL097W,amm,optimal,zero flux,dispensible
+YDL103C,amm,optimal,zero flux,essential
+YBR019C,amm,optimal,zero flux,dispensible
+YIR032C,amm,optimal,zero flux,dispensible
+YKR069W,amm,optimal,zero flux,dispensible
+YOR278W,amm,optimal,zero flux,essential
+YDR047W,amm,optimal,zero flux,essential
+YBR021W,amm,optimal,zero flux,dispensible
+YHL016C,amm,optimal,zero flux,dispensible
+YBL042C,amm,optimal,zero flux,dispensible
+YJR133W,amm,optimal,zero flux,dispensible
+YGR194C,amm,optimal,zero flux,dispensible
+YLR070C,amm,optimal,zero flux,dispensible
+YGR282C,amm,suboptimal,zero flux,dispensible
+YBR265W,amm,suboptimal,zero flux,essential
+YJR025C,amm,suboptimal,zero flux,dispensible
+YGR019W,amm,suboptimal,zero flux,dispensible
+YFL017C,amm,suboptimal,zero flux,essential
+YBL015W,amm,suboptimal,variable,dispensible
+YPL148C,amm,suboptimal,constrained,dispensible
+YLR153C,amm,suboptimal,zero flux,essential
+YCR032W,amm,suboptimal,zero flux,dispensible
+YNR033W,amm,suboptimal,zero flux,dispensible
+YOL052C,amm,suboptimal,zero flux,dispensible
+YJL005W,amm,suboptimal,zero flux,essential
+YJR105W,amm,suboptimal,variable,dispensible
+YKL001C,amm,suboptimal,constrained,dispensible
+YDL052C,amm,suboptimal,constrained,dispensible
+YFL030W,amm,suboptimal,zero flux,dispensible
+YER043C,amm,suboptimal,constrained,essential
+YOR128C,amm,suboptimal,constrained,dispensible
+YDR481C,amm,suboptimal,zero flux,dispensible
+YDR232W,amm,suboptimal,zero flux,essential
+YDR111C,amm,suboptimal,variable,dispensible
+YLR089C,amm,suboptimal,zero flux,dispensible
+YOR335C,amm,suboptimal,zero flux,essential
+YMR083W,amm,suboptimal,variable,dispensible
+YIR029W,amm,suboptimal,zero flux,dispensible
+YIR027C,amm,suboptimal,zero flux,dispensible
+YIR028W,amm,suboptimal,zero flux,dispensible
+YJR152W,amm,suboptimal,zero flux,dispensible
+YNR058W,amm,suboptimal,zero flux,dispensible
+YPL274W,amm,suboptimal,zero flux,dispensible
+YDR354W,amm,suboptimal,constrained,dispensible
+YDR305C,amm,suboptimal,zero flux,dispensible
+YPL111W,amm,suboptimal,constrained,dispensible
+YHR018C,amm,suboptimal,constrained,dispensible
+YOL058W,amm,suboptimal,constrained,dispensible
+YDR341C,amm,suboptimal,zero flux,essential
+YHR091C,amm,suboptimal,zero flux,dispensible
+YBR034C,amm,suboptimal,zero flux,dispensible
+YDR158W,amm,suboptimal,variable,dispensible
+YDR321W,amm,suboptimal,zero flux,dispensible
+YHR019C,amm,suboptimal,zero flux,essential
+YCR024C,amm,suboptimal,zero flux,dispensible
+YER052C,amm,suboptimal,variable,dispensible
+YLL018C,amm,suboptimal,zero flux,essential
+YPL104W,amm,suboptimal,zero flux,dispensible
+YDR530C,amm,suboptimal,zero flux,dispensible
+YER055C,amm,suboptimal,constrained,dispensible
+YOL064C,amm,suboptimal,variable,dispensible
+YGR286C,amm,suboptimal,zero flux,dispensible
+YNL280C,amm,suboptimal,constrained,dispensible
+YMR015C,amm,suboptimal,variable,dispensible
+YGL012W,amm,suboptimal,constrained,dispensible
+YLR056W,amm,suboptimal,variable,dispensible
+YMR202W,amm,suboptimal,variable,dispensible
+YGR088W,amm,suboptimal,zero flux,dispensible
+YDR256C,amm,suboptimal,zero flux,dispensible
+YCL004W,amm,suboptimal,zero flux,essential
+YGR202C,amm,suboptimal,zero flux,dispensible
+YGL077C,amm,suboptimal,zero flux,dispensible
+YLR133W,amm,suboptimal,zero flux,dispensible
+YPR060C,amm,suboptimal,constrained,dispensible
+YGL148W,amm,suboptimal,constrained,dispensible
+YDL142C,amm,suboptimal,zero flux,dispensible
+YDR044W,amm,suboptimal,zero flux,essential
+YOR100C,amm,suboptimal,zero flux,dispensible
+YBR132C,amm,suboptimal,zero flux,dispensible
+YAR035W,amm,suboptimal,variable,dispensible
+YPR062W,amm,suboptimal,zero flux,dispensible
+YCR005C,amm,suboptimal,zero flux,dispensible
+YGR012W,amm,suboptimal,constrained,dispensible
+YFR055W,amm,suboptimal,zero flux,dispensible
+YNL247W,amm,suboptimal,zero flux,essential
+YGR155W,amm,suboptimal,zero flux,dispensible
+YNR057C,amm,suboptimal,zero flux,dispensible
+YLR420W,amm,suboptimal,zero flux,dispensible
+YLR172C,amm,suboptimal,zero flux,dispensible
+YOL096C,amm,suboptimal,zero flux,dispensible
+YDL100C,amm,suboptimal,zero flux,dispensible
+YMR013C,amm,suboptimal,zero flux,essential
+YPR183W,amm,suboptimal,constrained,essential
+YNR043W,amm,suboptimal,constrained,essential
+YJR057W,amm,suboptimal,zero flux,essential
+YBR252W,amm,suboptimal,zero flux,essential
+YHR068W,amm,suboptimal,zero flux,essential
+YDL174C,amm,suboptimal,zero flux,dispensible
+YDR147W,amm,suboptimal,zero flux,dispensible
+YIL134W,amm,suboptimal,zero flux,dispensible
+YLR372W,amm,suboptimal,zero flux,dispensible
+YLR377C,amm,suboptimal,zero flux,dispensible
+YJL155C,amm,suboptimal,zero flux,dispensible
+YOR176W,amm,suboptimal,zero flux,essential
+YBL013W,amm,suboptimal,zero flux,dispensible
+YDL045C,amm,suboptimal,zero flux,essential
+YEL047C,amm,suboptimal,zero flux,dispensible
+YJR051W,amm,suboptimal,zero flux,dispensible
+YER183C,amm,suboptimal,zero flux,dispensible
+YDL022W,amm,suboptimal,variable,dispensible
+YOL059W,amm,suboptimal,zero flux,dispensible
+YIL155C,amm,suboptimal,zero flux,dispensible
+YNL241C,amm,suboptimal,zero flux,dispensible
+YBR020W,amm,suboptimal,zero flux,dispensible
+YDR408C,amm,suboptimal,constrained,dispensible
+YEL011W,amm,suboptimal,variable,dispensible
+YLR058C,amm,suboptimal,variable,dispensible
+YBR263W,amm,suboptimal,variable,dispensible
+YPR160W,amm,suboptimal,zero flux,dispensible
+YPR035W,amm,suboptimal,variable,essential
+YOR168W,amm,suboptimal,zero flux,essential
+YLR195C,amm,suboptimal,zero flux,essential
+YDR300C,amm,suboptimal,zero flux,dispensible
+YJL101C,amm,suboptimal,zero flux,dispensible
+YMR250W,amm,suboptimal,zero flux,dispensible
+YDL215C,amm,suboptimal,zero flux,dispensible
+YMR300C,amm,suboptimal,constrained,dispensible
+YDL171C,amm,suboptimal,variable,dispensible
+YGL245W,amm,suboptimal,zero flux,essential
+YOL033W,amm,suboptimal,zero flux,dispensible
+YLL043W,amm,suboptimal,zero flux,dispensible
+YHL032C,amm,suboptimal,zero flux,dispensible
+YDR272W,amm,suboptimal,zero flux,dispensible
+YOR040W,amm,suboptimal,zero flux,dispensible
+YMR217W,amm,suboptimal,constrained,dispensible
+YPL091W,amm,suboptimal,zero flux,dispensible
+YOL049W,amm,suboptimal,zero flux,dispensible
+YLR299W,amm,suboptimal,zero flux,dispensible
+YBL033C,amm,suboptimal,zero flux,dispensible
+YGR267C,amm,suboptimal,zero flux,essential
+YDR234W,amm,suboptimal,constrained,dispensible
+YFR025C,amm,suboptimal,constrained,dispensible
+YDL205C,amm,suboptimal,zero flux,essential
+YNL277W,amm,suboptimal,variable,dispensible
+YHR025W,amm,suboptimal,zero flux,dispensible
+YIL116W,amm,suboptimal,constrained,dispensible
+YLR174W,amm,suboptimal,zero flux,dispensible
+YDL066W,amm,suboptimal,zero flux,dispensible
+YNL009W,amm,suboptimal,zero flux,dispensible
+YER065C,amm,suboptimal,zero flux,dispensible
+YBR248C,amm,suboptimal,constrained,dispensible
+YOR202W,amm,suboptimal,constrained,dispensible
+YBL076C,amm,suboptimal,zero flux,essential
+YPL040C,amm,suboptimal,zero flux,dispensible
+YDR380W,amm,suboptimal,zero flux,dispensible
+YPL117C,amm,suboptimal,constrained,essential
+YBL098W,amm,suboptimal,zero flux,dispensible
+YPL160W,amm,suboptimal,zero flux,essential
+YLR382C,amm,suboptimal,zero flux,dispensible
+YML004C,amm,suboptimal,zero flux,dispensible
+YHR007C,amm,suboptimal,constrained,essential
+YHR072W,amm,suboptimal,constrained,essential
+YDR037W,amm,suboptimal,zero flux,essential
+YNL073W,amm,suboptimal,zero flux,dispensible
+YML054C,amm,suboptimal,zero flux,dispensible
+YDL055C,amm,suboptimal,constrained,essential
+YER003C,amm,suboptimal,constrained,essential
+YPR006C,amm,suboptimal,zero flux,dispensible
+YOL126C,amm,suboptimal,variable,dispensible
+YDL078C,amm,suboptimal,zero flux,dispensible
+YJR130C,amm,suboptimal,zero flux,dispensible
+YGR264C,amm,suboptimal,zero flux,essential
+YGR171C,amm,suboptimal,zero flux,dispensible
+YHR046C,amm,suboptimal,constrained,dispensible
+YJL153C,amm,suboptimal,constrained,dispensible
+YLL061W,amm,suboptimal,zero flux,dispensible
+YBR176W,amm,suboptimal,zero flux,dispensible
+YKR080W,amm,suboptimal,zero flux,dispensible
+YGL067W,amm,suboptimal,zero flux,dispensible
+YLR138W,amm,suboptimal,zero flux,dispensible
+YEL042W,amm,suboptimal,zero flux,dispensible
+YGR010W,amm,suboptimal,zero flux,dispensible
+YKL120W,amm,suboptimal,variable,dispensible
+YJL088W,amm,suboptimal,constrained,dispensible
+YPL266W,amm,suboptimal,zero flux,essential
+YML110C,amm,suboptimal,zero flux,dispensible
+YDR538W,amm,suboptimal,zero flux,dispensible
+YKL184W,amm,suboptimal,zero flux,dispensible
+YLR438W,amm,suboptimal,variable,dispensible
+YOR130C,amm,suboptimal,variable,dispensible
+YIL145C,amm,suboptimal,zero flux,dispensible
+YPR167C,amm,suboptimal,constrained,dispensible
+YKR093W,amm,suboptimal,zero flux,dispensible
+YGR007W,amm,suboptimal,zero flux,dispensible
+YGR157W,amm,suboptimal,constrained,dispensible
+YPR047W,amm,suboptimal,zero flux,dispensible
+YPL268W,amm,suboptimal,zero flux,dispensible
+YPR113W,amm,suboptimal,constrained,essential
+YJR077C,amm,suboptimal,variable,dispensible
+YER053C,amm,suboptimal,variable,dispensible
+YFL045C,amm,suboptimal,constrained,essential
+YMR220W,amm,suboptimal,constrained,essential
+YDR531W,amm,suboptimal,constrained,essential
+YCR028C,amm,suboptimal,constrained,dispensible
+YBR011C,amm,suboptimal,constrained,essential
+YMR267W,amm,suboptimal,zero flux,dispensible
+YGL040C,amm,suboptimal,zero flux,essential
+YKR097W,amm,suboptimal,zero flux,dispensible
+YBR166C,amm,suboptimal,variable,dispensible
+YNL316C,amm,suboptimal,constrained,dispensible
+YER014W,amm,suboptimal,zero flux,dispensible
+YDR007W,amm,suboptimal,constrained,dispensible
+YAR015W,amm,suboptimal,constrained,dispensible
+YGR061C,amm,suboptimal,constrained,dispensible
+YIL020C,amm,suboptimal,constrained,dispensible
+YLR142W,amm,suboptimal,variable,dispensible
+YNL169C,amm,suboptimal,variable,dispensible
+YGR208W,amm,suboptimal,variable,dispensible
+YOL143C,amm,suboptimal,zero flux,dispensible
+YBR256C,amm,suboptimal,zero flux,essential
+YJL121C,amm,suboptimal,variable,dispensible
+YOR095C,amm,suboptimal,constrained,essential
+YNR050C,amm,suboptimal,constrained,dispensible
+YIR034C,amm,suboptimal,constrained,dispensible
+YJR010W,amm,suboptimal,zero flux,dispensible
+YML008C,amm,suboptimal,variable,dispensible
+YJL068C,amm,suboptimal,zero flux,dispensible
+YPR069C,amm,suboptimal,zero flux,dispensible
+YLR146C,amm,suboptimal,zero flux,dispensible
+YGR175C,amm,suboptimal,constrained,essential
+YHR190W,amm,suboptimal,constrained,essential
+YIL162W,amm,suboptimal,zero flux,dispensible
+YEL046C,amm,suboptimal,variable,dispensible
+YER086W,amm,suboptimal,constrained,dispensible
+YIL078W,amm,suboptimal,zero flux,essential
+YKL194C,amm,suboptimal,zero flux,dispensible
+YOR074C,amm,suboptimal,constrained,essential
+YDR050C,amm,suboptimal,variable,essential
+YDR353W,amm,suboptimal,constrained,essential
+YHR106W,amm,suboptimal,zero flux,dispensible
+YPR026W,amm,suboptimal,zero flux,dispensible
+YJR078W,amm,suboptimal,zero flux,dispensible
+YGL026C,amm,suboptimal,constrained,dispensible
+YOL097C,amm,suboptimal,zero flux,essential
+YDR268W,amm,suboptimal,zero flux,dispensible
+YGR185C,amm,suboptimal,zero flux,essential
+YPL097W,amm,suboptimal,zero flux,dispensible
+YDL103C,amm,suboptimal,zero flux,essential
+YBR019C,amm,suboptimal,zero flux,dispensible
+YIR032C,amm,suboptimal,zero flux,dispensible
+YKR069W,amm,suboptimal,zero flux,dispensible
+YOR278W,amm,suboptimal,zero flux,essential
+YDR047W,amm,suboptimal,zero flux,essential
+YBR021W,amm,suboptimal,zero flux,dispensible
+YHL016C,amm,suboptimal,zero flux,dispensible
+YBL042C,amm,suboptimal,zero flux,dispensible
+YJR133W,amm,suboptimal,zero flux,dispensible
+YGR194C,amm,suboptimal,zero flux,dispensible
+YLR070C,amm,suboptimal,zero flux,dispensible
+YGR282C,glc,optimal,zero flux,dispensible
+YBR265W,glc,optimal,zero flux,essential
+YJR025C,glc,optimal,zero flux,dispensible
+YGR019W,glc,optimal,zero flux,dispensible
+YFL017C,glc,optimal,zero flux,essential
+YBL015W,glc,optimal,variable,dispensible
+YPL148C,glc,optimal,zero flux,dispensible
+YLR153C,glc,optimal,zero flux,essential
+YCR032W,glc,optimal,zero flux,dispensible
+YNR033W,glc,optimal,zero flux,dispensible
+YOL052C,glc,optimal,zero flux,dispensible
+YJL005W,glc,optimal,zero flux,essential
+YJR105W,glc,optimal,variable,dispensible
+YKL001C,glc,optimal,constrained,dispensible
+YDL052C,glc,optimal,constrained,dispensible
+YFL030W,glc,optimal,zero flux,dispensible
+YER043C,glc,optimal,constrained,essential
+YOR128C,glc,optimal,constrained,dispensible
+YDR481C,glc,optimal,zero flux,dispensible
+YDR232W,glc,optimal,zero flux,essential
+YDR111C,glc,optimal,variable,dispensible
+YLR089C,glc,optimal,zero flux,dispensible
+YOR335C,glc,optimal,zero flux,essential
+YMR083W,glc,optimal,zero flux,dispensible
+YIR029W,glc,optimal,zero flux,dispensible
+YIR027C,glc,optimal,zero flux,dispensible
+YIR028W,glc,optimal,zero flux,dispensible
+YJR152W,glc,optimal,zero flux,dispensible
+YNR058W,glc,optimal,zero flux,dispensible
+YPL274W,glc,optimal,zero flux,dispensible
+YDR354W,glc,optimal,constrained,dispensible
+YDR305C,glc,optimal,zero flux,dispensible
+YPL111W,glc,optimal,zero flux,dispensible
+YHR018C,glc,optimal,constrained,dispensible
+YOL058W,glc,optimal,constrained,dispensible
+YDR341C,glc,optimal,zero flux,essential
+YHR091C,glc,optimal,zero flux,dispensible
+YBR034C,glc,optimal,zero flux,dispensible
+YDR158W,glc,optimal,variable,dispensible
+YDR321W,glc,optimal,zero flux,dispensible
+YHR019C,glc,optimal,zero flux,essential
+YCR024C,glc,optimal,zero flux,dispensible
+YER052C,glc,optimal,variable,dispensible
+YLL018C,glc,optimal,zero flux,essential
+YPL104W,glc,optimal,zero flux,dispensible
+YDR530C,glc,optimal,zero flux,dispensible
+YER055C,glc,optimal,constrained,dispensible
+YOL064C,glc,optimal,variable,dispensible
+YGR286C,glc,optimal,zero flux,dispensible
+YNL280C,glc,optimal,constrained,dispensible
+YMR015C,glc,optimal,zero flux,dispensible
+YGL012W,glc,optimal,constrained,dispensible
+YLR056W,glc,optimal,zero flux,dispensible
+YMR202W,glc,optimal,zero flux,dispensible
+YGR088W,glc,optimal,zero flux,dispensible
+YDR256C,glc,optimal,zero flux,dispensible
+YCL004W,glc,optimal,zero flux,essential
+YGR202C,glc,optimal,zero flux,dispensible
+YGL077C,glc,optimal,zero flux,dispensible
+YLR133W,glc,optimal,zero flux,dispensible
+YPR060C,glc,optimal,constrained,dispensible
+YGL148W,glc,optimal,constrained,dispensible
+YDL142C,glc,optimal,zero flux,dispensible
+YDR044W,glc,optimal,zero flux,essential
+YOR100C,glc,optimal,zero flux,dispensible
+YBR132C,glc,optimal,zero flux,dispensible
+YAR035W,glc,optimal,zero flux,dispensible
+YPR062W,glc,optimal,zero flux,dispensible
+YCR005C,glc,optimal,zero flux,dispensible
+YGR012W,glc,optimal,constrained,dispensible
+YFR055W,glc,optimal,zero flux,dispensible
+YNL247W,glc,optimal,zero flux,essential
+YGR155W,glc,optimal,zero flux,dispensible
+YNR057C,glc,optimal,zero flux,dispensible
+YLR420W,glc,optimal,zero flux,dispensible
+YLR172C,glc,optimal,zero flux,dispensible
+YOL096C,glc,optimal,zero flux,dispensible
+YDL100C,glc,optimal,zero flux,dispensible
+YMR013C,glc,optimal,zero flux,essential
+YPR183W,glc,optimal,constrained,essential
+YNR043W,glc,optimal,constrained,essential
+YJR057W,glc,optimal,zero flux,essential
+YBR252W,glc,optimal,zero flux,essential
+YHR068W,glc,optimal,zero flux,essential
+YDL174C,glc,optimal,zero flux,dispensible
+YDR147W,glc,optimal,zero flux,dispensible
+YIL134W,glc,optimal,constrained,dispensible
+YLR372W,glc,optimal,zero flux,dispensible
+YLR377C,glc,optimal,zero flux,dispensible
+YJL155C,glc,optimal,zero flux,dispensible
+YOR176W,glc,optimal,zero flux,essential
+YBL013W,glc,optimal,zero flux,dispensible
+YDL045C,glc,optimal,constrained,essential
+YEL047C,glc,optimal,variable,dispensible
+YJR051W,glc,optimal,zero flux,dispensible
+YER183C,glc,optimal,zero flux,dispensible
+YDL022W,glc,optimal,variable,dispensible
+YOL059W,glc,optimal,zero flux,dispensible
+YIL155C,glc,optimal,zero flux,dispensible
+YNL241C,glc,optimal,zero flux,dispensible
+YBR020W,glc,optimal,zero flux,dispensible
+YDR408C,glc,optimal,constrained,dispensible
+YEL011W,glc,optimal,zero flux,dispensible
+YLR058C,glc,optimal,variable,dispensible
+YBR263W,glc,optimal,variable,dispensible
+YPR160W,glc,optimal,zero flux,dispensible
+YPR035W,glc,optimal,constrained,essential
+YOR168W,glc,optimal,zero flux,essential
+YLR195C,glc,optimal,zero flux,essential
+YDR300C,glc,optimal,variable,dispensible
+YJL101C,glc,optimal,zero flux,dispensible
+YMR250W,glc,optimal,zero flux,dispensible
+YDL215C,glc,optimal,variable,dispensible
+YMR300C,glc,optimal,constrained,dispensible
+YDL171C,glc,optimal,zero flux,dispensible
+YGL245W,glc,optimal,zero flux,essential
+YOL033W,glc,optimal,zero flux,dispensible
+YLL043W,glc,optimal,zero flux,dispensible
+YHL032C,glc,optimal,zero flux,dispensible
+YDR272W,glc,optimal,zero flux,dispensible
+YOR040W,glc,optimal,zero flux,dispensible
+YMR217W,glc,optimal,constrained,dispensible
+YPL091W,glc,optimal,zero flux,dispensible
+YOL049W,glc,optimal,zero flux,dispensible
+YLR299W,glc,optimal,zero flux,dispensible
+YBL033C,glc,optimal,zero flux,dispensible
+YGR267C,glc,optimal,zero flux,essential
+YDR234W,glc,optimal,constrained,dispensible
+YFR025C,glc,optimal,constrained,dispensible
+YDL205C,glc,optimal,zero flux,essential
+YNL277W,glc,optimal,variable,dispensible
+YHR025W,glc,optimal,zero flux,dispensible
+YIL116W,glc,optimal,constrained,dispensible
+YLR174W,glc,optimal,zero flux,dispensible
+YDL066W,glc,optimal,variable,dispensible
+YNL009W,glc,optimal,zero flux,dispensible
+YER065C,glc,optimal,zero flux,dispensible
+YBR248C,glc,optimal,constrained,dispensible
+YOR202W,glc,optimal,constrained,dispensible
+YBL076C,glc,optimal,zero flux,essential
+YPL040C,glc,optimal,zero flux,dispensible
+YDR380W,glc,optimal,zero flux,dispensible
+YPL117C,glc,optimal,constrained,essential
+YBL098W,glc,optimal,zero flux,dispensible
+YPL160W,glc,optimal,zero flux,essential
+YLR382C,glc,optimal,zero flux,dispensible
+YML004C,glc,optimal,zero flux,dispensible
+YHR007C,glc,optimal,constrained,essential
+YHR072W,glc,optimal,constrained,essential
+YDR037W,glc,optimal,zero flux,essential
+YNL073W,glc,optimal,zero flux,dispensible
+YML054C,glc,optimal,zero flux,dispensible
+YDL055C,glc,optimal,constrained,essential
+YER003C,glc,optimal,constrained,essential
+YPR006C,glc,optimal,zero flux,dispensible
+YOL126C,glc,optimal,variable,dispensible
+YKL085W,glc,optimal,variable,dispensible
+YDL078C,glc,optimal,zero flux,dispensible
+YJR130C,glc,optimal,zero flux,dispensible
+YGR264C,glc,optimal,zero flux,essential
+YGR171C,glc,optimal,zero flux,dispensible
+YHR046C,glc,optimal,constrained,dispensible
+YJL153C,glc,optimal,constrained,dispensible
+YLL061W,glc,optimal,zero flux,dispensible
+YBR176W,glc,optimal,zero flux,dispensible
+YKR080W,glc,optimal,zero flux,dispensible
+YGL067W,glc,optimal,zero flux,dispensible
+YLR138W,glc,optimal,zero flux,dispensible
+YEL042W,glc,optimal,zero flux,dispensible
+YGR010W,glc,optimal,zero flux,dispensible
+YKL120W,glc,optimal,variable,dispensible
+YJL088W,glc,optimal,constrained,dispensible
+YPL266W,glc,optimal,zero flux,essential
+YML110C,glc,optimal,zero flux,dispensible
+YDR538W,glc,optimal,zero flux,dispensible
+YKL184W,glc,optimal,zero flux,dispensible
+YLR438W,glc,optimal,zero flux,dispensible
+YOR130C,glc,optimal,constrained,dispensible
+YIL145C,glc,optimal,zero flux,dispensible
+YPR167C,glc,optimal,constrained,dispensible
+YKR093W,glc,optimal,zero flux,dispensible
+YGR007W,glc,optimal,zero flux,dispensible
+YGR157W,glc,optimal,constrained,dispensible
+YCR012W,glc,optimal,variable,essential
+YPR047W,glc,optimal,zero flux,dispensible
+YPL268W,glc,optimal,zero flux,dispensible
+YPR113W,glc,optimal,constrained,essential
+YER053C,glc,optimal,variable,dispensible
+YFL045C,glc,optimal,constrained,essential
+YMR220W,glc,optimal,constrained,essential
+YDR531W,glc,optimal,zero flux,essential
+YCR028C,glc,optimal,zero flux,dispensible
+YBR011C,glc,optimal,constrained,essential
+YMR267W,glc,optimal,zero flux,dispensible
+YGL040C,glc,optimal,zero flux,essential
+YKR097W,glc,optimal,zero flux,dispensible
+YBR166C,glc,optimal,variable,dispensible
+YNL316C,glc,optimal,constrained,dispensible
+YER014W,glc,optimal,zero flux,dispensible
+YDR007W,glc,optimal,constrained,dispensible
+YAR015W,glc,optimal,constrained,dispensible
+YGR061C,glc,optimal,constrained,dispensible
+YIL020C,glc,optimal,constrained,dispensible
+YLR142W,glc,optimal,zero flux,dispensible
+YNL169C,glc,optimal,variable,dispensible
+YGR208W,glc,optimal,variable,dispensible
+YOL143C,glc,optimal,zero flux,dispensible
+YBR256C,glc,optimal,zero flux,essential
+YJL121C,glc,optimal,variable,dispensible
+YOR095C,glc,optimal,constrained,essential
+YNR050C,glc,optimal,constrained,dispensible
+YIR034C,glc,optimal,constrained,dispensible
+YJR010W,glc,optimal,zero flux,dispensible
+YML008C,glc,optimal,zero flux,dispensible
+YJL068C,glc,optimal,zero flux,dispensible
+YPR069C,glc,optimal,zero flux,dispensible
+YLR146C,glc,optimal,zero flux,dispensible
+YGR175C,glc,optimal,constrained,essential
+YHR190W,glc,optimal,constrained,essential
+YIL162W,glc,optimal,zero flux,dispensible
+YEL046C,glc,optimal,variable,dispensible
+YER086W,glc,optimal,constrained,dispensible
+YIL078W,glc,optimal,zero flux,essential
+YKL194C,glc,optimal,zero flux,dispensible
+YOR074C,glc,optimal,constrained,essential
+YDR050C,glc,optimal,variable,essential
+YDR353W,glc,optimal,constrained,essential
+YHR106W,glc,optimal,zero flux,dispensible
+YPR026W,glc,optimal,zero flux,dispensible
+YJR078W,glc,optimal,zero flux,dispensible
+YGL026C,glc,optimal,constrained,dispensible
+YOL097C,glc,optimal,zero flux,essential
+YDR268W,glc,optimal,zero flux,dispensible
+YGR185C,glc,optimal,zero flux,essential
+YPL097W,glc,optimal,zero flux,dispensible
+YDL103C,glc,optimal,zero flux,essential
+YBR019C,glc,optimal,zero flux,dispensible
+YIR032C,glc,optimal,zero flux,dispensible
+YKR069W,glc,optimal,zero flux,dispensible
+YOR278W,glc,optimal,zero flux,essential
+YDR047W,glc,optimal,zero flux,essential
+YBR021W,glc,optimal,zero flux,dispensible
+YHL016C,glc,optimal,zero flux,dispensible
+YBL042C,glc,optimal,zero flux,dispensible
+YJR133W,glc,optimal,zero flux,dispensible
+YGR194C,glc,optimal,zero flux,dispensible
+YLR070C,glc,optimal,zero flux,dispensible
+YGR282C,glc,suboptimal,zero flux,dispensible
+YBR265W,glc,suboptimal,zero flux,essential
+YJR025C,glc,suboptimal,zero flux,dispensible
+YGR019W,glc,suboptimal,zero flux,dispensible
+YFL017C,glc,suboptimal,zero flux,essential
+YBL015W,glc,suboptimal,variable,dispensible
+YPL148C,glc,suboptimal,zero flux,dispensible
+YLR153C,glc,suboptimal,zero flux,essential
+YCR032W,glc,suboptimal,zero flux,dispensible
+YNR033W,glc,suboptimal,constrained,dispensible
+YOL052C,glc,suboptimal,zero flux,dispensible
+YJL005W,glc,suboptimal,zero flux,essential
+YJR105W,glc,suboptimal,variable,dispensible
+YKL001C,glc,suboptimal,constrained,dispensible
+YDL052C,glc,suboptimal,constrained,dispensible
+YFL030W,glc,suboptimal,zero flux,dispensible
+YER043C,glc,suboptimal,constrained,essential
+YOR128C,glc,suboptimal,constrained,dispensible
+YDR481C,glc,suboptimal,zero flux,dispensible
+YDR232W,glc,suboptimal,zero flux,essential
+YDR111C,glc,suboptimal,variable,dispensible
+YLR089C,glc,suboptimal,zero flux,dispensible
+YOR335C,glc,suboptimal,zero flux,essential
+YMR083W,glc,suboptimal,zero flux,dispensible
+YIR029W,glc,suboptimal,zero flux,dispensible
+YIR027C,glc,suboptimal,zero flux,dispensible
+YIR028W,glc,suboptimal,zero flux,dispensible
+YJR152W,glc,suboptimal,zero flux,dispensible
+YNR058W,glc,suboptimal,zero flux,dispensible
+YPL274W,glc,suboptimal,zero flux,dispensible
+YDR354W,glc,suboptimal,constrained,dispensible
+YDR305C,glc,suboptimal,zero flux,dispensible
+YPL111W,glc,suboptimal,zero flux,dispensible
+YHR018C,glc,suboptimal,constrained,dispensible
+YOL058W,glc,suboptimal,constrained,dispensible
+YDR341C,glc,suboptimal,zero flux,essential
+YHR091C,glc,suboptimal,zero flux,dispensible
+YBR034C,glc,suboptimal,zero flux,dispensible
+YDR158W,glc,suboptimal,zero flux,dispensible
+YDR321W,glc,suboptimal,zero flux,dispensible
+YHR019C,glc,suboptimal,zero flux,essential
+YCR024C,glc,suboptimal,zero flux,dispensible
+YER052C,glc,suboptimal,zero flux,dispensible
+YLL018C,glc,suboptimal,zero flux,essential
+YPL104W,glc,suboptimal,zero flux,dispensible
+YDR530C,glc,suboptimal,zero flux,dispensible
+YER055C,glc,suboptimal,constrained,dispensible
+YOL064C,glc,suboptimal,variable,dispensible
+YGR286C,glc,suboptimal,zero flux,dispensible
+YNL280C,glc,suboptimal,constrained,dispensible
+YMR015C,glc,suboptimal,zero flux,dispensible
+YGL012W,glc,suboptimal,constrained,dispensible
+YLR056W,glc,suboptimal,zero flux,dispensible
+YMR202W,glc,suboptimal,zero flux,dispensible
+YGR088W,glc,suboptimal,variable,dispensible
+YDR256C,glc,suboptimal,zero flux,dispensible
+YCL004W,glc,suboptimal,zero flux,essential
+YGR202C,glc,suboptimal,zero flux,dispensible
+YGL077C,glc,suboptimal,zero flux,dispensible
+YLR133W,glc,suboptimal,zero flux,dispensible
+YPR060C,glc,suboptimal,constrained,dispensible
+YGL148W,glc,suboptimal,constrained,dispensible
+YDL142C,glc,suboptimal,zero flux,dispensible
+YDR044W,glc,suboptimal,zero flux,essential
+YOR100C,glc,suboptimal,zero flux,dispensible
+YBR132C,glc,suboptimal,zero flux,dispensible
+YAR035W,glc,suboptimal,zero flux,dispensible
+YPR062W,glc,suboptimal,zero flux,dispensible
+YCR005C,glc,suboptimal,zero flux,dispensible
+YGR012W,glc,suboptimal,variable,dispensible
+YAL012W,glc,suboptimal,variable,dispensible
+YFR055W,glc,suboptimal,variable,dispensible
+YNL247W,glc,suboptimal,zero flux,essential
+YGR155W,glc,suboptimal,zero flux,dispensible
+YNR057C,glc,suboptimal,zero flux,dispensible
+YLR420W,glc,suboptimal,zero flux,dispensible
+YLR172C,glc,suboptimal,zero flux,dispensible
+YOL096C,glc,suboptimal,zero flux,dispensible
+YDL100C,glc,suboptimal,constrained,dispensible
+YMR013C,glc,suboptimal,zero flux,essential
+YPR183W,glc,suboptimal,constrained,essential
+YNR043W,glc,suboptimal,constrained,essential
+YJR057W,glc,suboptimal,zero flux,essential
+YBR252W,glc,suboptimal,zero flux,essential
+YHR068W,glc,suboptimal,zero flux,essential
+YDL174C,glc,suboptimal,zero flux,dispensible
+YDR147W,glc,suboptimal,zero flux,dispensible
+YIL134W,glc,suboptimal,zero flux,dispensible
+YLR372W,glc,suboptimal,zero flux,dispensible
+YLR377C,glc,suboptimal,zero flux,dispensible
+YJL155C,glc,suboptimal,zero flux,dispensible
+YOR176W,glc,suboptimal,zero flux,essential
+YBL013W,glc,suboptimal,zero flux,dispensible
+YDL045C,glc,suboptimal,zero flux,essential
+YEL047C,glc,suboptimal,variable,dispensible
+YJR051W,glc,suboptimal,zero flux,dispensible
+YER183C,glc,suboptimal,zero flux,dispensible
+YDL022W,glc,suboptimal,zero flux,dispensible
+YOL059W,glc,suboptimal,zero flux,dispensible
+YIL155C,glc,suboptimal,zero flux,dispensible
+YNL241C,glc,suboptimal,zero flux,dispensible
+YBR020W,glc,suboptimal,zero flux,dispensible
+YDR408C,glc,suboptimal,constrained,dispensible
+YEL011W,glc,suboptimal,zero flux,dispensible
+YLR058C,glc,suboptimal,variable,dispensible
+YBR263W,glc,suboptimal,variable,dispensible
+YPR160W,glc,suboptimal,zero flux,dispensible
+YPR035W,glc,suboptimal,constrained,essential
+YOR168W,glc,suboptimal,zero flux,essential
+YLR195C,glc,suboptimal,zero flux,essential
+YDR300C,glc,suboptimal,variable,dispensible
+YJL101C,glc,suboptimal,zero flux,dispensible
+YMR250W,glc,suboptimal,zero flux,dispensible
+YDL215C,glc,suboptimal,zero flux,dispensible
+YMR300C,glc,suboptimal,constrained,dispensible
+YDL171C,glc,suboptimal,zero flux,dispensible
+YGL245W,glc,suboptimal,zero flux,essential
+YOL033W,glc,suboptimal,zero flux,dispensible
+YLL043W,glc,suboptimal,zero flux,dispensible
+YHL032C,glc,suboptimal,zero flux,dispensible
+YDR272W,glc,suboptimal,zero flux,dispensible
+YOR040W,glc,suboptimal,zero flux,dispensible
+YMR217W,glc,suboptimal,constrained,dispensible
+YPL091W,glc,suboptimal,zero flux,dispensible
+YOL049W,glc,suboptimal,zero flux,dispensible
+YLR299W,glc,suboptimal,zero flux,dispensible
+YBL033C,glc,suboptimal,zero flux,dispensible
+YGR267C,glc,suboptimal,constrained,essential
+YDR234W,glc,suboptimal,constrained,dispensible
+YFR025C,glc,suboptimal,constrained,dispensible
+YDL205C,glc,suboptimal,zero flux,essential
+YNL277W,glc,suboptimal,zero flux,dispensible
+YHR025W,glc,suboptimal,zero flux,dispensible
+YIL116W,glc,suboptimal,constrained,dispensible
+YLR174W,glc,suboptimal,zero flux,dispensible
+YDL066W,glc,suboptimal,variable,dispensible
+YNL009W,glc,suboptimal,zero flux,dispensible
+YER065C,glc,suboptimal,zero flux,dispensible
+YBR248C,glc,suboptimal,constrained,dispensible
+YOR202W,glc,suboptimal,constrained,dispensible
+YBL076C,glc,suboptimal,zero flux,essential
+YPL040C,glc,suboptimal,zero flux,dispensible
+YDR380W,glc,suboptimal,zero flux,dispensible
+YPL117C,glc,suboptimal,constrained,essential
+YBL098W,glc,suboptimal,zero flux,dispensible
+YPL160W,glc,suboptimal,zero flux,essential
+YLR382C,glc,suboptimal,zero flux,dispensible
+YML004C,glc,suboptimal,zero flux,dispensible
+YHR007C,glc,suboptimal,constrained,essential
+YHR072W,glc,suboptimal,constrained,essential
+YDR037W,glc,suboptimal,zero flux,essential
+YNL073W,glc,suboptimal,zero flux,dispensible
+YML054C,glc,suboptimal,zero flux,dispensible
+YDL055C,glc,suboptimal,constrained,essential
+YER003C,glc,suboptimal,constrained,essential
+YPR006C,glc,suboptimal,zero flux,dispensible
+YOL126C,glc,suboptimal,variable,dispensible
+YKL085W,glc,suboptimal,variable,dispensible
+YDL078C,glc,suboptimal,zero flux,dispensible
+YJR130C,glc,suboptimal,zero flux,dispensible
+YGR264C,glc,suboptimal,zero flux,essential
+YGR171C,glc,suboptimal,zero flux,dispensible
+YHR046C,glc,suboptimal,constrained,dispensible
+YJL153C,glc,suboptimal,constrained,dispensible
+YLL061W,glc,suboptimal,zero flux,dispensible
+YBR176W,glc,suboptimal,zero flux,dispensible
+YKR080W,glc,suboptimal,variable,dispensible
+YGL067W,glc,suboptimal,zero flux,dispensible
+YLR138W,glc,suboptimal,zero flux,dispensible
+YEL042W,glc,suboptimal,zero flux,dispensible
+YGR010W,glc,suboptimal,zero flux,dispensible
+YJL088W,glc,suboptimal,constrained,dispensible
+YPL266W,glc,suboptimal,zero flux,essential
+YML110C,glc,suboptimal,zero flux,dispensible
+YDR538W,glc,suboptimal,zero flux,dispensible
+YKL184W,glc,suboptimal,zero flux,dispensible
+YLR438W,glc,suboptimal,variable,dispensible
+YOR130C,glc,suboptimal,variable,dispensible
+YIL145C,glc,suboptimal,zero flux,dispensible
+YPR167C,glc,suboptimal,constrained,dispensible
+YKR093W,glc,suboptimal,zero flux,dispensible
+YGR007W,glc,suboptimal,zero flux,dispensible
+YGR157W,glc,suboptimal,constrained,dispensible
+YCR012W,glc,suboptimal,variable,essential
+YPR047W,glc,suboptimal,zero flux,dispensible
+YPL268W,glc,suboptimal,zero flux,dispensible
+YPR113W,glc,suboptimal,constrained,essential
+YER053C,glc,suboptimal,variable,dispensible
+YFL045C,glc,suboptimal,constrained,essential
+YMR220W,glc,suboptimal,constrained,essential
+YDR531W,glc,suboptimal,zero flux,essential
+YCR028C,glc,suboptimal,zero flux,dispensible
+YBR011C,glc,suboptimal,constrained,essential
+YMR267W,glc,suboptimal,zero flux,dispensible
+YGL040C,glc,suboptimal,zero flux,essential
+YKR097W,glc,suboptimal,zero flux,dispensible
+YBR166C,glc,suboptimal,variable,dispensible
+YNL316C,glc,suboptimal,constrained,dispensible
+YER014W,glc,suboptimal,zero flux,dispensible
+YDR007W,glc,suboptimal,constrained,dispensible
+YAR015W,glc,suboptimal,constrained,dispensible
+YGR061C,glc,suboptimal,constrained,dispensible
+YIL020C,glc,suboptimal,constrained,dispensible
+YLR142W,glc,suboptimal,zero flux,dispensible
+YNL169C,glc,suboptimal,variable,dispensible
+YGR208W,glc,suboptimal,variable,dispensible
+YOL143C,glc,suboptimal,zero flux,dispensible
+YBR256C,glc,suboptimal,zero flux,essential
+YJL121C,glc,suboptimal,variable,dispensible
+YOR095C,glc,suboptimal,constrained,essential
+YNR050C,glc,suboptimal,constrained,dispensible
+YIR034C,glc,suboptimal,constrained,dispensible
+YJR010W,glc,suboptimal,zero flux,dispensible
+YML008C,glc,suboptimal,zero flux,dispensible
+YJL068C,glc,suboptimal,zero flux,dispensible
+YPR069C,glc,suboptimal,zero flux,dispensible
+YLR146C,glc,suboptimal,zero flux,dispensible
+YGR175C,glc,suboptimal,constrained,essential
+YHR190W,glc,suboptimal,constrained,essential
+YIL162W,glc,suboptimal,zero flux,dispensible
+YEL046C,glc,suboptimal,variable,dispensible
+YER086W,glc,suboptimal,constrained,dispensible
+YIL078W,glc,suboptimal,zero flux,essential
+YKL194C,glc,suboptimal,zero flux,dispensible
+YOR074C,glc,suboptimal,constrained,essential
+YDR050C,glc,suboptimal,variable,essential
+YDR353W,glc,suboptimal,constrained,essential
+YHR106W,glc,suboptimal,zero flux,dispensible
+YPR026W,glc,suboptimal,zero flux,dispensible
+YJR078W,glc,suboptimal,zero flux,dispensible
+YGL026C,glc,suboptimal,constrained,dispensible
+YOL097C,glc,suboptimal,zero flux,essential
+YDR268W,glc,suboptimal,zero flux,dispensible
+YGR185C,glc,suboptimal,zero flux,essential
+YPL097W,glc,suboptimal,zero flux,dispensible
+YDL103C,glc,suboptimal,zero flux,essential
+YBR019C,glc,suboptimal,zero flux,dispensible
+YIR032C,glc,suboptimal,zero flux,dispensible
+YKR069W,glc,suboptimal,zero flux,dispensible
+YOR278W,glc,suboptimal,zero flux,essential
+YDR047W,glc,suboptimal,zero flux,essential
+YBR021W,glc,suboptimal,zero flux,dispensible
+YHL016C,glc,suboptimal,zero flux,dispensible
+YBL042C,glc,suboptimal,zero flux,dispensible
+YJR133W,glc,suboptimal,zero flux,dispensible
+YGR194C,glc,suboptimal,zero flux,dispensible
+YLR070C,glc,suboptimal,zero flux,dispensible
+YGR282C,sul,optimal,zero flux,dispensible
+YBR265W,sul,optimal,zero flux,essential
+YJR025C,sul,optimal,zero flux,dispensible
+YGR019W,sul,optimal,zero flux,dispensible
+YFL017C,sul,optimal,zero flux,essential
+YBL015W,sul,optimal,variable,dispensible
+YPL148C,sul,optimal,zero flux,dispensible
+YLR153C,sul,optimal,zero flux,essential
+YCR032W,sul,optimal,zero flux,dispensible
+YNR033W,sul,optimal,zero flux,dispensible
+YOL052C,sul,optimal,zero flux,dispensible
+YJL005W,sul,optimal,zero flux,essential
+YJR105W,sul,optimal,zero flux,dispensible
+YKL001C,sul,optimal,constrained,dispensible
+YDL052C,sul,optimal,constrained,dispensible
+YFL030W,sul,optimal,zero flux,dispensible
+YER043C,sul,optimal,constrained,essential
+YOR128C,sul,optimal,constrained,dispensible
+YDR481C,sul,optimal,zero flux,dispensible
+YDR232W,sul,optimal,zero flux,essential
+YDR111C,sul,optimal,variable,dispensible
+YLR089C,sul,optimal,zero flux,dispensible
+YOR335C,sul,optimal,zero flux,essential
+YMR083W,sul,optimal,variable,dispensible
+YIR029W,sul,optimal,zero flux,dispensible
+YIR027C,sul,optimal,zero flux,dispensible
+YIR028W,sul,optimal,zero flux,dispensible
+YJR152W,sul,optimal,zero flux,dispensible
+YNR058W,sul,optimal,zero flux,dispensible
+YPL274W,sul,optimal,zero flux,dispensible
+YDR354W,sul,optimal,constrained,dispensible
+YDR305C,sul,optimal,zero flux,dispensible
+YPL111W,sul,optimal,zero flux,dispensible
+YHR018C,sul,optimal,constrained,dispensible
+YOL058W,sul,optimal,constrained,dispensible
+YDR341C,sul,optimal,zero flux,essential
+YHR091C,sul,optimal,zero flux,dispensible
+YBR034C,sul,optimal,zero flux,dispensible
+YDR158W,sul,optimal,variable,dispensible
+YDR321W,sul,optimal,zero flux,dispensible
+YHR019C,sul,optimal,zero flux,essential
+YCR024C,sul,optimal,zero flux,dispensible
+YER052C,sul,optimal,variable,dispensible
+YLL018C,sul,optimal,zero flux,essential
+YPL104W,sul,optimal,zero flux,dispensible
+YDR530C,sul,optimal,zero flux,dispensible
+YER055C,sul,optimal,constrained,dispensible
+YOL064C,sul,optimal,variable,dispensible
+YGR286C,sul,optimal,zero flux,dispensible
+YNL280C,sul,optimal,constrained,dispensible
+YMR015C,sul,optimal,zero flux,dispensible
+YGL012W,sul,optimal,constrained,dispensible
+YLR056W,sul,optimal,zero flux,dispensible
+YMR202W,sul,optimal,zero flux,dispensible
+YGR088W,sul,optimal,variable,dispensible
+YDR256C,sul,optimal,zero flux,dispensible
+YCL004W,sul,optimal,zero flux,essential
+YGR202C,sul,optimal,zero flux,dispensible
+YGL077C,sul,optimal,zero flux,dispensible
+YLR133W,sul,optimal,zero flux,dispensible
+YPR060C,sul,optimal,constrained,dispensible
+YGL148W,sul,optimal,constrained,dispensible
+YDL142C,sul,optimal,zero flux,dispensible
+YDR044W,sul,optimal,zero flux,essential
+YOR100C,sul,optimal,zero flux,dispensible
+YBR132C,sul,optimal,zero flux,dispensible
+YAR035W,sul,optimal,zero flux,dispensible
+YPR062W,sul,optimal,zero flux,dispensible
+YCR005C,sul,optimal,zero flux,dispensible
+YGR012W,sul,optimal,constrained,dispensible
+YFR055W,sul,optimal,zero flux,dispensible
+YNL247W,sul,optimal,zero flux,essential
+YGR155W,sul,optimal,zero flux,dispensible
+YNR057C,sul,optimal,zero flux,dispensible
+YLR420W,sul,optimal,zero flux,dispensible
+YLR172C,sul,optimal,zero flux,dispensible
+YOL096C,sul,optimal,zero flux,dispensible
+YDL100C,sul,optimal,zero flux,dispensible
+YMR013C,sul,optimal,zero flux,essential
+YPR183W,sul,optimal,constrained,essential
+YNR043W,sul,optimal,constrained,essential
+YJR057W,sul,optimal,zero flux,essential
+YBR252W,sul,optimal,zero flux,essential
+YHR068W,sul,optimal,zero flux,essential
+YDL174C,sul,optimal,zero flux,dispensible
+YDR147W,sul,optimal,zero flux,dispensible
+YIL134W,sul,optimal,constrained,dispensible
+YLR372W,sul,optimal,zero flux,dispensible
+YLR377C,sul,optimal,variable,dispensible
+YJL155C,sul,optimal,zero flux,dispensible
+YOR176W,sul,optimal,zero flux,essential
+YBL013W,sul,optimal,zero flux,dispensible
+YDL045C,sul,optimal,constrained,essential
+YEL047C,sul,optimal,zero flux,dispensible
+YJR051W,sul,optimal,zero flux,dispensible
+YER183C,sul,optimal,zero flux,dispensible
+YDL022W,sul,optimal,variable,dispensible
+YOL059W,sul,optimal,zero flux,dispensible
+YIL155C,sul,optimal,variable,dispensible
+YNL241C,sul,optimal,variable,dispensible
+YBR020W,sul,optimal,zero flux,dispensible
+YDR408C,sul,optimal,constrained,dispensible
+YEL011W,sul,optimal,zero flux,dispensible
+YLR058C,sul,optimal,variable,dispensible
+YPR160W,sul,optimal,zero flux,dispensible
+YPR035W,sul,optimal,constrained,essential
+YOR168W,sul,optimal,zero flux,essential
+YLR195C,sul,optimal,zero flux,essential
+YDR300C,sul,optimal,variable,dispensible
+YJL101C,sul,optimal,zero flux,dispensible
+YMR250W,sul,optimal,zero flux,dispensible
+YDL215C,sul,optimal,variable,dispensible
+YMR300C,sul,optimal,constrained,dispensible
+YDL171C,sul,optimal,zero flux,dispensible
+YGL245W,sul,optimal,zero flux,essential
+YOL033W,sul,optimal,zero flux,dispensible
+YLL043W,sul,optimal,zero flux,dispensible
+YHL032C,sul,optimal,zero flux,dispensible
+YDR272W,sul,optimal,zero flux,dispensible
+YOR040W,sul,optimal,zero flux,dispensible
+YMR217W,sul,optimal,constrained,dispensible
+YPL091W,sul,optimal,zero flux,dispensible
+YOL049W,sul,optimal,zero flux,dispensible
+YLR299W,sul,optimal,zero flux,dispensible
+YBL033C,sul,optimal,zero flux,dispensible
+YGR267C,sul,optimal,zero flux,essential
+YDR234W,sul,optimal,constrained,dispensible
+YFR025C,sul,optimal,constrained,dispensible
+YDL205C,sul,optimal,zero flux,essential
+YNL277W,sul,optimal,variable,dispensible
+YHR025W,sul,optimal,zero flux,dispensible
+YIL116W,sul,optimal,constrained,dispensible
+YLR174W,sul,optimal,variable,dispensible
+YDL066W,sul,optimal,variable,dispensible
+YNL009W,sul,optimal,zero flux,dispensible
+YER065C,sul,optimal,zero flux,dispensible
+YBR248C,sul,optimal,constrained,dispensible
+YOR202W,sul,optimal,constrained,dispensible
+YBL076C,sul,optimal,zero flux,essential
+YPL040C,sul,optimal,zero flux,dispensible
+YDR380W,sul,optimal,zero flux,dispensible
+YPL117C,sul,optimal,constrained,essential
+YBL098W,sul,optimal,zero flux,dispensible
+YPL160W,sul,optimal,zero flux,essential
+YLR382C,sul,optimal,zero flux,dispensible
+YML004C,sul,optimal,zero flux,dispensible
+YHR007C,sul,optimal,constrained,essential
+YHR072W,sul,optimal,constrained,essential
+YDR037W,sul,optimal,zero flux,essential
+YNL073W,sul,optimal,zero flux,dispensible
+YML054C,sul,optimal,zero flux,dispensible
+YDL055C,sul,optimal,constrained,essential
+YER003C,sul,optimal,constrained,essential
+YPR006C,sul,optimal,zero flux,dispensible
+YOL126C,sul,optimal,variable,dispensible
+YKL085W,sul,optimal,variable,dispensible
+YDL078C,sul,optimal,zero flux,dispensible
+YJR130C,sul,optimal,zero flux,dispensible
+YGR264C,sul,optimal,zero flux,essential
+YGR171C,sul,optimal,zero flux,dispensible
+YHR046C,sul,optimal,constrained,dispensible
+YJL153C,sul,optimal,constrained,dispensible
+YLL061W,sul,optimal,zero flux,dispensible
+YBR176W,sul,optimal,zero flux,dispensible
+YKR080W,sul,optimal,zero flux,dispensible
+YGL067W,sul,optimal,zero flux,dispensible
+YLR138W,sul,optimal,zero flux,dispensible
+YEL042W,sul,optimal,zero flux,dispensible
+YGR010W,sul,optimal,zero flux,dispensible
+YKL120W,sul,optimal,variable,dispensible
+YJL088W,sul,optimal,constrained,dispensible
+YPL266W,sul,optimal,zero flux,essential
+YML110C,sul,optimal,zero flux,dispensible
+YDR538W,sul,optimal,zero flux,dispensible
+YKL184W,sul,optimal,zero flux,dispensible
+YLR438W,sul,optimal,zero flux,dispensible
+YOR130C,sul,optimal,constrained,dispensible
+YIL145C,sul,optimal,zero flux,dispensible
+YPR167C,sul,optimal,constrained,dispensible
+YKR093W,sul,optimal,zero flux,dispensible
+YGR007W,sul,optimal,zero flux,dispensible
+YGR157W,sul,optimal,constrained,dispensible
+YCR012W,sul,optimal,variable,essential
+YPR047W,sul,optimal,zero flux,dispensible
+YPL268W,sul,optimal,zero flux,dispensible
+YPR113W,sul,optimal,constrained,essential
+YJR077C,sul,optimal,variable,dispensible
+YFL045C,sul,optimal,constrained,essential
+YMR220W,sul,optimal,constrained,essential
+YDR531W,sul,optimal,zero flux,essential
+YCR028C,sul,optimal,zero flux,dispensible
+YBR011C,sul,optimal,constrained,essential
+YMR267W,sul,optimal,zero flux,dispensible
+YGL040C,sul,optimal,zero flux,essential
+YKR097W,sul,optimal,zero flux,dispensible
+YBR166C,sul,optimal,variable,dispensible
+YNL316C,sul,optimal,constrained,dispensible
+YER014W,sul,optimal,zero flux,dispensible
+YDR007W,sul,optimal,constrained,dispensible
+YAR015W,sul,optimal,constrained,dispensible
+YGR061C,sul,optimal,constrained,dispensible
+YIL020C,sul,optimal,constrained,dispensible
+YLR142W,sul,optimal,zero flux,dispensible
+YNL169C,sul,optimal,variable,dispensible
+YGR208W,sul,optimal,variable,dispensible
+YOL143C,sul,optimal,zero flux,dispensible
+YBR256C,sul,optimal,zero flux,essential
+YJL121C,sul,optimal,variable,dispensible
+YOR095C,sul,optimal,variable,essential
+YNR050C,sul,optimal,constrained,dispensible
+YIR034C,sul,optimal,constrained,dispensible
+YJR010W,sul,optimal,zero flux,dispensible
+YML008C,sul,optimal,zero flux,dispensible
+YJL068C,sul,optimal,zero flux,dispensible
+YPR069C,sul,optimal,zero flux,dispensible
+YLR146C,sul,optimal,zero flux,dispensible
+YGR175C,sul,optimal,constrained,essential
+YHR190W,sul,optimal,constrained,essential
+YIL162W,sul,optimal,zero flux,dispensible
+YEL046C,sul,optimal,variable,dispensible
+YER086W,sul,optimal,constrained,dispensible
+YIL078W,sul,optimal,zero flux,essential
+YKL194C,sul,optimal,zero flux,dispensible
+YOR074C,sul,optimal,constrained,essential
+YDR050C,sul,optimal,variable,essential
+YDR353W,sul,optimal,constrained,essential
+YHR106W,sul,optimal,zero flux,dispensible
+YPR026W,sul,optimal,zero flux,dispensible
+YJR078W,sul,optimal,zero flux,dispensible
+YGL026C,sul,optimal,constrained,dispensible
+YOL097C,sul,optimal,zero flux,essential
+YDR268W,sul,optimal,zero flux,dispensible
+YGR185C,sul,optimal,zero flux,essential
+YPL097W,sul,optimal,zero flux,dispensible
+YDL103C,sul,optimal,zero flux,essential
+YBR019C,sul,optimal,zero flux,dispensible
+YIR032C,sul,optimal,zero flux,dispensible
+YKR069W,sul,optimal,zero flux,dispensible
+YOR278W,sul,optimal,zero flux,essential
+YDR047W,sul,optimal,zero flux,essential
+YBR021W,sul,optimal,zero flux,dispensible
+YHL016C,sul,optimal,zero flux,dispensible
+YBL042C,sul,optimal,zero flux,dispensible
+YJR133W,sul,optimal,zero flux,dispensible
+YGR194C,sul,optimal,zero flux,dispensible
+YLR070C,sul,optimal,zero flux,dispensible
+YGR282C,sul,suboptimal,zero flux,dispensible
+YBR265W,sul,suboptimal,constrained,essential
+YJR025C,sul,suboptimal,zero flux,dispensible
+YGR019W,sul,suboptimal,zero flux,dispensible
+YFL017C,sul,suboptimal,zero flux,essential
+YBL015W,sul,suboptimal,variable,dispensible
+YPL148C,sul,suboptimal,zero flux,dispensible
+YLR153C,sul,suboptimal,zero flux,essential
+YCR032W,sul,suboptimal,zero flux,dispensible
+YNR033W,sul,suboptimal,zero flux,dispensible
+YOL052C,sul,suboptimal,zero flux,dispensible
+YJL005W,sul,suboptimal,zero flux,essential
+YJR105W,sul,suboptimal,variable,dispensible
+YKL001C,sul,suboptimal,constrained,dispensible
+YDL052C,sul,suboptimal,constrained,dispensible
+YFL030W,sul,suboptimal,zero flux,dispensible
+YER043C,sul,suboptimal,constrained,essential
+YOR128C,sul,suboptimal,constrained,dispensible
+YDR481C,sul,suboptimal,zero flux,dispensible
+YDR232W,sul,suboptimal,zero flux,essential
+YDR111C,sul,suboptimal,variable,dispensible
+YLR089C,sul,suboptimal,zero flux,dispensible
+YOR335C,sul,suboptimal,zero flux,essential
+YMR083W,sul,suboptimal,variable,dispensible
+YIR029W,sul,suboptimal,zero flux,dispensible
+YIR027C,sul,suboptimal,zero flux,dispensible
+YIR028W,sul,suboptimal,zero flux,dispensible
+YJR152W,sul,suboptimal,zero flux,dispensible
+YNR058W,sul,suboptimal,zero flux,dispensible
+YPL274W,sul,suboptimal,zero flux,dispensible
+YDR354W,sul,suboptimal,constrained,dispensible
+YDR305C,sul,suboptimal,zero flux,dispensible
+YPL111W,sul,suboptimal,zero flux,dispensible
+YHR018C,sul,suboptimal,constrained,dispensible
+YOL058W,sul,suboptimal,constrained,dispensible
+YDR341C,sul,suboptimal,zero flux,essential
+YHR091C,sul,suboptimal,zero flux,dispensible
+YBR034C,sul,suboptimal,zero flux,dispensible
+YDR158W,sul,suboptimal,variable,dispensible
+YDR321W,sul,suboptimal,zero flux,dispensible
+YHR019C,sul,suboptimal,zero flux,essential
+YCR024C,sul,suboptimal,zero flux,dispensible
+YER052C,sul,suboptimal,variable,dispensible
+YLL018C,sul,suboptimal,zero flux,essential
+YPL104W,sul,suboptimal,zero flux,dispensible
+YDR530C,sul,suboptimal,zero flux,dispensible
+YER055C,sul,suboptimal,constrained,dispensible
+YOL064C,sul,suboptimal,variable,dispensible
+YGR286C,sul,suboptimal,zero flux,dispensible
+YNL280C,sul,suboptimal,constrained,dispensible
+YMR015C,sul,suboptimal,zero flux,dispensible
+YGL012W,sul,suboptimal,constrained,dispensible
+YLR056W,sul,suboptimal,zero flux,dispensible
+YMR202W,sul,suboptimal,zero flux,dispensible
+YGR088W,sul,suboptimal,variable,dispensible
+YDR256C,sul,suboptimal,zero flux,dispensible
+YCL004W,sul,suboptimal,zero flux,essential
+YGR202C,sul,suboptimal,zero flux,dispensible
+YGL077C,sul,suboptimal,zero flux,dispensible
+YLR133W,sul,suboptimal,zero flux,dispensible
+YPR060C,sul,suboptimal,constrained,dispensible
+YGL148W,sul,suboptimal,constrained,dispensible
+YDL142C,sul,suboptimal,zero flux,dispensible
+YDR044W,sul,suboptimal,zero flux,essential
+YOR100C,sul,suboptimal,zero flux,dispensible
+YBR132C,sul,suboptimal,constrained,dispensible
+YAR035W,sul,suboptimal,variable,dispensible
+YPR062W,sul,suboptimal,zero flux,dispensible
+YCR005C,sul,suboptimal,zero flux,dispensible
+YGR012W,sul,suboptimal,variable,dispensible
+YFR055W,sul,suboptimal,zero flux,dispensible
+YNL247W,sul,suboptimal,zero flux,essential
+YGR155W,sul,suboptimal,zero flux,dispensible
+YNR057C,sul,suboptimal,zero flux,dispensible
+YLR420W,sul,suboptimal,zero flux,dispensible
+YLR172C,sul,suboptimal,zero flux,dispensible
+YOL096C,sul,suboptimal,zero flux,dispensible
+YDL100C,sul,suboptimal,zero flux,dispensible
+YMR013C,sul,suboptimal,zero flux,essential
+YPR183W,sul,suboptimal,constrained,essential
+YNR043W,sul,suboptimal,constrained,essential
+YJR057W,sul,suboptimal,variable,essential
+YBR252W,sul,suboptimal,zero flux,essential
+YHR068W,sul,suboptimal,zero flux,essential
+YDL174C,sul,suboptimal,zero flux,dispensible
+YDR147W,sul,suboptimal,zero flux,dispensible
+YIL134W,sul,suboptimal,constrained,dispensible
+YLR372W,sul,suboptimal,zero flux,dispensible
+YLR377C,sul,suboptimal,zero flux,dispensible
+YJL155C,sul,suboptimal,zero flux,dispensible
+YOR176W,sul,suboptimal,zero flux,essential
+YBL013W,sul,suboptimal,zero flux,dispensible
+YDL045C,sul,suboptimal,constrained,essential
+YEL047C,sul,suboptimal,variable,dispensible
+YJR051W,sul,suboptimal,zero flux,dispensible
+YER183C,sul,suboptimal,zero flux,dispensible
+YDL022W,sul,suboptimal,variable,dispensible
+YOL059W,sul,suboptimal,zero flux,dispensible
+YIL155C,sul,suboptimal,variable,dispensible
+YNL241C,sul,suboptimal,zero flux,dispensible
+YBR020W,sul,suboptimal,zero flux,dispensible
+YDR408C,sul,suboptimal,constrained,dispensible
+YEL011W,sul,suboptimal,variable,dispensible
+YLR058C,sul,suboptimal,variable,dispensible
+YBR263W,sul,suboptimal,variable,dispensible
+YPR160W,sul,suboptimal,zero flux,dispensible
+YPR035W,sul,suboptimal,constrained,essential
+YOR168W,sul,suboptimal,zero flux,essential
+YLR195C,sul,suboptimal,zero flux,essential
+YDR300C,sul,suboptimal,zero flux,dispensible
+YJL101C,sul,suboptimal,zero flux,dispensible
+YMR250W,sul,suboptimal,zero flux,dispensible
+YDL215C,sul,suboptimal,zero flux,dispensible
+YMR300C,sul,suboptimal,constrained,dispensible
+YDL171C,sul,suboptimal,zero flux,dispensible
+YGL245W,sul,suboptimal,zero flux,essential
+YOL033W,sul,suboptimal,zero flux,dispensible
+YLL043W,sul,suboptimal,variable,dispensible
+YHL032C,sul,suboptimal,zero flux,dispensible
+YDR272W,sul,suboptimal,zero flux,dispensible
+YOR040W,sul,suboptimal,zero flux,dispensible
+YMR217W,sul,suboptimal,constrained,dispensible
+YPL091W,sul,suboptimal,variable,dispensible
+YOL049W,sul,suboptimal,zero flux,dispensible
+YLR299W,sul,suboptimal,zero flux,dispensible
+YBL033C,sul,suboptimal,zero flux,dispensible
+YGR267C,sul,suboptimal,zero flux,essential
+YDR234W,sul,suboptimal,constrained,dispensible
+YFR025C,sul,suboptimal,constrained,dispensible
+YDL205C,sul,suboptimal,zero flux,essential
+YNL277W,sul,suboptimal,variable,dispensible
+YHR025W,sul,suboptimal,zero flux,dispensible
+YIL116W,sul,suboptimal,constrained,dispensible
+YLR174W,sul,suboptimal,zero flux,dispensible
+YDL066W,sul,suboptimal,variable,dispensible
+YNL009W,sul,suboptimal,zero flux,dispensible
+YER065C,sul,suboptimal,zero flux,dispensible
+YBR248C,sul,suboptimal,constrained,dispensible
+YOR202W,sul,suboptimal,constrained,dispensible
+YBL076C,sul,suboptimal,zero flux,essential
+YPL040C,sul,suboptimal,zero flux,dispensible
+YDR380W,sul,suboptimal,zero flux,dispensible
+YPL117C,sul,suboptimal,constrained,essential
+YBL098W,sul,suboptimal,zero flux,dispensible
+YPL160W,sul,suboptimal,zero flux,essential
+YLR382C,sul,suboptimal,zero flux,dispensible
+YML004C,sul,suboptimal,zero flux,dispensible
+YHR007C,sul,suboptimal,constrained,essential
+YHR072W,sul,suboptimal,constrained,essential
+YDR037W,sul,suboptimal,zero flux,essential
+YNL073W,sul,suboptimal,zero flux,dispensible
+YML054C,sul,suboptimal,zero flux,dispensible
+YDL055C,sul,suboptimal,constrained,essential
+YER003C,sul,suboptimal,constrained,essential
+YPR006C,sul,suboptimal,zero flux,dispensible
+YOL126C,sul,suboptimal,variable,dispensible
+YDL078C,sul,suboptimal,zero flux,dispensible
+YJR130C,sul,suboptimal,zero flux,dispensible
+YGR264C,sul,suboptimal,zero flux,essential
+YGR171C,sul,suboptimal,zero flux,dispensible
+YHR046C,sul,suboptimal,constrained,dispensible
+YJL153C,sul,suboptimal,constrained,dispensible
+YLL061W,sul,suboptimal,zero flux,dispensible
+YBR176W,sul,suboptimal,zero flux,dispensible
+YKR080W,sul,suboptimal,zero flux,dispensible
+YGL067W,sul,suboptimal,zero flux,dispensible
+YLR138W,sul,suboptimal,zero flux,dispensible
+YEL042W,sul,suboptimal,zero flux,dispensible
+YGR010W,sul,suboptimal,zero flux,dispensible
+YKL120W,sul,suboptimal,variable,dispensible
+YJL088W,sul,suboptimal,constrained,dispensible
+YPL266W,sul,suboptimal,zero flux,essential
+YML110C,sul,suboptimal,zero flux,dispensible
+YDR538W,sul,suboptimal,zero flux,dispensible
+YKL184W,sul,suboptimal,zero flux,dispensible
+YLR438W,sul,suboptimal,variable,dispensible
+YOR130C,sul,suboptimal,variable,dispensible
+YIL145C,sul,suboptimal,zero flux,dispensible
+YPR167C,sul,suboptimal,constrained,dispensible
+YKR093W,sul,suboptimal,zero flux,dispensible
+YGR007W,sul,suboptimal,zero flux,dispensible
+YGR157W,sul,suboptimal,constrained,dispensible
+YPR047W,sul,suboptimal,zero flux,dispensible
+YPL268W,sul,suboptimal,zero flux,dispensible
+YPR113W,sul,suboptimal,constrained,essential
+YJR077C,sul,suboptimal,variable,dispensible
+YER053C,sul,suboptimal,variable,dispensible
+YFL045C,sul,suboptimal,constrained,essential
+YMR220W,sul,suboptimal,constrained,essential
+YDR531W,sul,suboptimal,zero flux,essential
+YCR028C,sul,suboptimal,zero flux,dispensible
+YBR011C,sul,suboptimal,constrained,essential
+YMR267W,sul,suboptimal,zero flux,dispensible
+YGL040C,sul,suboptimal,zero flux,essential
+YKR097W,sul,suboptimal,zero flux,dispensible
+YBR166C,sul,suboptimal,variable,dispensible
+YNL316C,sul,suboptimal,constrained,dispensible
+YER014W,sul,suboptimal,zero flux,dispensible
+YDR007W,sul,suboptimal,constrained,dispensible
+YAR015W,sul,suboptimal,constrained,dispensible
+YGR061C,sul,suboptimal,constrained,dispensible
+YIL020C,sul,suboptimal,constrained,dispensible
+YLR142W,sul,suboptimal,zero flux,dispensible
+YNL169C,sul,suboptimal,variable,dispensible
+YGR208W,sul,suboptimal,variable,dispensible
+YOL143C,sul,suboptimal,zero flux,dispensible
+YBR256C,sul,suboptimal,zero flux,essential
+YJL121C,sul,suboptimal,variable,dispensible
+YOR095C,sul,suboptimal,constrained,essential
+YNR050C,sul,suboptimal,constrained,dispensible
+YIR034C,sul,suboptimal,constrained,dispensible
+YJR010W,sul,suboptimal,zero flux,dispensible
+YML008C,sul,suboptimal,zero flux,dispensible
+YJL068C,sul,suboptimal,zero flux,dispensible
+YPR069C,sul,suboptimal,zero flux,dispensible
+YLR146C,sul,suboptimal,zero flux,dispensible
+YGR175C,sul,suboptimal,constrained,essential
+YHR190W,sul,suboptimal,constrained,essential
+YIL162W,sul,suboptimal,zero flux,dispensible
+YEL046C,sul,suboptimal,variable,dispensible
+YER086W,sul,suboptimal,constrained,dispensible
+YIL078W,sul,suboptimal,zero flux,essential
+YKL194C,sul,suboptimal,zero flux,dispensible
+YOR074C,sul,suboptimal,constrained,essential
+YDR050C,sul,suboptimal,variable,essential
+YDR353W,sul,suboptimal,constrained,essential
+YHR106W,sul,suboptimal,zero flux,dispensible
+YPR026W,sul,suboptimal,zero flux,dispensible
+YJR078W,sul,suboptimal,zero flux,dispensible
+YGL026C,sul,suboptimal,constrained,dispensible
+YOL097C,sul,suboptimal,zero flux,essential
+YDR268W,sul,suboptimal,zero flux,dispensible
+YGR185C,sul,suboptimal,zero flux,essential
+YPL097W,sul,suboptimal,zero flux,dispensible
+YDL103C,sul,suboptimal,zero flux,essential
+YBR019C,sul,suboptimal,zero flux,dispensible
+YIR032C,sul,suboptimal,zero flux,dispensible
+YKR069W,sul,suboptimal,zero flux,dispensible
+YOR278W,sul,suboptimal,zero flux,essential
+YDR047W,sul,suboptimal,zero flux,essential
+YBR021W,sul,suboptimal,zero flux,dispensible
+YHL016C,sul,suboptimal,zero flux,dispensible
+YBL042C,sul,suboptimal,zero flux,dispensible
+YJR133W,sul,suboptimal,zero flux,dispensible
+YGR194C,sul,suboptimal,zero flux,dispensible
+YLR070C,sul,suboptimal,zero flux,dispensible
